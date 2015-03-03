@@ -1,8 +1,12 @@
-markdown: redcarpet
+markdown: kramdown
 highlighter: null
-permalink: /:title
+permalink: pretty
+paginate: 3
 
-url:
+title: "Nerdy blog"
+author: "Tom Artiom Fiodorov"
+email: "a.fiodorov@yahoo.co.uk"
+url: "https://afiodorov.github.io"
 baseurl:
 
 redcarpet:
