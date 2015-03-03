@@ -37,7 +37,7 @@ dig crowninn.nl +short mx | cut -d' ' -f2
 > mail.crowninn.nl.
 ~~~
 
-And now for each above server in we need to make sure the server supports TLS:
+And now for each server above  we need to make sure the server supports TLS:
 
 ~~~ bash
 telnet mail.crowninn.nl 25
