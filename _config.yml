@@ -1,5 +1,4 @@
 markdown: kramdown
-highlighter: null
 permalink: pretty
 paginate: 3
 
