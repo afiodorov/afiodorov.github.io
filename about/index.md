@@ -6,4 +6,38 @@ title: About
 Hi I am Tom A. Fiodorov and this is my personal blog. I like programming and
 maths. Sometimes I write about rationality in a separate [blog][rat].
 
+~~~
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1.4.12 (GNU/Linux)
+
+mQENBFHlspQBCADDAsyMOfjHz88+iLA0DQpXq9id//31dJoLGWVOjg0DImq8PvCW
+6ANDyO1h8wRxb02kr85AYFtrIWLHajNl/CMxfTPXbfCxmgJb4jT2IMCNFDCzAxwD
+B5kLaUwEUx2Kju0DmPbcRrweMQchKRXTfB7k+Flnc9BhTL3ZzNoYDzGMnkmvd/Cz
+leHGHp/9s0/larcK9pa5O2SjHirl+4xTSxz5bg6rVqw//8CQiw12QPHVpaZI/0e+
+0vCHLl4qUZ5hgAvJGgZZMykumH1SKrWPc9agfgMUbGo0z1muz8Bo0M+rbmhW/Euq
+zCu0axoieqgq9x133UpGyEMJxJrEUM1qc44PABEBAAG0JkFydGlvbSBGaW9kb3Jv
+diA8YS5maW9kb3JvdkB1Y2wuYWMudWs+iQE+BBMBAgAoBQJR5bKUAhsjBQkJZgGA
+BgsJCAcDAgYVCAIJCgsEFgIDAQIeAQIXgAAKCRDJDLXYSoxtQHnBB/43qgq4Xtp3
+NIbzZYb6fSUlNiYXzFPh9OV4IRXc/0ZqxExKjd0Nyo/AvXogw2gaMd4SXKdaagsG
+DovYFJboEqowozViTpL+jWRSvbE9GV5yY+fcRbb/SZQZaGUSxnCqyMDcmQbTMyRM
++V23z7793PqOVvr5lYIppID1R0OhIv5D9BK/NtEyjOFsLd1UC0upYab2UyMmQMAa
+aLq5/dXv5ms1AMhLlOuScp4TJ5Vn/UBK5t+KvvK4PEKFD6FuscKvLFvotxCWj1MV
+wVz30jJ2/gsf5Zsr9u/EYHZSGetb1bx3WPXyyCbqo396mtahAcI9QahFiamYsucV
+7E4zybnOzmV5uQENBFHlspQBCADy20qbuteNAne4LS/7fgdunty/MDAu3F7kDZ9B
+dtOoTvCtxpMe+XBs9bm2t1w1lvQzmSZ7Uh9OKw8o8NPaQNu2p7sMQ6CIZHP5mF48
+or5JosIvYxWpSjH9qu2EMp3EeqNf4gb9AWlcI4AN8e/5e/f4AysEvE0lekSDN6ZT
+SC9KSkhpYaaHchKq+VMsrS+EvMIvu3Gqa5tTh1eo4q6nWoy/XDhX/s1a+NMOI5s1
+8VozHnwKLyTY8g0titPHr1ckKvZVlpm519pir2dXnr0QZ8BOm1swdqNAvbr0LIDk
+5CVaGTP2bK7MHLCWrrJcR/fUV8AAzgc4epdKbx1gv0zjH5cVABEBAAGJASUEGAEC
+AA8FAlHlspQCGwwFCQlmAYAACgkQyQy12EqMbUCJ9ggAnW7H2JBCvt32MzlcGV1z
+WMe8iGsXDv6rg/XuL3IG/kkYpCnRpHX5M0CH2bkJPlZz/lZGak8T0m7zmgAT5Wz2
+/kNRGRN5oXLBvU2Nr6YgZRfmyyscylqDieqVxFcFcnbaV31DewTCu0oYD28hHu2i
+V3Jo+tlTxYRDSHRu2K25HEe1i7nAi09CUoAESH6AxevTvEehA86e/MTYfeK7IZDo
+6ALjZrTz6DpSGH3Ngvh/eOV9+0lHAicENr5jz5ExsV8OpCpwLM036SA9dQwnq1WK
+VyLRXRA6kcCosd0cMhzEigYgjJBMCqIe+v/gbMtE0T6lQLeB0eU0NP4hNyCsQeIT
+DA==
+=XMDq
+-----END PGP PUBLIC KEY BLOCK-----
+~~~
+
 [rat]: https://afiodorov.github.io/rationality
