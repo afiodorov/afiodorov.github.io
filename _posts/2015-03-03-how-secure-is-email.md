@@ -17,8 +17,8 @@ Emails were originally plain-text messages passed around open for anyone to
 intercept. Things have changed now and emails are often encrypted.  However the
 encryption is not endpoint to endpoint encryption, it's a point-to-point
 encryption, meaning an email keeps getting decrypted and encrypted while it is
-passed around. For this chain to stay uncompromised every single node should
-use encryption.
+passed around. For this chain to stay uncompromised every node should use
+encryption.
 
 A more complex answer is: as long as you use https web-client[^1], the
 recipient is using https web-client[^2] and the recipient's email server
