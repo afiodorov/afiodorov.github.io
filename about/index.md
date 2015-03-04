@@ -6,6 +6,8 @@ title: About
 Hi I am Tom A. Fiodorov and this is my personal blog. I like programming and
 maths. Sometimes I write about rationality in a separate [blog][rat].
 
+My PGP signature is:
+
 ~~~
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v1.4.12 (GNU/Linux)
