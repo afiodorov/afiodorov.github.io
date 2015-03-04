@@ -27,7 +27,8 @@ won't be intercepted.
 
 How can one check that the recipient's email provider supports encryption?
 
-This works on linux:
+This works on linux. First find out list of servers the email will be delivered
+to using the domain name of the email:
 
 ~~~ bash
 dig crowninn.nl +short mx | cut -d' ' -f2
