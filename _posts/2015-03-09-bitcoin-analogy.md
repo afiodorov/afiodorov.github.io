@@ -98,7 +98,7 @@ A, B, C - lists of transactions.
 ~~~
 
 In the meantime, a crooked miner is working hard to sneak in invalid
-transactions (such as 27) to the block chain. Since majority of the
+transactions (such as 27) to the block chain. Since the majority of the
 participants are honest his messages are ignored by the rest of the miners.
 The following picture occurs:
 
