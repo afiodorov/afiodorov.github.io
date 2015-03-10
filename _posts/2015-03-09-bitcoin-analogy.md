@@ -15,7 +15,8 @@ record of all transactions, also called a chain. In order to determine how much
 money each wallet has surplus and deficit is traced through the history for
 each wallet.
 
-We could even emulate Bitcoins with very little knowledge of cryptography needed.
+We could even emulate Bitcoins with very little knowledge of cryptography
+needed.
 
 Let us create a ledger where the records will be kept. Just a Google document
 will do.  Any kind of transaction can be added to the ledger by anyone, even
@@ -78,12 +79,12 @@ should now be rewarded with 1 bitcoin.
 ~~~
 
 Such message is called a block and the member of the public is referred to
-as a miner. Remember that it is quite difficult to crack email accounts and by
-circulating the message the miner demonstrates that he has done it. This is
-called a proof of work. Since he is doing public a service of verifying
-transactions the rules are that his work should be rewarded with 1 bitcoin.
-This 1 bitcoin just springs into existence and this is why this process is
-called mining.
+as a miner. Remember that it is quite difficult to crack passwords to email
+accounts and by circulating the message the miner demonstrates that he has done
+it. This is called a proof of work. Since he is doing public a service of
+verifying transactions the rules are that his work should be rewarded with 1
+bitcoin.  This 1 bitcoin just springs into existence and this is why this
+process is called mining.
 
 By construction each block is linked to a previous block via an email since
 emails keep referring to each other. Together the blocks form a block chain of
