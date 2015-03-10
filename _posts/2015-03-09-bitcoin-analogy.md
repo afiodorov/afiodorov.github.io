@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bitcoin explanation via email analogy
+title: Bitcoin explanation via an email analogy
 ---
 
 Even though Bitcoins are already old news many still don't quite understand how
