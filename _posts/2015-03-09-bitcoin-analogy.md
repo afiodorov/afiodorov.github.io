@@ -58,10 +58,10 @@ The most interesting part of the Bitcoin architecture is this mechanism which
 prevents double spending. Using an email analogy I will try to illustrate this
 major concept.
 
-We, designers of our toy Bitcoin system, going to add a long list of
+We, designers of our toy Bitcoin system, are going to add a long list of
 emails to the ledger before any transaction has taken place. Using some
-computer program we registered tons of emails but never made a record of
-passwords to any of them. We also going to need a publicly accessible
+computer program we will register tons of emails but never make a record of
+passwords to any of them. We are also going to need a publicly accessible
 email account e.g. chain@gmail.com. Anyone should be granted permission to read
 emails sent to chain@gmail.com.
 
