@@ -121,7 +121,7 @@ a person A transferred Bitcoins to a person B.
 
 In order for this to work consistently the innovative idea of Bitcoins is that
 honest participants overpower crooked miners. In my analogy dishonest miners
-need to be able to crack the email accounts faster then the rest in order to
+need to be able to crack the email accounts faster than the rest in order to
 construct the longest line.  However, they are outnumbered by honest
 participants and their attempts to corrupt the chain are ignored.
 
