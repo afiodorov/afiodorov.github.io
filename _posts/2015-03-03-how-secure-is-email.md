@@ -4,7 +4,7 @@ title: How secure is email
 ---
 
 Yesterday I was in the process of booking something and was asked to email
-my credit card details to confirm a payment. Given that I trust the recipient
+my credit card details to confirm my payment. Given that I trust the recipient
 not to abuse my card should I have complied?
 
 The simple answer is **no**.
