@@ -78,9 +78,9 @@ should now be awarded with 1 bitcoin.
 ~~~
 
 Such message is called a block and the member of the public is referred to
-as miner. Remember that it is quite difficult to crack email accounts and by
+as a miner. Remember that it is quite difficult to crack email accounts and by
 circulating the message the miner demonstrates that he has done it. This is
-called proof of work. Since he is doing public a service of verifying
+called a proof of work. Since he is doing public a service of verifying
 transactions the rules are that his work should be rewarded by 1 bitcoin.
 This 1 bitcoin just springs into existence and this is why this process is
 called mining.
