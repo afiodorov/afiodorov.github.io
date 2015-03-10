@@ -85,10 +85,10 @@ transactions the rules are that his work should be rewarded by 1 bitcoin.
 This 1 bitcoin just springs into existence and this is why this process is
 called mining.
 
-By construction each block is linked to a previous block via an email.
-Together the blocks form a block chain of transactions. If all miners were
-honest the following chain of messages could be observed by the subscribers
-of chain@gmail.com:
+By construction each block is linked to a previous block via an email since
+emails keep referring to each other. Together the blocks form a block chain of
+transactions. If all miners were honest the following chain of messages could
+be observed by the subscribers of chain@gmail.com:
 
 ~~~ text
 (A, email1@gmail.com) <- (B, email2@gmail.com) <- (C, email3@gmail.com)
@@ -115,7 +115,11 @@ double spending. Similarly the miner afterwards ignored **C** and referred to
 (**D**, email4@gmail.com) instead.
 
 We are done: the longest line in the above picture is the valid history, i.e.
-the chain. In order for this to work the major idea of Bitcoins is that the
+the chain. The subscribers to chain@gmail.com can reconstruct a series of
+messages sent by miners and determine a balance of each wallet and whether
+person A transferred Bitcoins to a person B.
+
+In order for this to work consistently the major idea of Bitcoins is that the
 honest participants overpower the crooked miners. In my analogy the dishonest
 miners need to be able to crack the email accounts faster then the rest in
 order to construct the longest line.  However, they are outnumbered by the
