@@ -21,7 +21,7 @@ Let us create a ledger where the records will be kept. Just a Google document
 will do.  Any kind of transaction can be added to the ledger by anyone, even
 an invalid one such as transferring a million from an empty wallet or
 transferring money from someone else's wallet. The act of adding a record is
-called broadcasting. Example:
+called broadcasting. Example of such ledger:
 
 ~~~ text
 ...
