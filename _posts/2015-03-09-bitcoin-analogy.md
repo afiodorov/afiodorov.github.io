@@ -67,7 +67,7 @@ emails sent to chain@gmail.com.
 
 In order to assist us in creating the chain a member of the public cracks a
 password to any email from the list. He circulates a carefully constructed
-message from the cracked email account in the following format (to
+message from the cracked email account in the following format (addressed to
 chain@gmail.com):
 
 ~~~
