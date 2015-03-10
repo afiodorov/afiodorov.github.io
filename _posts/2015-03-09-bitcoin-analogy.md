@@ -73,7 +73,7 @@ chain@gmail.com):
 ~~~
 I recognise transactions 26, 25 and all transactions referred to in the
 previous message sent from email2@gmail.com as valid. By the rules, my wallet XXXX
-should now be awarded with 1 bitcoin.
+should now be rewarded with 1 bitcoin.
 
 ~~~
 
