@@ -87,7 +87,7 @@ bitcoin.  This 1 bitcoin just springs into existence and this is why this
 process is called mining.
 
 By construction each block is linked to a previous block via an email since
-emails keep referring to each other. Together the blocks form a block chain of
+messages keep referring to each other. Together the blocks form a block chain of
 transactions. If all miners were honest the following chain of messages could
 be observed by the subscribers of chain@gmail.com:
 
