@@ -116,13 +116,13 @@ double spending. Similarly the miner afterwards ignored **C** and referred to
 
 We are done: the longest line in the above picture is the valid history, i.e.
 the chain. The subscribers to chain@gmail.com can reconstruct a series of
-messages sent by miners and determine a balance of each wallet and whether
-person A transferred Bitcoins to a person B.
+messages sent by the miners and determine balance of each wallet and whether
+a person A transferred Bitcoins to a person B.
 
-In order for this to work consistently the major idea of Bitcoins is that the
-honest participants overpower the crooked miners. In my analogy the dishonest
-miners need to be able to crack the email accounts faster then the rest in
-order to construct the longest line.  However, they are outnumbered by the
-honest participants and their attempts to corrupt the chain are ignored.
+In order for this to work consistently the major idea of Bitcoins is that
+honest participants overpower crooked miners. In my analogy dishonest miners
+need to be able to crack the email accounts faster then the rest in order to
+construct the longest line.  However, they are outnumbered by honest
+participants and their attempts to corrupt the chain are ignored.
 
 [graham]: http://waitbutwhy.com/2014/11/1000000-grahams-number.html
