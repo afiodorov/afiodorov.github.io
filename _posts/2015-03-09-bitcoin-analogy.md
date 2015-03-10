@@ -15,7 +15,7 @@ record of all transactions, also called a chain. In order to determine how much
 money each wallet has surplus and deficit is traced through the history for
 each wallet.
 
-We can even emulate Bitcoins with very little cryptography needed.
+We could even emulate Bitcoins with very little cryptography needed.
 
 Let us create a ledger where the records will be kept. Just a Google document
 will do.  Any kind of transaction can be added to the ledger by anyone, even
