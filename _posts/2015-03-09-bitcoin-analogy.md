@@ -50,9 +50,9 @@ should looks like this:
 ~~~
 
 However there is another problem: double-spending or spending non-existent
-money. Everyone can now verify that Transaction 27 is coming from the
+money. Everyone can now verify that transaction 27 is coming from the
 legitimate owner of Wallet 1234 but it is certain that Wallet 1234 didn't
-have Graham's number of Bitcoins at the point of broadcasting.
+have Graham's number of Bitcoins at the point of the broadcast.
 
 The most interesting part of the Bitcoin architecture is this mechanism which
 prevents double spending. Using an email analogy I will try to illustrate this
