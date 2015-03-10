@@ -109,7 +109,7 @@ The following picture occurs:
 ~~~
 
 The person who cracked a password to email4@gmail.com decided not to refer to
-email3@gmail.com in his message since he spotted that some transactions in
+email3@gmail.com in his message since he had spotted that some transactions in
 **C** were invalid.  He is an honest miner and he just wants to earn the fee
 and he doesn't like double spending. Similarly the miner afterwards ignored
 **C** and referred to (**D**, email4@gmail.com) instead.
