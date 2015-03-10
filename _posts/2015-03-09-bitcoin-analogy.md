@@ -71,7 +71,7 @@ message from the cracked email account in the following format (to
 chain@gmail.com):
 
 ~~~
-I recognise transaction 26, 25 and all transaction referred to in the
+I recognise transactions 26, 25 and all transactions referred to in the
 previous message sent from email2@gmail.com as valid. By the rules, my wallet XXXX
 should now be awarded with 1 bitcoin.
 
