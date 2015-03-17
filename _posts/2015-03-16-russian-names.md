@@ -3,7 +3,7 @@ layout: post
 title: How to address a Russian?
 ---
 
-Would could be so difficult about assigning labels (a.k.a. names) to people
+What could be so difficult about assigning labels (a.k.a. names) to people
 and using them? Here is how people in the UK think of names:
 
 Name = \\(f(\text{person})\\)
