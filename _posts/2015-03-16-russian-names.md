@@ -169,7 +169,7 @@ because it is just too long.
 
 So had I stayed in Russian-speaking environment a bit longer, I could have
 become "Vadimych" for the rest of my life. And I thought my name was
-Artiom/Tioma.
+Artiom.
 
 # Conclusion
 
