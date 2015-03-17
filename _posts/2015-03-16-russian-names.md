@@ -164,7 +164,7 @@ they keep using "uncle"/"aunt" + short first name.
 Sometimes colleagues drop the Name- part of the Name-Patronymic pair. Moreover,
 colloquially they mangle the patronymic slightly:
 
-"Michal*iov*ich" to "Michlych", throwing away a syllabus from the patronymic
+"Michal*iov*ich" to "Michalych", throwing away a syllabus from the patronymic
 because it is just too long.
 
 So had I stayed in Russian-speaking environment a bit longer, I could have
