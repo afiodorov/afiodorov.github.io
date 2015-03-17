@@ -66,7 +66,7 @@ stick to Tioma, but Tioma doesn't map to English phonetics well, so I decided
 to become Tom.
 
 The full set of rules of how Russians address each other is much more
-convoluted and it's not something I miss. But I am adding it for completion
+convoluted and it's not something I miss. But I am adding it for completeness
 anyway.
 
 # Russian full names
