@@ -169,8 +169,8 @@ colloquially they mangle the patronymic slightly:
 because it is just too long.
 
 So had I stayed in Russian-speaking environment a bit longer, I could have
-become "Vadimych" for the rest of my life. Despite the fact that I thought
-my name was Artiom.
+become "Vadimych" for the rest of my life. And I thought my name was
+Artiom/Tioma.
 
 # Conclusion
 
