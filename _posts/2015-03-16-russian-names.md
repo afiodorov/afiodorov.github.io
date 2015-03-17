@@ -163,7 +163,7 @@ they keep using "uncle"/"aunt" + short first name.
 # Name-Patronymic revisited
 
 Sometimes colleagues drop the Name- part of the Name-Patronymic pair. Moreover,
-colloquially they mangle the Patronymic slightly:
+colloquially they mangle the patronymic slightly:
 
 "Michal*iov*ich" to "Michlych", throwing away a syllabus from the patronymic
 because it is just too long.
