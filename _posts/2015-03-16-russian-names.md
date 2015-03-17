@@ -118,7 +118,7 @@ Anyhow, head-to-head teachers would just use the first name.
 Surname is also what defines your work and, ultimately, you. Famous people are
 known by their surnames. Surnames are not abbreviated in the initials,
 Name-Patronymic is abbreviated on the other hand. A person's signature is
-often just a surname with an abbreviated name: Fiodorov A.
+often just his/her surname with an abbreviated name: Fiodorov A.
 
 Teachers and managers refer to students and employees by surnames:
 Where is Sidorov today? Ivanov just called. Kozlov will be promoted next month.
