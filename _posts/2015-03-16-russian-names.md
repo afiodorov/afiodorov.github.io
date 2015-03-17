@@ -58,7 +58,7 @@ cheeky since it's on the boundary between friendliness and teasing. Another
 Andrei at a different school was known as "Dron" (Дрон). Dron is definitely a
 stab at sounding cool and I admit it sounds a bit cool. We had 3 Aleksandrs in
 my class and one was always "Sanya" (Саня). Calling Sasha Sanya is cordial
-and somewhat highlights that you've known him for a long time.
+and highlights somewhat that you've known him for a long time.
 
 This is the most interesting aspect of Russian names which just follows from
 the grammar. If I was forced to pick just one name for myself I'd probably
