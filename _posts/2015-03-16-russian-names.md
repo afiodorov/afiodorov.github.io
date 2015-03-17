@@ -71,9 +71,9 @@ anyway.
 
 # Russian full names
 
-The full official name is Surname - First Name - [Patronymic][patro](name based
-on one's father). This is reserved for documents and certificates and is not
-used verbally. Simples.
+The full official name is Surname - First Name - [Patronymic][patro] (name
+based on one's father). This is reserved for documents and certificates and is
+not used verbally. Simples.
 
 # Name-Patronymic pair
 
