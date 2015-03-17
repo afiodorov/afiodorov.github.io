@@ -92,7 +92,7 @@ person. "Vy" and Name-Patronymic can be asymmetric: whilst children use it on
 teachers, teachers never use them on children and senior people don't use them
 on younger people. Name-Patronymic is still a common way to address colleagues
 and show respect: my mom would use Name-Patronymic to address her mother-in-law
-but the mother-in-law would just use my mom's short name: Valia (Валя) and "ty".
+but the mother-in-law would just use my mom's short name and "ty".
 
 # Surname
 
