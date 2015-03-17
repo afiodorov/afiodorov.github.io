@@ -132,9 +132,7 @@ Let's continue.
 Almost every Russian name has a short principal version:
 
 * Alexandr - Sasha (Александр - Саша)
-* Mihail - Misha (Михаил - Миша)
 * Dmitrij - Dima (Дмитрий - Дима)
-* Maria - Masha (Мария - Маша)
 * Nadezhda - Nadia (Надежда - Надя)
 * Irina - Ira (Ирина - Ира)
 
