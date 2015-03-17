@@ -12,7 +12,7 @@ Here is how Russians think the names should work instead:
 
 Name = \\(f(\text{person, social setting, mood, attitude, age})\\)
 
-# Most interesting aspect about Russian names
+# Most interesting aspect of Russian names
 
 Russian, like many other Slavonic languages, has a flexible word formation.
 Using the root of a word one can create words, just like do, undo or redo. But
