@@ -174,7 +174,7 @@ Artiom/Tioma.
 
 # Conclusion
 
-I am not even sure Russians have names anymore in a convectional sense.
+I am not even sure Russians have names anymore in a conventional sense.
 It's just a big set of words which may have an empty phonetic intersection.
 Thanks for reading anyway.
 
