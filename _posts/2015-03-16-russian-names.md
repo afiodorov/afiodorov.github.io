@@ -39,7 +39,8 @@ accepted as a neutral shorthand: teachers can use it too. The Artiom
 The people at the summer camp knew the Artiom - Tioma (Артём - Тёма)
 correspondence, but they took it a bit further and derived Tiomych from it. The
 emotion behind this derivation is quite subtle and is open for interpretations.
-I see this derivation as friendly and heart-warming.
+I see this derivation as friendly: it's like and old acquaintance who's always
+been there and so he became known as "Tiomych".
 
 My grandmother would sometimes call me "Tiomushka" (Тёмушка). The diminutive
 unambiguously displays affection.
