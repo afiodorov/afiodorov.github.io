@@ -53,7 +53,7 @@ Girls at school could sometimes call me Tiomka (Тёмка) or Artiomka (Арт�
 Somewhat playful yet an innocent way to address me.
 
 Andrei (Андрей) at my school was always "Driusha" (Дрюша), despite the fact
-that Andei, like my name, doesn't have an official shorthand. Driusha is a bit
+that Andrei, like my name, doesn't have an official shorthand. Driusha is a bit
 cheeky since it's on the boundary between friendliness and teasing. Another
 Andrei at a different school was known as "Dron" (Дрон). Dron is definitely a
 stab at sounding cool and I admit it sounds a bit cool. We had 3 Aleksandrs in
