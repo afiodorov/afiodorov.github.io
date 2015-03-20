@@ -16,7 +16,7 @@ Name = \\(f(\text{person, social setting, mood, attitude, age})\\)
 
 Russian, like many other Slavonic languages, has a flexible word formation.
 Using the root of a word one can create words, just like do, undo or redo. But
-we have many more suffixes and prefixes to make this happen. The suffixes and
+we have many more suffixes and prefixes to make it happen. The suffixes and
 prefixes are often used to convey emotion. Somewhat like re-fucking-do.
 
 Same thing applies to names. Friends and family take it upon themselves to
