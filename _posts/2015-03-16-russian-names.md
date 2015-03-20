@@ -8,7 +8,7 @@ and using them? Here is how people in the UK think of names:
 
 Name = \\(f(\text{person})\\)
 
-Here is how Russians think the names should work instead:
+Here is how Russians think names should work instead:
 
 Name = \\(f(\text{person, social setting, mood, attitude, age})\\)
 
