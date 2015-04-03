@@ -5,7 +5,7 @@ title: Gihub pioneered new way of collaboration (not necessarily in programming)
 
 ## Preliminaries or "What the hell is Github anyway?"
 Github is the most successful website which hosts projects that use git as a
-version control (this blog is an example of just project).
+version control (this blog is an example of such project).
 
 Some background for people who don't know what git is (and no, it's not me):
 it is a *distributed* version control system. Distributed means there is no
