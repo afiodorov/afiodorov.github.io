@@ -29,7 +29,7 @@ changes, searching through a history tree, reapplying changes from branches or
 just deleting changes selectively in the past and much more).
 
 Now there is a subtle point with regards to Github. Since there is no central
-repository what is the role of Github? Github plays a role of a participant who
+repository, what is the role of Github? Github plays a role of a participant who
 never contributes. His sole role is to always be online and to share his .git
 folder with the rest of the world. People can "push" to Github's .git folder
 and others can "pull" from it and thus they keep in sync. The only reason
