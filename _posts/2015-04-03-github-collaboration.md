@@ -3,7 +3,7 @@ layout: post
 title: Gihub pioneered new way of collaboration (not necessarily in programming)
 ---
 
-## Preliminaries or what the hell is Github and git anyway
+## Preliminaries or "What the hell is Github anyway?"
 Github is the most successful website which hosts projects that use git as a
 version control (this blog is an example of just project).
 
