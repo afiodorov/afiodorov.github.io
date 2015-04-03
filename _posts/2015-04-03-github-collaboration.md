@@ -8,11 +8,12 @@ If you are reading this you are probably aware of Github since this is hosted
 on Github. Github is the most successful website which hosts projects that use
 git as a version control.
 
-Some background for people who don't know what git is: it is a *distributed*
-version control system. Distributed means there is no central repository
-(storage). Each participant has a .git folder in their project's folder which
-contains the history of the project. Time to time participants synchronise
-their .git folders with each other in order to communicate changes.
+Some background for people who don't know what git (and not, it's not me) is:
+it is a *distributed* version control system. Distributed means there is no
+central repository (storage). Each participant has a .git folder in their
+project's folder which contains the history of the project. Time to time
+participants synchronise their .git folders with each other in order to
+communicate changes.
 
 Git is mostly used for open-source software development, but some use it for
 science projects (latex) or blogs. It could be used with anything which needs
