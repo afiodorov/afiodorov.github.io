@@ -55,7 +55,7 @@ follow and please get back to us with the completed work. We will review it and
 hopefully include it in our project.
 
 Now, none of the above is necessary for people who use Github instead. Each
-user on Gihub can "copy" any project hosted on Github, by pressing the "Fork"
+user on Gihub can "copy" any project hosted on Github by pressing the "Fork"
 button:
 
 ![Fork](https://help.github.com/assets/images/help/repository/fork_button.jpg)
