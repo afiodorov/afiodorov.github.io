@@ -3,7 +3,7 @@ layout: post
 title: Gihub pioneered new way of collaboration (not necessarily in programming)
 ---
 
-## Preliminaries (what the hell is Github and git anyway)
+## Preliminaries or what the hell is Github and git anyway
 Github is the most successful website which hosts projects that use git as a
 version control (this blog is an example of just project).
 
@@ -61,7 +61,7 @@ button:
 ![Fork](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 
 So say your github username is X and you really really like this blog and
-want to add an entry. Ok, go to [this blog's github page][page] and click
+want to add an entry. OK, go to [this blog's github page][page] and click
 "Fork". Boom, you have the exact copy of my blog under your name X. And now you
 can start playing around with it: correct my poor grammar, write that I am a
 moron on every page, change that logo above to a monkey or just add a new
