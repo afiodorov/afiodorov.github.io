@@ -82,9 +82,9 @@ In fact some forks become more popular than the original even before the
 original project dies: people start forking the forked project instead because
 they like the fork more.
 
-As an added bonus Github forms a completely transparent social network which is
-completely meritocratic since contributions of each member are public. So join
-us and have fun forking!
+As an added bonus Github forms a transparent social network which is completely
+meritocratic since contributions of each member are public. So join us and have
+fun forking!
 
 [guardian]: https://github.com/guardian
 [page]: https://github.com/afiodorov/afiodorov.github.io
