@@ -44,7 +44,7 @@ for good (thus abandoning Github altogether).
 
 Github's growth in popularity resulted in hosting many popular projects. This
 list is incredibly long, but you might be surprised to learn that The
-Guardian's frontend is hosted on [there][guardian]. The most incredible thing
+Guardian's frontend is hosted [there][guardian]. The most incredible thing
 about Github is that anything which is hosted there is open for contributions
 from anyone in the world with no permission required to be obtained first. The
 way I used to think about contribution:
