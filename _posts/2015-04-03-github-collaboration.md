@@ -37,7 +37,7 @@ folder with the rest of the world. People can "push" to Github's .git folder
 and others can "pull" from it and thus they keep in sync. The only reason
 Gihub's .git folder might appear central is because other participants treat it
 as such. However all project participants have the entire history of the
-project in their respective .git folders and can choose to stop synchronising
+project in the respective .git folders and can choose to stop synchronising
 for good (thus abandoning Github altogether).
 
 ## What is so innovative about Github?
