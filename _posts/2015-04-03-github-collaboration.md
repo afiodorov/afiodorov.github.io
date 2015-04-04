@@ -47,7 +47,7 @@ list is incredibly long, but you might be surprised to learn that The
 Guardian's frontend is hosted [there][guardian]. The most incredible thing
 about Github is that anything which is hosted there is open for contributions
 from anyone in the world with no permission required to be obtained first. The
-way I used to think about contribution:
+way I used to think about contributions:
 
 *Consumer*: Hello, I like your software project/magazine/blog and I would like
 to add some content. Please tell me how if it's possible.
