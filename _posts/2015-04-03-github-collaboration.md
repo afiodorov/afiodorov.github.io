@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gihub pioneered new way of collaboration (not necessarily in programming)
+title: Gihub pioneered a new way of collaboration (not necessarily in programming)
 ---
 
 ## Preliminaries or "What the hell is Github anyway?"
@@ -24,9 +24,9 @@ I have already explained what distributed means, but haven't empathised that it
 implies no other participants are needed at all. In fact anyone can start
 using git even with no internet connection. It is just a way to maintain
 history of anything that you are working on, somewhat like making multiple
-copies but more advanced (git allows for non-linear history tree, visualising
-changes, searching through a history tree, reapplying changes from branches or
-just deleting changes selectively in the past and much more).
+copies but more advanced (git allows for a non-linear history tree, visualising
+changes, searching through the history tree, reapplying changes from branches
+or deleting changes selectively in the past and much more).
 
 Now there is a subtle point with regards to Github. Since there is no central
 repository, what is the role of Github? Github plays a role of a participant who
