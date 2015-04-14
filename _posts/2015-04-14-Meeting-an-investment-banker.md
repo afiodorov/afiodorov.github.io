@@ -27,7 +27,7 @@ sure there's plenty of other resources out there I just named the ones which
 were mentioned.
 
 The 10% figure is just amazing and makes me feel good. This post is for
-spreading the "feel-good" feeling which I am currently feeling. It ties in
+spreading the "feel-good" sensation which I am currently feeling. It ties in
 nicely with something else which was on my mind for some time: when asked "What
 place would you go to if you could go anywhere?" I said "Space." I never got
 round explaining why going to space (or International Space Station) was my
