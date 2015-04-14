@@ -51,7 +51,7 @@ awesome. Down-right terrible in fact. I feel enough of that.
 
 I used to exhibit [just-world][jw] bias and "diss" charities but I am changing
 now. Moreover, the recent encounters motivated me too look into the effective
-altruism movement more carefully. May be, one day, I will join them too.
+altruism movement more carefully. May be, one day, I will join it too.
 
 [^1]: the Effective Altruism posts are not tagged, just searching for "altruism"
     results in 10 pages though
