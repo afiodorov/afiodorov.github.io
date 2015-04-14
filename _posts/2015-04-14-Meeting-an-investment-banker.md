@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meeting an investment banker
+title: Meeting an altruistic investment banker
 ---
 
 Recently I went to a meet-up event which was also attended by effective
