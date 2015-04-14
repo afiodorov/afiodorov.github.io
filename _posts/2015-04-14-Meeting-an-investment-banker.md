@@ -49,7 +49,7 @@ On the contrary, I would be rather upset about travelling to a poverty-stricken
 area. It is the opposite feeling that would embrace me: how humanity is **not**
 awesome. Down-right terrible in fact. I feel enough of that.
 
-I used to "diss" charities exhibiting [just-world][jw] bias but I am changing
+I used exhibit [just-world][jw] bias and "diss" charities but I am changing
 now. Moreover, the recent encounters motivated me too look into the effective
 altruism movement more carefully. May be, one day, I will join them too.
 
