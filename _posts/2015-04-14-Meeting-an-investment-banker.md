@@ -36,7 +36,7 @@ When I catch a flight I still experience "yay for humanity" emotion.
 Everytime. When I get home I read wiki about ailerons, about history of
 commercial aviation, about types of jet there are. It fascinates me that we
 invented jets and made flights accessible to the general public. Arguably I
-should feel the same about smartphones and internet daily, but I just don't.
+should feel the same about smartphones and internet daily, but I don't.
 
 And I would get the exact same "yay for humanity" feeling if a rocket
 accelerated my body to a delta-v speed of 9.4km/s and put me in the low orbit.
