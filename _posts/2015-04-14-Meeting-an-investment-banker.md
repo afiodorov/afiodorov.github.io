@@ -44,9 +44,10 @@ Moreover I'd be given access to a permanently manned space station and I'd feel
 even more awesome. Hell, I might actually die from all the awesomeness I'd feel
 stemming from what humans are capable of.
 
-On the contrary, I would be rather upset about travelling to a poverty-stricken
-area. It is the opposite feeling that would embrace me: how humanity is **not**
-awesome. Down-right terrible in fact. I feel enough of that.
+On the contrary, I would be rather upset about travelling through a
+poverty-stricken area. It is the opposite feeling that would embrace me: how
+humanity is **not** awesome. Down-right terrible in fact. I feel enough of
+that.
 
 I used to exhibit [just-world][jw] bias and "diss" charities but I am changing
 now. Moreover, the recent encounters motivated me too look into the effective
