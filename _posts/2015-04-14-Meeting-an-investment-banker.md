@@ -39,11 +39,11 @@ commercial aviation, about types of jet there are. It fascinates me that we
 invented jets and made flights accessible to the general public. Arguably I
 should feel the same about smartphones and internet daily, but I just don't.
 
-And I would get exact same "yay for humanity" feeling if a rocket accelerated
-my body to a delta-v speed of 9.4km/s and put me in the low orbit. Moreover I'd
-be given access to a permanently manned space station and I'd feel even more
-awesome. Hell, I might actually die from all the awesomeness I'd feel stemming
-from what humans are capable of.
+And I would get the exact same "yay for humanity" feeling if a rocket
+accelerated my body to a delta-v speed of 9.4km/s and put me in the low orbit.
+Moreover I'd be given access to a permanently manned space station and I'd feel
+even more awesome. Hell, I might actually die from all the awesomeness I'd feel
+stemming from what humans are capable of.
 
 On the contrary, I would be rather upset about travelling to a poverty-stricken
 area. It is the opposite feeling that would embrace me: how humanity is **not**
