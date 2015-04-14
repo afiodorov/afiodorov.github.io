@@ -10,11 +10,11 @@ significant proportion of his income to cost-effective charities the silent
 "well-done" rippled through the air. The interlocutor highfived him. If I am
 ever caught in a similar moment I will just break into applause.
 
-What a difference effective altruism makes to the impression. I suspect bankers
+What a difference effective altruism makes to an impression. I suspect bankers
 don't often get highfived for revealing their trade.
 
 I get warm fuzzies when I am thinking about a person griding away at a
-stressful job in order to save lives. He mentioned that 2000£ buys a life,
+stressful job in order to save lives. He mentioned that 2000£ saves a life,
 though I know some charities claim $1000 per life ratio. He must have saved
 dozens of lives already and will save many more. This gives me a reason to
 feel good about humanity.
@@ -30,10 +30,10 @@ The 10% figure is just amazing and makes me feel good. This post is for
 spreading the "feel-good" feeling which I am currently feeling. It ties in
 nicely with something else which was on my mind for some time: when asked "What
 place would you go to if you could go anywhere?" I said "Space." I never got
-round explaining why going to Space (or International Space Station) was my
+round explaining why going to space (or International Space Station) was my
 answer.
 
-When I get a commercial flight I still experience "yay for humanity" emotion.
+When I catch a flight I still experience "yay for humanity" emotion.
 Everytime. When I get home I read wiki about ailerons, about history of
 commercial aviation, about types of jet there are. It fascinates me that we
 invented jets and made flights accessible to the general public. Arguably I
@@ -50,8 +50,8 @@ area. It is the opposite feeling that would embrace me: how humanity is **not**
 awesome. Down-right terrible in fact. I feel enough of that.
 
 I used to "diss" charities exhibiting [just-world][jw] bias but I am changing
-now. Moreover, the recent encounters motivated me too look into the alternative
-altruism movement. May be, one day, I will join them.
+now. Moreover, the recent encounters motivated me too look into the effective
+altruism movement more carefully. May be, one day, I will join them too.
 
 [^1]: the Effective Altruism posts are not tagged, just searching for "altruism"
     results in 10 pages though
