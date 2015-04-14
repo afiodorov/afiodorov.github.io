@@ -22,9 +22,9 @@ feel good about humanity.
 But it gets even better: he told us that about 10% of new-hirers are effective
 altruists: they peruse [GiveWell][gw] website for poverty-alleviation
 cost-effective charities, some read LessWrong's[^1] effective altruism posts
-and some find Peter Singer [Ted talk][talk]/[book][book] influential. I am sure
-there's plenty of other resources out there I just named the ones which were
-mentioned.
+and some find Peter Singer's [Ted talk][talk]/[book][book] influential. I am
+sure there's plenty of other resources out there I just named the ones which
+were mentioned.
 
 The 10% figure is just amazing and makes me feel good. This post is for
 spreading the "feel-good" feeling which I am currently feeling. It ties in
