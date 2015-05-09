@@ -18,7 +18,7 @@ Only items which I have had for at least 6 months will be on the list.
 I used to have gimmicky keyrings in the past but they stopped being amusing
 after a couple of weeks and I was left with carrying a prickly object all day
 for a faint smile of friends once in a while as a reward. One day I decided I
-needed a practical keyring and that's what I found on amazon. Combined boozing
+needed a practical keyring and that's what I found on amazon. Combining boozing
 with computing... Why not?
 
 Both uses served me well: I surprisingly often found myself in situations where
