@@ -52,7 +52,7 @@ As a bonus it converts a TV into a picture frame (with a mixture of
 personal pictures taken from the Google cloud or just amazing pictures from the
 internet) - this alone could be worth the price. All the pictures I have
 ever taken got a new lease of life - they were enjoyable again even after
-bragging with them on Facebook.
+bragging using them on Facebook.
 
 ## 3) Dell 11.6" Chromebook (4GB ram)
 
