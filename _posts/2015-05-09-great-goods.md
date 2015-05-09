@@ -66,7 +66,7 @@ Because it has a battery life of a Macbook Air/Ultrabook but costs 1/4 as much.
 I originally bought this as my travel companion but used it as my primary
 laptop ever since.
 
-The main objection to Chromebooks I here is the limited Chrome OS. And it's a
+The main objection to Chromebooks I hear is the limited Chrome OS. And it's a
 valid objection. However I would like to remind my readers that side by side
 comparisons often lead to a disproportionate weight assigned to characteristics
 that differentiate products. "Wouldn't it be cool if my laptop lasted as long
