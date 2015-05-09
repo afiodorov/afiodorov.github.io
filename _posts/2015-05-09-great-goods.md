@@ -78,7 +78,7 @@ perfectly alongside the Chrome OS. I did that and I now have access to both
 operating systems. It might seem a bit unscrupulous that I am recommending this
 device then. Skype used to be not available on Chrome OS - and that's why I
 used the linux. Now that Skype is [available][skype] my conscientiousness
-"is clean", as Russians say, for recommending this to you.
+"is clean", as Russians say, for recommending this item to you.
 
 ## 4) Cateye Velo 5 Cycling Computer
 
