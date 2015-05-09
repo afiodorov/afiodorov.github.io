@@ -70,7 +70,7 @@ The main objection to Chromebooks I hear is the limited Chrome OS. And it's a
 valid objection. However I would like to remind my readers that side by side
 comparisons often lead to a disproportionate weight assigned to characteristics
 that differentiate products. "Wouldn't it be cool if my laptop lasted as long
-as my tablet", - I thought to myself one day. I googled for a laptop with
+as my tablet" - I thought to myself one day. I googled for a laptop with
 longest battery life, YOLO'd for life and bought the item. No regrets.
 
 As a bonus: you can install a regular linux distribution on it and it will work
