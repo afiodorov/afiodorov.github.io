@@ -5,7 +5,7 @@ title: List of things I bought which are excellent value for money
 
 I decided to put down some things which served me well and provided much
 utility for their price. Hopefully I will be constantly updating this list.
-Only items which I have owned for at least 6 months will be on the list.
+Only items which I have had for at least 6 months will be on the list.
 
 ## 1) Usb stick / bottle opener keyring
 
