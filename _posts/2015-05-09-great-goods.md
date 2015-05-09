@@ -103,5 +103,5 @@ is.
 
 ## Conclusion
 
-There is no conclusion. Perhaps make your own list one day and share utility
-with the rest of us.
+There is no conclusion. Perhaps you can make your own list one day and share
+utility with the rest of us.
