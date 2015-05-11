@@ -94,12 +94,11 @@ First of all it's not a computer but Cateye disagrees. It's a speedometer: it
 measures speed and distance when you cycle. And it's amazing. Watching the
 accumulated distance grow every time I cycle gives me new meaning to life.
 
-Apart from the accumulated distance I love knowing how fast I go and
-the fastest I have ever ridden. I like comparing distances of different routes,
-knowing how much I cycled every day, where the middle point of each
-route is and how badly the wind effects my usual routine. I wish I could
-communicate better why having a speedometer is awesome, but I can't. It just
-is.
+Apart from the accumulated distance I love knowing how fast I go and the
+fastest I have ever ridden. I like comparing distances of different routes,
+knowing how much I cycled every day, where the middle point of each route is
+and how badly the wind effects my usual routine. I wish I could communicate
+better why having a speedometer is awesome, but I can't. It just is.
 
 ## Conclusion
 
