@@ -9,7 +9,7 @@ Soviet song writers who became known as "The voice of the (Soviet) epoch" to
 mark his significance.
 
 |-----------------------------------------------------|
-| Марш о конце войны | March About the End of the War |
+| Марш о конце войны | March about the End of the War |
 |-----------------------------------------------------|
 | Уже не маячат над городом аэростаты, <br> Замолкли сирены, готовясь победу трубить, <br> Но ротные все-таки выйти успеют, успеют в комбаты, <br> Которого всё ещё запросто могут убить. | Aerostats [^5] no longer hang above the city, <br> Sirens fell silent ready to trumpet the victory, <br> But officers will just about make it in time to become kombats[^1], <br> Who can still be killed easily. |
 | Вот уже очищают от копоти свечек иконы, <br> И душа и уста и молитвы творят, и стихи, <br> Но с красным крестом всё идут, и идут, и идут эшелоны <br> А вроде по сводкам потери не так велики. |  And already icons[^6] are being cleansed from candles' soot <br> And souls and mouths are praying and writing poems, <br> But trains with red crosses are still coming and coming. <br> But apparently the reported losses are not that heavy. |
