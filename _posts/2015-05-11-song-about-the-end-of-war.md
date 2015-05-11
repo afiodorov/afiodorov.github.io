@@ -6,7 +6,7 @@ title: March about the end of the war
 To mark the Victory Day I decided to translate a song about the last days of
 the Second World War by Vladimir Vysotsky. Vysotsky is one of the most famous
 Soviet song writers who became known as "The voice of the (Soviet) epoch" to
-mark his significance.
+highlight his significance.
 
 |-----------------------------------------------------|
 | Марш о конце войны | March about the End of the War |
