@@ -42,7 +42,7 @@ more.
 
 *Reasons:*
 
-Even though it could easily be replaced with an HDMI cable - HDMI cables are
+Even though it could be easily replaced with an HDMI cable - HDMI cables are
 hassly and not hip. And so I was left in some archaic state watching
 terrestrial TV. This dongle brought me back and I am with the times again.
 Chromecast enables anyone at home with a laptop / mobile device to take charge
