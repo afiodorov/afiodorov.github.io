@@ -43,10 +43,10 @@ more.
 *Reasons:*
 
 Even though it could easily be replaced with an HDMI cable - HDMI cables are
-hassly and not hip. And so I was left in some archaic state with terrestrial TV
-to watch. This dongle brought me back and I am with the times again. Chromecast
-enables anyone at home with a laptop / mobile device to take charge of the
-entertainment with a click/tap of a button.
+hassly and not hip. And so I was left in some archaic state watching
+terrestrial TV. This dongle brought me back and I am with the times again.
+Chromecast enables anyone at home with a laptop / mobile device to take charge
+of the entertainment with a click/tap of a button.
 
 As a bonus it converts a TV into a picture frame (with a mixture of
 personal pictures taken from the Google cloud or just amazing pictures from the
