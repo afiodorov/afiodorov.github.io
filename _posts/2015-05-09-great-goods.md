@@ -95,7 +95,7 @@ measures speed and distance when you cycle. And it's amazing. Watching the
 accumulated distance grow every time I cycle gives me a new meaning to life.
 
 Apart from the accumulated distance I love knowing how fast I am going and
-how fast I have ever went. I like comparing distances of different routes,
+how fast I have ever ridden. I like comparing distances of different routes,
 knowing how much I cycled every day, where the middle point of each
 route is and how badly the wind effects my usual routine. I wish I could
 communicate better why having a speedometer is awesome, but I can't. It just
