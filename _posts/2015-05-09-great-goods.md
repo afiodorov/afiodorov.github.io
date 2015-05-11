@@ -74,7 +74,7 @@ as my tablet" - I thought to myself one day. I googled for a laptop with
 longest battery life, YOLO'd for life and bought the item. No regrets.
 
 As a bonus: you can install a regular linux distribution on it and it will work
-perfectly alongside the Chrome OS. I did that and I now have access to both
+perfectly alongside the Chrome OS. I did that and now I have access to both
 operating systems. It might seem a bit unscrupulous that I am recommending this
 device then. Skype used to be not available on Chrome OS - and that's why I
 used the linux. Now that Skype is [available][skype] my conscientiousness
