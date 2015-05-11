@@ -92,7 +92,7 @@ used the linux. Now that Skype is [available][skype] my conscientiousness
 
 First of all it's not a computer but Cateye disagrees. It's a speedometer: it
 measures speed and distance when you cycle. And it's amazing. Watching the
-accumulated distance grow every time I cycle gives me a new meaning to life.
+accumulated distance grow every time I cycle gives me new meaning to life.
 
 Apart from the accumulated distance I love knowing how fast I am going and
 how fast I have ever ridden. I like comparing distances of different routes,
