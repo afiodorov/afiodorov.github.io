@@ -24,9 +24,9 @@ with computing... Why not?
 Both uses served me well: I surprisingly often found myself in situations where
 I was the only one with such objects available (may be I should stop drinking
 alone in front of my computer). For bonus brownie points I made the usb stick
-bootable - and this helped me and a couple of friends recover files from their
-broken PCs. And I opened a couple beers afterwards to celebrate: this is the
-life!
+bootable - and this helped me and a couple of my friends recover files from
+their broken PCs. And I opened a couple of beers afterwards to celebrate: this
+is the life!
 
 ## 2) Chromecast
 
@@ -42,7 +42,7 @@ more.
 
 *Reasons:*
 
-Even though it could easily be replaced by an HDMI cable - HDMI cables are
+Even though it could easily be replaced with an HDMI cable - HDMI cables are
 hassly and not hip. And so I was left in some archaic state with terrestrial TV
 to watch. This dongle brought me back and I am with the times again. Chromecast
 enables anyone at home with a laptop / mobile device to take charge of the
