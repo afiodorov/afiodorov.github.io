@@ -20,7 +20,7 @@ recognition of his significance.
 [^1]: A soviet millitary rank above officers.
 [^2]: Paper crosses were stuck on windows to prevent scattering of broken glass from bombings.
 [^3]: Reference to a parade of 60 000 German prisoners of war in the streets of Moscow on 17th of July 1944.
-[^4]: Literal translation of a slang term referring to an enemy soldier with some valuable information.
+[^4]: Literal translation of a jargon term referring to an enemy soldier with some valuable information.
 [^5]: Also knowns as [barrage balloons][balloons] used in WW2 to defend against aircraft attack by damaging the aircraft on collision with the cables, or at least making the attacker's approach more difficult.
 [^6]: An icon is generally a flat panel painting depicting Jesus Christ, Mary, saints and/or angels, which is venerated among Eastern Orthodox, Oriental Orthodox, and in certain Eastern Catholic Churches.
 [^7]: Used metaphorically to mean death, see [murrain](http://en.wikipedia.org/wiki/Murrain).
