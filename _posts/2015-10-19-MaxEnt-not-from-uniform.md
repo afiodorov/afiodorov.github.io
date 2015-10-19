@@ -48,5 +48,5 @@ $$H_3(p_1, p_2, p_3) = H_2(p_1, q) + q H_2(\frac{p_2}{q}, \frac{p_3}{q})$$
 
 [^1]:
     Shannon's theorem states desired criteria for a to-be-constructed entropy
-    function and the shows that \\(\sum_i - p_i \log p_i\\) is the only function
-    that satisfies it.
+    function and then shows that \\(\sum_i - p_i \log p_i\\) is the only
+    function that satisfies it.
