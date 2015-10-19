@@ -36,7 +36,7 @@ $$f_1 * 1 + f_2 * 1 + f_3 * 2 + f_4 * 3 + f_5 * 3 + f_6 * 3 = 1.5 \,,$$
 
 and
 
-$$\sum_{i = 1}^6 f_i = 1$$
+$$\sum_{i = 1}^6 f_i = 1 \,,$$
 
 and it will give you the posterior distribution, which you can collect
 back to \\((p_1, p_2, p_3)  = (f_1 + f_2, f_3, f_4 + f_5 + f_6)\\).
