@@ -8,7 +8,7 @@ Logic of Science", Chapter 9, which allows one to answer the following
 question:
 
 After rolling a die many times it transpires that the expectation is \\(4\\).
-What is the probability distribution of such a die?
+What is the probability distribution one must assign to such a die?
 
 It turns out that if you start with ignorance knowledge: i.e. all rolls
 are independent and each number is equally likely one ought to maximise
