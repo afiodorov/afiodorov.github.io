@@ -45,7 +45,7 @@ answer is: \\((0.68, 0.14, 0.18)\\).
 This gave me a better understanding why Shannon's theorem[^1] stipulates the
 following desired property of the entropy \\(H\\):
 
-$$H_3(p_1, p_2, p_3) = H_2(p_1, (1 - p_1)) + (1 - p_1)
+$$H_3(p_1, p_2, p_3) = H_2(p_1, 1 - p_1) + (1 - p_1)
 H_2\left(\frac{p_2}{1 - p_1}, \frac{p_3}{1 - p_1}\right)$$
 
 [^1]:
