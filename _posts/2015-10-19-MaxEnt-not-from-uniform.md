@@ -42,7 +42,7 @@ and it will give you the posterior distribution, which you can collect
 back to \\((p_1, p_2, p_3)  = (f_1 + f_2, f_3, f_4 + f_5 + f_6)\\).
 
 This gave me a better understanding why Shannon's theorem[^1] stipulates the
-following desired property of an entropy \\(H\\):
+following desired property of the entropy \\(H\\):
 
 $$H_3(p_1, p_2, p_3) = H_2(p_1, q) + q H_2(\frac{p_2}{q}, \frac{p_3}{q})$$
 
