@@ -25,9 +25,9 @@ start with ignorance knowledge. However, it is easy to incorporate your prior
 distribution into MaxEnt algorithm in some situations.
 
 For example, start with a 3-sided die with a prior \\([2/6, 1/6, 3/6]\\). Then
-it is the same as starting with 6-sided die with a prior \\([1/6, 1/6, 1/6, 1/6,
-1/6, 1/6]\\), where rolls \\(1, 2\\) map to  \\(1\\), \\(3\\) to \\(2\\) and
-\\(4, 5, 6\\) to \\(3\\).
+it is the same as starting with a 6-sided die with a prior \\([1/6, 1/6, 1/6,
+1/6, 1/6, 1/6]\\), where rolls \\(1, 2\\) map to  \\(1\\), \\(3\\) to \\(2\\)
+and \\(4, 5, 6\\) to \\(3\\).
 
 So if you start with a prior \\([2/6, 1/6, 3/6]\\) and then learn that the true
 average is \\(1.5\\) you can apply MaxEnt algorithm under
