@@ -42,8 +42,8 @@ and it will give you the posterior distribution, which you can collect
 back to \\((p_1, p_2, p_3)  = (f_1 + f_2, f_3, f_4 + f_5 + f_6)\\). So the
 answer is: \\((0.68, 0.14, 0.18)\\).
 
-This gave me a better understanding why Shannon's theorem[^1] stipulates the
-following desired property of the entropy \\(H\\):
+<del>This gave me a better understanding why Shannon's theorem[^1] stipulates the
+following desired property of the entropy</del> \\(H\\):
 
 $$H_3(p_1, p_2, p_3) = H_2(p_1, 1 - p_1) + (1 - p_1)
 H_2\left(\frac{p_2}{1 - p_1}, \frac{p_3}{1 - p_1}\right)$$
