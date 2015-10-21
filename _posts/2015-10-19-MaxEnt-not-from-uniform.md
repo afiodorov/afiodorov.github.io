@@ -48,7 +48,11 @@ following desired property of the entropy</del> \\(H\\):
 $$H_3(p_1, p_2, p_3) = H_2(p_1, 1 - p_1) + (1 - p_1)
 H_2\left(\frac{p_2}{1 - p_1}, \frac{p_3}{1 - p_1}\right)$$
 
+**Edit**: read more about why the above property is desired [here][additivity].
+
 [^1]:
     Shannon's theorem states desired criteria for a to-be-constructed entropy
     function and then shows that \\(\sum_i - p_i \log p_i\\) is the only
     function that satisfies it.
+
+[additivity]: http://stats.stackexchange.com/questions/177889/additivity-of-shannons-entropy
