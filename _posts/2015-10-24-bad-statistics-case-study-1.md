@@ -6,7 +6,7 @@ title: Elementary hypothesis testing or proving Raf wrong
 Context (paraphrasing):
 
 ~~~
-Raf: No couples in Chalkdust!
+Raf: No couples in the Chalkdust team!
 Me: Why?
 Raf: Had one bad experience before.
 Me: So your sample size is one?
