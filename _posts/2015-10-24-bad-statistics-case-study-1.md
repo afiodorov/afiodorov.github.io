@@ -113,7 +113,7 @@ is to be consumed.
 
 So, no, Rafael, your *effective* sample size is still \\(1\\) and not \\(10^6 +
 1\\). By effective I mean the size of the sample that is actually relevant
-for the inference of interest.
+to the inference of interest.
 
 ---
 
