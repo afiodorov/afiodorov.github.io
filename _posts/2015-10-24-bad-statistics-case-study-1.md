@@ -123,7 +123,7 @@ Finishing the example, it is more intuitive to work with rescaled logs based
 $$10 \log_{10} \left( \frac{1}{q} \right) = - 10 \log_{10} q \,,$$
 
 now what should \\(q\\) be? Well... I am too lazy to read the research on the
-matter of how often couples work well together. So if I supposed that half of
+matter of how often couples work well together. So if I assume that half of
 the time, i.e. \\(q= 1 /2\\), then observing just one positive example would
 yield \\(10 \log_{10} 2 \approx 3\\) dHart units in favour of \\(H_1\\).
 However \\(3\\) dHarts is "barely worth mentioning" according to [wiki][wiki].
