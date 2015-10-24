@@ -75,7 +75,7 @@ $$
 \frac{P(H_1)}{P(H_2^{'})},
 $$
 
-is simply how much you were believed in \\(H_1\\) vs \\(H_2\\) prior to seeing
+is simply how much you believed in \\(H_1\\) vs \\(H_2\\) prior to seeing
 the data and
 
 
