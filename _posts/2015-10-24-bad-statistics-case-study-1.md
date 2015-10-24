@@ -12,6 +12,7 @@ Raf: Had one bad experience before.
 Me: So your sample size is one?
 Raf: No, I have a million of examples when a girl and a boy work well together
 when they are not a couple, so my sample size is 10^6!
+Me: No, your sample size is still one. I'm going to figure it out and write a blog post about it!
 ~~~
 
 ------
