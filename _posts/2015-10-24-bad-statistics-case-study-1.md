@@ -88,7 +88,7 @@ $$
 \log \left( \frac{P(D | H_1)}{P(D | H_2^{'})} \right) \,,
 $$
 
-known as log odds, which tells us in what direction we should move our
+known as Bayes factor which tells us in what direction we should move our
 believes about the validity of \\(H_1\\) and \\(H_2^{\'}\\) once we see the
 data.
 
