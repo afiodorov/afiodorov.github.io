@@ -35,7 +35,7 @@ such that we have \\(10^6\\) examples of \\((0, 0)\\) and just \\(1\\) \\((1,
 Finally, \\(H_1 := B = A \\), i.e. a male and a female work well iff they are
 not a couple.
 
-Now good statistics dictates specifying the alternative hypothesis, \\(H_2\\),
+Now good statistics dictates specifying an alternative hypothesis, \\(H_2\\),
 we are testing \\(H_1\\) against.
 
 What could \\(H_2\\) be? Just a negation: \\(B \neq A\\) is not good enough,
