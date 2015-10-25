@@ -24,9 +24,9 @@ this anyway like mathematicians. Notation:
 
 \\(A = 1\\) stand for "a male and a female are romantically involved".
 
-\\(B = 0\\) stand for "a male and female work together well"[^1],
+\\(B = 0\\) stand for "a male and a female work together well"[^1],
 
-\\(B = 1\\) stand for "a male and female don't work together well",
+\\(B = 1\\) stand for "a male and a female don't work together well",
 
 
 So the data, \\(D\\), is just a collection of tuples of the form \\((A, B)\\)
