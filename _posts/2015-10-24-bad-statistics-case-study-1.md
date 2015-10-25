@@ -196,7 +196,8 @@ Cox's theorem. Remember, plausibility of a statement is between \\(0\\) and
 \\(1/3\\) for you. This is parametrised for the following reason:
 it turns out, that despite the large number of negative examples, only the
 *positive examples* are capable of adjusting your \\(q\\). Hence addressing the
-dispute over the effective sample size.
+dispute over the effective sample size without actually resorting to specifying
+\\(q\\).
 
 Note that the procedure of hypothesis testing via the means of the Bayes factor
 is just a consequence of Bayes' theorem, which, in turn, is derived from Cox's
