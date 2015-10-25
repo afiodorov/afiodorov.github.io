@@ -162,10 +162,11 @@ to *us* to pick what \\(H(p_1, p_2)\\) we want to test \\(H(1, 1)\\) against.
 
 Skipping the unnecessary details, it is easy to be convinced that by performing
 an elementary hypothesis testing to compare \\(H_1\\) vs \\(H(p_1, p_2)\\) when
-\\(p < 0.99\\) and \\(q\\) arbitrary we can quickly arrive at a very high Bayes
-Factor in favour of \\(H_1\\) due to the huge number of negative examples. The
-intuition is simple: after seeing \\(10^6\\) negative examples we must be much
-more convinced in believing that \\( p_1 \approx 1\\) then we were before.
+\\(p_1 < 0.99\\) and \\(p_2\\) arbitrary we can quickly arrive at a very high
+Bayes Factor in favour of \\(H_1\\) due to the huge number of negative
+examples. The intuition is simple: after seeing \\(10^6\\) negative examples we
+must be much more convinced in believing that \\( p_1 \approx 1\\) then we were
+before.
 
 So unless you have some very strong prior against \\( p_1 \approx 1\\), there is
 no reason to stick with \\( p_1 \ll 1\\) after seeing your knowledge contradicted
