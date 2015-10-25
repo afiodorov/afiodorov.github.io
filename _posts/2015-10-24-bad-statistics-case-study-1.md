@@ -186,7 +186,7 @@ part of \\(H_1\\) in the first place.
 
 ---
 
-Back to \\(H_2^{\'}\\):
+Back to \\(H_2^{\'} = H(1, q)\\):
 
 $$P(B = 1 | A = 1, H_2^{'}) = q \,,$$
 
