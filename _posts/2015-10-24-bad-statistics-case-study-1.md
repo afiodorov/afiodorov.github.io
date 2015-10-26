@@ -106,7 +106,7 @@ First thing to notice is that the above answer is *independent of the number of
 negative examples we have seen*. Even if our data, \\(D\\), contained
 \\(10^{10^{10}}\\) tuples \\((0, 0)\\) it would have changed nothing. So this
 hypothesis testing agrees with our common sense: the number of negative
-examples doesn't teach us anything about the inference about positive examples.
+examples doesn't teach us anything about the inference from positive examples.
 
 Observing a trillion of trillion of times how people don't eat substance
 \\(X\\) and don't get cancer tells us nothing about getting cancer if \\(X\\)
