@@ -102,7 +102,7 @@ $$
 = \log \left( \frac{1}{q} \right) \,,
 $$
 
-First thing to note is that the above answer is *independent of the number of
+First thing to notice is that the above answer is *independent of the number of
 negative examples we have seen*. Even if our data, \\(D\\), contained
 \\(10^{10^{10}}\\) tuples \\((0, 0)\\) it would have changed nothing. So this
 hypothesis testing agrees with our common sense: the number of negative
