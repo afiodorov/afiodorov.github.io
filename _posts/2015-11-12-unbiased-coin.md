@@ -70,7 +70,7 @@ saying "let's start with an observer who assigned the following probabilities
 to the following events". That's just too much.
 
 But, but, but, but, but... Statisticians must outright taboo such statements.
-Because this philosophy corrupted science. The moment you say "assume
+Because such philosophy corrupted science. The moment you say "assume
 measurement errors are normally distributed" - you are doing it *wrong*. Why?
 Here's some data:
 
