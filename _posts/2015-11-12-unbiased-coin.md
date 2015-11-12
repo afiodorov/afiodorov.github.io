@@ -80,7 +80,7 @@ Here's some data:
 
 What distribution should you assign to a process producing it? Answer:
 ParsingError and exit(1). It is *known* data, presented in front of you, there
-is *no* probability distribution to assign to it: as there is no uncertainty.
+is *no* probability distribution to assign to it as there is no uncertainty.
 
 I can't wait for a revolution in modern statistics: because it's inevitable
 that such treatment of probability will be banished outright in the future.
