@@ -61,8 +61,8 @@ just compute them. *But the same goes for a trajectory of a coin*.
 This idea of "randomness as a property of an object or a process" is completely
 unnecessary. If you don't know the answer - use probability theory. Because
 that's what it is for: dealing with insufficient information. Beautifully
-derived from the Cox's theorem. See the details in "Probability Theory: The
-Logic of Science" by E.T. Jaynes.
+derived from the [Cox's theorem][cox]. See the details in ["Probability Theory:
+The Logic of Science" by E.T. Jaynes][reviews]
 
 Now I reserve the right to introduce "fair coins", "biased dice", etc. in
 *pure* maths only. I treat it as a shorthand. It is much more elegant than
@@ -103,3 +103,6 @@ instead.
 *To be continued*.
 
 [^1]: I mean Born's rule, not Shrodinger equation.
+
+[cox]: https://en.wikipedia.org/wiki/Cox%27s_theorem
+[reviews]: http://www.amazon.com/Probability-Theory-E-T-Jaynes/dp/0521592712/
