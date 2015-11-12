@@ -42,7 +42,7 @@ assignments differ amongst them.
 This idea, that probability is built into the physical world around us, that
 it's out there to be discovered via a design of clever experiments, via
 orthodox statistical tools which were painstakingly developed took science
-astray.
+astray for at least a 100 years.
 
 But the problem with orthodox methods and the orthodox idea of probability
 being something physical kinda works in many situations. And a Bayesian
