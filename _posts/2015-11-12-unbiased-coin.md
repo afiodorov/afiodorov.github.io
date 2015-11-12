@@ -51,7 +51,8 @@ not worth it. And that's why this world view hasn't been abandoned. By the
 cracks are showing if you push it too much. Not only the methods are capable of
 producing absurd conclusions, they are also self-limiting.
 
-"How can you apply Central Limit Theorem to number theory?" - I heard today.
+"How can you apply Central Limit Theorem to number theory? Where is randomness
+in that?" - I heard today.
 
 I guess the question makes sense, if you insist on viewing probability as
 something physical, something built into this world, something to be discovered
