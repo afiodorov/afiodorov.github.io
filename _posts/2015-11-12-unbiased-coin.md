@@ -95,7 +95,7 @@ available.
 
 -------
 
-Now isn't this satisfying? There is no need to worry about what "random",
+Now isn't this satisfying? There is no need to worry about what "random" is,
 how to construct "random" variables and how to deal with the fact that
 now matter how hard you try the result is always pseudo random and imperfect
 instead.
