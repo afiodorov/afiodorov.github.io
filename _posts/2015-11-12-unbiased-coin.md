@@ -78,9 +78,9 @@ Here's some data:
 33 7 20 18 45 31 93 52 50 29 11
 ~~~~~~~~~~
 
-What distribution should you assign to it? Answer: ParsingError and exit(1). It
-is *known* data, presented in front of you, there is *no* probability
-distribution to assign to it: as there is no uncertainty.
+What distribution should you assign to a process producing it? Answer:
+ParsingError and exit(1). It is *known* data, presented in front of you, there
+is *no* probability distribution to assign to it: as there is no uncertainty.
 
 I can't wait for a revolution in modern statistics: because it's inevitable
 that such treatment of probability will be banished outright in the future.
