@@ -15,8 +15,8 @@ how likely it is that a coin will turn up heads.
 Centre of mass is irrelevant, the coin's width, length and whatever is
 irrelevant.
 
-Because probability is in *your* head, in your heeeeead. [Zoooombies,
-zoooombies][cranberries].
+Because probability is in *your* head, in your heeeeead. ([Zoooombies,
+zoooombies][cranberries].)
 
 Give me a coin and I will construct a throwing device to approach any frequency
 I want.
