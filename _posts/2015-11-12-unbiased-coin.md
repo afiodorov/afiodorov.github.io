@@ -58,10 +58,11 @@ something physical, something built into this world, something to be discovered
 by flicking coins and throwing dice. But numbers aren't like that. You can
 just compute them. *But the same goes for a trajectory of a coin*.
 
-This idea "physical-randomness" is completely unnecessary. If you don't know
-the answer - use probability theory. Because that's what it is for: dealing
-with insufficient information. Beautifully derived from the Cox's theorem.
-See the details in "Probability Theory: The Logic of Science" by E.T. Jaynes.
+This idea of "randomness as a property of an object or a process" is completely
+unnecessary. If you don't know the answer - use probability theory. Because
+that's what it is for: dealing with insufficient information. Beautifully
+derived from the Cox's theorem. See the details in "Probability Theory: The
+Logic of Science" by E.T. Jaynes.
 
 Now I reserve the right to introduce "fair coins", "biased dice", etc. in
 *pure* maths only. I treat it as a shorthand. It is much more elegant than
