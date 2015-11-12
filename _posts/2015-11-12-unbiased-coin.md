@@ -44,7 +44,7 @@ it's out there to be discovered via a design of clever experiments, via
 orthodox statistical tools which were painstakingly developed took science
 astray for at least a 100 years.
 
-But the problem with orthodox methods and the orthodox idea of probability
+The problem with orthodox methods and the orthodox idea of probability
 being something physical kinda works in many situations. And a Bayesian
 refinement usually only gets you tiny-little gains in accuracy, so is not worth
 it. And that's why this world view hasn't been abandoned. By the cracks are
