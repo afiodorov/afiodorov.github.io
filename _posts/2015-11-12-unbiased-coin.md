@@ -44,12 +44,12 @@ it's out there to be discovered via a design of clever experiments, via
 orthodox statistical tools which were painstakingly developed took science
 astray.
 
-But the main problem with orthodox methods and the orthodox idea of probability
+But the problem with orthodox methods and the orthodox idea of probability
 being something physical kinda works in many situations. And a Bayesian
-refinement usually only gets you tiny-little gains in accuracy, so is not
-worth it. And that's why this world view hasn't been abandoned. By the cracks
-are showing if you push it too much. Not only the methods are capable of
-producing absurd conclusions, they are also self-limiting.
+refinement usually only gets you tiny-little gains in accuracy, so is not worth
+it. And that's why this world view hasn't been abandoned. By the cracks are
+showing if you push it too much. Not only the methods are capable of producing
+absurd conclusions, they are also self-limiting.
 
 "How can you apply Central Limit Theorem to number theory?" - I heard today.
 
