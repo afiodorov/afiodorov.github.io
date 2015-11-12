@@ -49,8 +49,8 @@ being something physical is that it kinda works in many situations. And a
 Bayesian refinement usually only gets you tiny-little gains in accuracy, so is
 not worth it. And that's why this world view hasn't been abandoned. By the
 cracks are showing if you push it too much. Not only the methods are capable of
-producing absurd conclusions, they are also self-limiting. But the limits are
-self-imposed:
+producing absurd conclusions, they are also limiting. Such limits are
+self-imposed. Example:
 
 "How can you apply Central Limit Theorem to arrive at this approximation in
 number theory? Where is randomness in that?" - I heard today.
