@@ -49,10 +49,11 @@ being something physical is that it kinda works in many situations. And a
 Bayesian refinement usually only gets you tiny-little gains in accuracy, so is
 not worth it. And that's why this world view hasn't been abandoned. By the
 cracks are showing if you push it too much. Not only the methods are capable of
-producing absurd conclusions, they are also self-limiting.
+producing absurd conclusions, they are also self-limiting. But the limits are
+self-imposed:
 
-"How can you apply Central Limit Theorem to number theory? Where is randomness
-in that?" - I heard today.
+"How can you apply Central Limit Theorem to arrive at this approximation in
+number theory? Where is randomness in that?" - I heard today.
 
 I guess the question makes sense, if you insist on viewing probability as
 something physical, something built into this world, something to be discovered
