@@ -93,6 +93,13 @@ still deploy encryption relying on this assumption. However, what *has* been
 derived should be used in favour of what *hasn't* when such choice is
 available.
 
+-------
+
+Now isn't this satisfying? There is no need to worry about what "random",
+how to construct "random" variables and how to deal with the fact that
+now matter how hard you try the result is always pseudo random and imperfect
+instead.
+
 *To be continued*.
 
 [^1]: I mean Born's rule, not Shrodinger equation.
