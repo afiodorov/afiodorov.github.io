@@ -76,7 +76,7 @@ independence is the same as "no physical cause".
 # II. Physical causality contrasted with logical causality
 
 Bayesian dependence is also known as logical causality. Examples, where
-orthodoxy treats events are independent, but Bayesians treat them as dependent,
+orthodoxy treats events as independent, but Bayesians treat them as dependent,
 include:
 
 ### Coin tosses
