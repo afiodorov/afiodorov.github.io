@@ -124,7 +124,7 @@ Therefore, the solution to the Emperor's paradox follows:
 >
 > -- <cite>E.T. Jaynes</cite>
 
-### Game theory: Prisoner's dilemma
+### Game theory: Prisoners' dilemma
 
 Orthodoxy: my decision is physically independent of my opponent's decision as
 there is no telepathy, therefore I should just defect regardless of anything
