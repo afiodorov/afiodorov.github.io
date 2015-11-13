@@ -24,7 +24,7 @@ crowd][wisdom], although it is also known as Emperor's height fallacy:
 > \\(h\\), to an accuracy of at leastf  \\(\pm 1\\) meter; if there are \\(N = 1
 > 000 000 000\\) inhabitants, then it seems that we could determine his height
 > to an accuracy at least as good as \\(1/\sqrt{1 000 000 000}\\) m = \\(3 ×
-> 10−5\\) m = \\(0.03\\) mm, merely by asking each person’s opinion and
+> 10^5\\) m = \\(0.03\\) mm, merely by asking each person’s opinion and
 > averaging the results.
 >
 > -- <cite>E.T. Jaynes</cite>
