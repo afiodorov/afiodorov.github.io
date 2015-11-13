@@ -9,7 +9,8 @@ Prerequisite: [there is no such thing as a biased coin]({% post_url 2015-11-12-u
 *Theorem (Central limit theorem)*. Let \\(X_1, \dots, X_n\\) be independent and
 identically distributed random variables with mean \\(0\\), then
 
-$$\frac{X_1 + \cdots + X_n}{n} \xrightarrow{d} N(0, std(X)^2).$$
+$$\frac{X_1 + \cdots + X_n}{n} \xrightarrow{d} N(0,
+\left(\frac{std(X)}{\sqrt{n}}\right)^2).$$
 
 Where \\(std(X)\\) is just a standard deviation of \\(X\\).
 
