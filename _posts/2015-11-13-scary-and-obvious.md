@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Causality, wisdom of a crowd and scary thoughts
+title: Causality, wisdom of the crowd and scary thoughts
 category: probability-the-logic-of-science
 ---
 
