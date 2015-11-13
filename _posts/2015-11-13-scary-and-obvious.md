@@ -21,7 +21,7 @@ Now let's try to apply it. The following is known as [Wisdom of the
 crowd][wisdom], although it is also known as Emperor's height fallacy:
 
 > Supposing that each person in China surely knows the height of the Emperor,
-> \\(h\\), to an accuracy of at least \\(\pm 1\\) meter; if there are \\(N = 1
+> \\(h\\), to an accuracy of at leastf  \\(\pm 1\\) meter; if there are \\(N = 1
 > 000 000 000\\) inhabitants, then it seems that we could determine his height
 > to an accuracy at least as good as \\(1/\sqrt{1 000 000 000}\\) m = \\(3 ×
 > 10−5\\) m = \\(0.03\\) mm, merely by asking each person’s opinion and
@@ -58,7 +58,7 @@ not favoured by physicists.
 Question: are guesses of two people (who didn't not communicate to each other)
 independent?
 
-If first guess, \\(X_1\\), was simply a realisation of some random process,
+If the first guess, \\(X_1\\), was simply a realisation of some random process,
 be it positions of the atoms in the universe or anything else, it *can not*
 predispose another person to guess anything related to \\(X_1\\). If it could,
 then what you are effectively saying is that there's a physical causal effect
