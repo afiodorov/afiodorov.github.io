@@ -162,11 +162,11 @@ chances are it won't be. And it won't be your last bet, if you are a gambler.
 
 You remember [Roko basilisk][roko]?
 
-If you don't, there's a short summary. Somebody "clever" posted this on LW: if
-you believe that strong AI will be developed within your lifespan, that AI
-might decide to torture all the people who were aware of such outcome but
-didn't contribute enough to bring its development forward. Because a delay in
-AI development costs millions of lives (strong Friendly AI is likely to
+If you don't, there's a short summary. Somebody "clever" posted this on
+[LW][LW]: if you believe that strong AI will be developed within your lifespan,
+that AI might decide to torture all the people who were aware of such outcome
+but didn't contribute enough to bring its development forward. Because a delay
+in AI development costs millions of lives (strong Friendly AI is likely to
 discover immortality). So now all of you, readers, should go and dedicate your
 every living moment facilitating AI development.
 
@@ -188,3 +188,4 @@ be careful about what new pieces of knowledge you want to acquire...
 [wisdom]: https://en.wikipedia.org/wiki/Wisdom_of_the_crowd
 [newcomb]: http://lesswrong.com/lw/nc/newcombs_problem_and_regret_of_rationality/
 [roko]: https://en.wikipedia.org/wiki/LessWrong#Roko.27s_basilisk
+[LW]: https://wiki.lesswrong.com/wiki/Sequences
