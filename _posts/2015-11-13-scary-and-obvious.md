@@ -153,7 +153,7 @@ all-encompassing, timeless causality governing your every day life.
 Every time you procrastinate doing X, chances are, you will procrastinate doing
 X again in the future. Arguing with this is not taking evidence into the
 account. So you only thought your distraction was going to take a minute...
-Boom now months of your lives are wasted, accumulatively. That's if you don't
+Boom now months of your **future** live are being wasted. That's if you don't
 break out of the bad habits. However, every time you give in you are making it
 less likely that you ever will.
 
