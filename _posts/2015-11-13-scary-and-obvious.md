@@ -166,8 +166,9 @@ If you don't, there's a short summary. Somebody "clever" posted this on LW: if
 you believe that strong AI will be developed within your lifespan, that AI
 might decide to torture all the people who were aware of such outcome but
 didn't contribute enough to bring its development forward. Because a delay in
-AI development costs millions of lives. So now all of you, readers, should go
-and dedicate your every living moment facilitating AI development.
+AI development costs millions of lives (strong Friendly AI is likely to
+discover immortality). So now all of you, readers, should go and dedicate your
+every living moment facilitating AI development.
 
 Yawn. But then Eliezer Yudkowski freaked out and deleted this whole affair and
 banned such discussions on LW all together.
