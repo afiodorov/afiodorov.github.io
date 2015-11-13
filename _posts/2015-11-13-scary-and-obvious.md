@@ -175,7 +175,7 @@ banned such discussions on LW all together.
 
 When I first heard about such reaction I scoffed at it. With timeless causality
 it makes sense, though. If you managed to convince a person to believe in some
-kind of version of Roko's basilisk than he'll live in fear and misery, slaving
+kind of version of Roko's basilisk than he'll live in fear and misery slaving
 away everyday. Arguably, some religions already do just that: promise some kind
 of after life. But we are talking about really "smart" individuals here slaving
 away because of the timeless causality.
