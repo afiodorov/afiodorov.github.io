@@ -66,7 +66,7 @@ that's what it is for: dealing with insufficient information. Beautifully
 derived from the [Cox's theorem][cox]. See the details in ["Probability Theory:
 The Logic of Science" by E.T. Jaynes][reviews]
 
-Now I reserve the right to introduce "fair coins", "biased dice", etc. in
+Now I reserve the right to introduce "fair coins", "loaded dice", etc. in
 *pure* maths only. I treat it as a shorthand. It is much more elegant than
 saying "let's start with an observer who assigned the following probabilities
 to the following events". That's just too much.
