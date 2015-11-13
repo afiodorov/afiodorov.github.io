@@ -174,12 +174,13 @@ dedicate your every living moment facilitating AI development.
 Yawn. But then Eliezer Yudkowski freaked out and deleted this whole affair and
 banned such discussions on LW all together.
 
-When I first heard about such reaction I scoffed at it. With timeless causality
-it makes sense, though. If you managed to convince a person to believe in some
-kind of version of Roko's basilisk than he'll live in fear and misery slaving
-away everyday. Arguably, some religions already do just that: promise some kind
-of after life. But we are talking about really "smart" individuals here slaving
-away because of the timeless causality.
+When I first heard about such reaction I scoffed at it. It appeared bizarre
+that Eliezer treated such idea with fear. However, after understanding timeless
+causality on a deeper level, it makes sense. If you managed to convince a
+person to believe in some kind of version of Roko's basilisk than he'll live in
+fear and misery slaving away everyday. Arguably, some religions already do just
+that: promise some kind of after life. But we are talking about really "smart"
+individuals here slaving away because of the timeless causality.
 
 So if you already subscribe to timeless causality philosophy, you might want to
 be careful about what new pieces of knowledge you want to acquire...
