@@ -149,7 +149,8 @@ therefore I should sometimes one-box with a credible predictor.
 
 If you subscribe to a Bayesian point of view, and chances are you do as people
 don't bother reading what they disagree with in the first place, you now have
-an all-encompassing, timeless causality governing your every day life.
+an all-encompassing, timeless (logical) causality governing your every day
+life.
 
 Every time you procrastinate doing X, chances are, you will procrastinate doing
 X again in the future. Arguing with this is not taking evidence into the
