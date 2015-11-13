@@ -33,16 +33,14 @@ So what is going on with our misapplication of CLT?
 Let us first figure out what independent assumption means.  The formal
 definition is the following:
 
-$$P(X_1 | X_2) = P(X_1).$$
+$$P(X_2 | X_1) = P(X_2).$$
 
 So, knowing the value of the first experiment doesn't change the probability
 of the second experiment.
 
-However, this is where the way you perceive probability starts to *matter*. I
-can't wait to highlight how all the derision of Bayesianism as something
-metaphysical, unimportant and just philosophical is misguided.
+However, this is where the way you perceive probability starts to *matter*.
 
-## I. Orthodox statistics
+# I. Orthodox statistics
 
 If your brain was twisted by modern teachings of probability theory you start
 thinking that there's something random in this universe which drives the
@@ -63,41 +61,129 @@ If first guess, \\(X_1\\), was simply a realisation of some random process,
 be it positions of the atoms in the universe or anything else, it *can not*
 predispose another person to guess anything related to \\(X_1\\). If it could,
 then what you are effectively saying is that there's a physical causal effect
-between individual guesses. So mutterings of the first responded changes the
-minds of the respondents afterwards. Nonsense. (*No* communication between the
-respondents is assumed.)
+between individual guesses. So mutterings of the first respondent changes the
+minds of the respondents afterwards. Nonsense as there is no such thing as
+telepathy. (*No* communication between respondents is assumed.)
 
 Therefore, in orthodox statistics, individual guesses are independent.
 
 This conclusion is absurd: if the respondents keep overestimating the Emperor's
 height, you should start taking this data into account: as it is likely that
-the next guess will also be over. But, not in orthodox stats, where
+the next guess will also be over. But not in orthodox stats, where
 independence is the same as "no physical cause".
 
-So what stopping us from applying Central limit theory (CLT) is the identically
-distributed assumption.
+# II. Physical causality contrasted with logical causality
 
-So assign a probability distribution, say \\(\mathcal{R}(\mu, \sigma^2)\\) such
-that the sequences of guesses \\(X_1, X_2, X_3, \dots, X_n\\) came from it. But
-now the CLT applies and we can say that
+Bayesian dependence is also known as logical causality. Examples, where
+orthodoxy treats events are independent, but Bayesians treat them as dependent,
+include:
 
-$$\frac{X_1 + \dots + X_n}{n} \approx N(\mu, \sigma^2 / n)$$
+### Coin tosses
 
-So as long as \\(\mu\\) is close to the real height of the Emperor, \\(h\\), we
-arrive at a supposedly incredibly accurate estimation.
+Orthodoxy: probability is a property of a coin, tossing a coin once won't
+change the coin (unless you damage it), so first toss tells us nothing about
+the outcome of the second toss.
 
-Since  \\(\mu\\) is unknown, it is estimated by \\(\hat{\mu}\\):
+Bayesians: probability is in the head, so the first toss will reveal to me
+useful information about the propensity of a coin to come up heads and I will
+adjust my probability with each toss.
 
-$$\hat{\mu} := \frac{X_1 + \dots + X_n}{n}.$$
+### Future events
 
-And, orthodoxy concludes, that Wisdom of a Crowd is correct as long as
+Orthodoxy: probability of a die doesn't change even if I am told about the
+future outcomes, because probability is a property of a die, and unless you
+deform the die, nothing can change.
 
-* no communication
-* \\(\hat{\mu} = h\\)
+Bayesians: probability is in the mind, I can condition on future events and
+this will change the way I predict present events. No axioms of probability
+theory refer to time at all, so there's no reason to not do it.
 
-Last condition can also be rephrased
+### Responses on a survey
 
-Last condition is "you don't say". Because it lead us to a tautology: wisdom
-is correct as long as it's correct. No shit, Sherlock.
+Orthodoxy: individual responses don't affect each other as long as people
+are not allowed to communicate since telepathy doesn't exist.
 
+Bayesians: my ability to predict a response of the next person improves
+with more data. If I detected a systematic error in the previous responses,
+it is likely due to some underlying cause, such as folklore/media, this
+error is likely to be present in the future responses.
+
+Therefore, the solution to the Emperor's paradox follows:
+
+> The absurdity of the conclusion tells us rather forcefully that the
+> \\(\sqrt{N}\\) rule is not always valid, even when the separate data values
+> are causally independent; it is essential that they be logically independent.
+> In this case, we know that the vast majority of the inhabitants of China have
+> never seen the Emperor; yet they have been discussing the Emperor among
+> themselves, and some kind of mental image of him has evolved as folklore.
+> Then, knowledge of the answer given by one does tell us something about the
+> answer likely to be given by another, so they are not logically independent.
+> Indeed, folklore has almost surely generated a systematic error, which
+> survives the averaging; thus the above estimate would tell us something about
+> the folklore, but almost nothing about the Emperor.
+>
+> -- <cite>E.T. Jaynes</cite>
+
+### Game theory: Prisoner's dilemma
+
+Orthodoxy: my decision is physically independent of my opponent's decision as
+there is no telepathy, therefore I should just defect regardless of anything
+else.
+
+Bayesians: my decision is anthropomorphic evidence of how humans behave in
+this situation, so the way I model the opponent depends on what I decide to
+do. So there are situations when [I shouldn't defect][prisoners], since my
+cooperation makes it more likely that a similarly-thinking opponent would also
+cooperate.
+
+### Game theory: [Newcomb's paradox][newcomb]
+
+Orthodoxy: my decision physically can not affect the prediction, therefore
+taking both boxes is the optimal thing to do.
+
+Bayesians: my decision provides me with some evidence on the prediction,
+therefore I should sometimes one-box with a credible predictor.
+
+# III. Scary thoughts, finally
+
+If you subscribe to a Bayesian point of view, and chances are you do as people
+don't bother reading what they disagree with in the first place, you now have
+all-encompassing, timeless causality governing your every day life.
+
+Every time you procrastinate doing X, chances are, you will procrastinate doing
+X again in the future. Arguing with this is not taking evidence into the
+account. So you only thought your distraction was going to take a minute...
+Boom now months of your lives are wasted, accumulatively. That's if you don't
+break out of the bad habits. However, every time you give in you are making it
+less likely that you ever will.
+
+If you are a smoker and you pledge that this will be your *last* cigarette,
+chances are it won't be. And it won't be your last bet, if you are a gambler.
+
+You remember [Roko basilisk][roko]?
+
+If you don't, there's a short summary. Somebody "clever" posted this on LW: if
+you believe that strong AI will be developed within your lifespan, that AI
+might decide to torture all the people who were aware of such outcome but
+didn't contribute enough to bring it forward. Because a delay in AI development
+costs millions of lives. So now all of you, readers, should go and dedicate
+your every living moment facilitating AI development.
+
+Yawn. But then Eliezer Yudkowski freaked out and deleted this whole affair and
+banned such discussions on LW all together.
+
+When I first heard about such reaction I scoffed at it. With timeless causality
+it makes sense, though. If you managed to convince a person to believe in some
+kind of version of Roko's basilisk than he'll live in fear and misery, slaving
+away everyday. Arguably, some religions already do just that: promise some kind
+of after life. But we are talking about really "smart" individuals here slaving
+away because of the timeless causality.
+
+So if you already subscribe to timeless causality philosophy, you might want to
+be careful about what new pieces of knowledge you want to acquire...
+
+
+[prisoners]: http://chalkdustmagazine.com/features/breaking-out-of-the-prisoners-dilemma/
 [wisdom]: https://en.wikipedia.org/wiki/Wisdom_of_the_crowd
+[newcomb]: http://lesswrong.com/lw/nc/newcombs_problem_and_regret_of_rationality/
+[roko]: https://en.wikipedia.org/wiki/LessWrong#Roko.27s_basilisk
