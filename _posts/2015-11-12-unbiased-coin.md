@@ -102,7 +102,7 @@ how to construct "random variables" and how to deal with the fact that
 no matter how hard you try the result is always pseudorandom and imperfect
 instead.
 
-*To be continued*.
+[*To be continued*]({% post_url 2015-11-13-scary-and-obvious %}).
 
 [^1]: I mean Born's rule, not Shrodinger equation.
 
