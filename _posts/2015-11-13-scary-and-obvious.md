@@ -9,19 +9,20 @@ Prerequisite: [there is no such thing as a biased coin]({% post_url 2015-11-12-u
 *Theorem (Central limit theorem)*. Let \\(X_1, \dots, X_n\\) be independent and
 identically distributed random variables with mean \\(0\\), then
 
-$$\frac{X_1 + \cdots + X_n}{n} \xrightarrow{d} N(0,
+$$\frac{X_1 + \cdots + X_n}{n} \xrightarrow{d} \mathcal{N}(0,
 \left(\frac{std(X)}{\sqrt{n}}\right)^2).$$
 
 Where \\(std(X)\\) is just a standard deviation of \\(X\\).
 
 I hope you vaguely remember how it works: take any experiment, repeat it many
-times independently and Gaussian distribution comes out. **Magic**.
+times independently and Gaussian distribution, \\(\mathcal{N}\\), comes out.
+**Magic**.
 
 Now let's try to apply it. The following is known as [Wisdom of the
 crowd][wisdom], although it is also known as Emperor's height fallacy:
 
 > Supposing that each person in China surely knows the height of the Emperor,
-> \\(h\\), to an accuracy of at leastf  \\(\pm 1\\) meter; if there are \\(N = 1
+> \\(h\\), to an accuracy of at least  \\(\pm 1\\) meter; if there are \\(N = 1
 > 000 000 000\\) inhabitants, then it seems that we could determine his height
 > to an accuracy at least as good as \\(1/\sqrt{1 000 000 000}\\) m = \\(3 ×
 > 10^5\\) m = \\(0.03\\) mm, merely by asking each person’s opinion and
