@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stating the obvious consequences
+title: Stating obvious consequences
 ---
 
 Sometimes authors don't state the far-reaching consequences of their work.
