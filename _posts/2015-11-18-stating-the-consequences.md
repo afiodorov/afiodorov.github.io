@@ -107,7 +107,7 @@ and how to make it value what we, humans, value?
 The technical details of all of this haven't yet been worked out, but a
 first-order approximation framework began to emerge. And people in charge of
 such theoretical AI designs needed to unite some work in epistemology,
-decision-making, game-theory, ethics and more for their answers.
+decision-theory, game-theory, ethics and more for their answers.
 
 However, as a nice side effect such people stumbled upon ways how to make, us,
 humans more strategic: we should just strive to approximate such idealised
