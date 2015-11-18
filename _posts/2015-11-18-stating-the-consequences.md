@@ -123,4 +123,4 @@ Your welcome.
 [field]: https://en.wikipedia.org/wiki/Field_(mathematics)
 [cox]: https://en.wikipedia.org/wiki/Cox%27s_theorem
 [idontknow]: https://afiodorov.github.io/rationality/2015/11/18/just-plausibility/
-[LW]: https://wiki.lesswrong.com/wiki/Sequences
+[LW]: https://wiki.lesswrong.com/wiki/FAQ
