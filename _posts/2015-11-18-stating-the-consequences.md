@@ -45,13 +45,13 @@ you have. Since you can only have limited amount of information, you need a
 theory to deal with uncertainty. Turns out probability theory is a unique
 way to deal with uncertainty.
 
-Roughly speaking, if you want to adhere to some mild assumptions of reasoning,
-then you should assign a probability to every statement that you believe, *as a
-consequence*. And then update such number according to the laws of probability
-theory when you encounter new information. The higher probability you assign,
-the more confident you are. Of course, in practice you should only strive to
-approximate this framework, as the mother nature didn't equip our human
-brains with such calculators.
+Roughly speaking, if you want to adhere to some commonsense assumptions of
+reasoning, then you should assign a probability to every statement that you
+believe, *as a consequence*. And then update such number according to the laws
+of probability theory when you encounter new information. The higher
+probability you assign, the more confident you are. Of course, in practice you
+should only strive to approximate this framework, as the mother nature didn't
+equip our human brains with such calculators.
 
 Why is this highly significant? Philosophers argued for centuries about
 different epistemologies, developed and spread retarded memes as a result.
