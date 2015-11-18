@@ -23,7 +23,7 @@ I recall the following conversation from my undergraduate lecture:
 > same with triples we'd develop another fascinating subject. But we won't as
 > it's not possible.
 >
-> Friend: I never realised such consequence, I guess such investigation makes
+> Friend: I never made this connection, I guess such investigation makes
 > sense now.
 
 However the above motivation behind investigating whether triplets could be
