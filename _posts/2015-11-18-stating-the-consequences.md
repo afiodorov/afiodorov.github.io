@@ -119,7 +119,7 @@ AI people.
 This is how [lesswrong][LW] was born in 2009 which provided some of the answers
 to:
 
-> OMG my brain is a massive liar what do I do now?
+> OMG my brain is a massive liar, how do I mitigate the damage?
 
 Your welcome, crazy people.
 
