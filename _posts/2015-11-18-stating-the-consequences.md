@@ -76,7 +76,7 @@ More and more people I speak to read ["Thinking, Fast and Slow"][thinking]. And
 then said "meh" and went back to living their lives the way they lived before.
 I hear the following sentiments:
 
-> Kahneman is telling me people, en-masse, are irrational? Who would've
+> Kahneman is telling me that people, en-masse, are irrational? Who would've
 > thought!
 
 Daniel's mighty thesis that people are, in fact, irrational is hard to dispute.
