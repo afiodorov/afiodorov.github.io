@@ -66,8 +66,8 @@ physicist, R. T. Cox.
 
 Another thing about Cox's theorem is that it is single-valued. Turns out how
 human feel about a statement: whether it's offensive or noble doesn't affect
-it's veracity. Again, this is all just a consequence of the proof.  Turns out
-taking an offence doesn't disprove a statement. People identifying with social
+it's veracity. Again, this is all just a consequence of the proof. So taking
+an offence doesn't disprove a statement and people identifying with social
 justice movement ought to start taking this into account.
 
 # Work by Daniel Kahneman
