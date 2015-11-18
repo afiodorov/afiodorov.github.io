@@ -72,9 +72,9 @@ justice movement ought to start taking this into account.
 
 # Work by Daniel Kahneman
 
-More and more people I speak to read "Thinking fast and slow". And then said
-"meh" and went back to living their lives the way they lived before. I hear the
-following sentiments:
+More and more people I speak to read ["Thinking, Fast and Slow"][thinking]. And
+then said "meh" and went back to living their lives the way they lived before.
+I hear the following sentiments:
 
 > Kahneman is telling me people, en-masse, are irrational? Who would've
 > thought!
@@ -127,3 +127,4 @@ Your welcome, crazy people.
 [cox]: https://en.wikipedia.org/wiki/Cox%27s_theorem
 [idontknow]: https://afiodorov.github.io/rationality/2015/11/18/just-plausibility/
 [LW]: https://wiki.lesswrong.com/wiki/FAQ
+[thinking]: http://www.amazon.co.uk/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576
