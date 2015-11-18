@@ -19,7 +19,7 @@ I recall the following conversation from my undergraduate lecture:
 >
 > Me: You remember you told me that complex analysis is your favourite topic at
 > the moment? Come to think of it, most of it is only possible due to the fact
-> that we turned pairs of real numbers into a field. Perhaps if we could the
+> that we turned pairs of real numbers into a field. Perhaps if we could do the
 > same with triples we'd develop another fascinating subject. But we won't as
 > it's not possible.
 >
