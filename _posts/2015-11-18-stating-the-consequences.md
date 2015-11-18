@@ -58,7 +58,7 @@ different epistemologies, developed and spread retarded memes as a result.
 
 Such as: you can never be sure of anything or every belief is valid. Such
 ideas blatantly violate the conclusion of the Cox's theorem: the certainty
-you assign to believes does not have only 3 values: (true, false, I don't know),
+you assign to beliefs does not have only 3 values: (true, false, I don't know),
 it has an entire uncoutable range of them.  I wrote more about it in
 [Plausibility = Just Double | DoNotKnow][idontknow]. And it's all right there,
 in the boring equations. Work of a dozen of philosophers undermined by one
