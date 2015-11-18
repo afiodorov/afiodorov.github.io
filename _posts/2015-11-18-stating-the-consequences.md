@@ -89,7 +89,7 @@ However, what really *should* be happening is the following:
 > Oh my god, everything I've ever believed in, ever wanted to achieve and ever
 > argued for could well be deeply mistaken. Time and time again Daniel's book
 > highlighted that our intuitions are often wrong. This wasted millions of
-> man-hours spent on achieving stuff ineffectively by people who didn't
+> man-hours spent on achieving stuff inefficiently by people who didn't
 > *really* want to achieve it had they thought about it more logically. I
 > *need* some new, solid knowledge on how to be sure that I avoid similar
 > traps.
