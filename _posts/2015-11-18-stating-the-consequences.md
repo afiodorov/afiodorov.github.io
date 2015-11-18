@@ -121,7 +121,7 @@ to:
 
 > OMG my brain is a massive liar, how do I mitigate the damage?
 
-Your welcome, crazy people.
+You're welcome, crazy people.
 
 [field]: https://en.wikipedia.org/wiki/Field_(mathematics)
 [cox]: https://en.wikipedia.org/wiki/Cox%27s_theorem
