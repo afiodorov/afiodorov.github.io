@@ -10,7 +10,7 @@ Such a norm seems to be quite prevalent in maths. I think there's also a lot
 of signalling going on not stating the obvious: I guess that's one way to
 project smartness.
 
-I recall the following conversation from my undergraduate lectures:
+I recall the following conversation from my undergraduate lecture:
 
 > Me: I really like this result in algebraic number theory showing that
 > triplets of real numbers can not be turned into a [field][field].
@@ -84,7 +84,7 @@ But there's more to it than just that. Together with Tversky he identified some
 areas where people are irrational and guided us how to avoid such common
 pitfalls. And, perhaps, some readers take notice and adjust.
 
-But what isn't happening, but really *should* be happening is the following:
+However, what really *should* be happening is the following:
 
 > Oh my god, everything I've ever believed in and ever argued for could well be
 > deeply mistaken. Time and time again Daniel's book highlighted that our
