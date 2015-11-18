@@ -112,7 +112,7 @@ However, as a nice side effect such people stumbled upon ways how to make, us,
 humans more strategic: we should just strive to approximate such idealised
 framework, especially in the areas where the effect of System 1 is particularly
 strong. And, as it has been discovered, Kahneman's work was far from
-exhaustive. "People are crazy, the world is mad." is the sentiment from the AI
+exhaustive. "People are crazy, the world is mad" - is the sentiment from the AI
 people.
 
 This is how [lesswrong][LW] was born in 2009 which provided some of the answers
