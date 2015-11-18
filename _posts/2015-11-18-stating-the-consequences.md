@@ -109,7 +109,7 @@ first-order approximation framework began to emerge. And people in charge of
 such theoretical AI designs needed to unite some work in epistemology,
 decision-theory, game-theory, ethics and more for their answers.
 
-However, as a nice side effect such people stumbled upon ways how to make, us,
+However, as a nice side effect such people stumbled upon ways how to make us,
 humans more strategic: we should just strive to approximate such idealised
 framework, especially in the areas where the effect of System 1 is particularly
 strong. And, as it has been discovered, Kahneman's work was far from
