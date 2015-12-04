@@ -34,7 +34,7 @@ until we actually get round defining this threshold.
 Now what do we actually mean by raw intelligence? No one really knows what it
 is, but one thing is clear: clever people do well on a lot of seemingly
 unrelated tasks. And this is highly frustrating for some of us who invest a lot
-of time in the aforementioned deliberate practise only to be outperformed by
+of time in the aforementioned deliberate practice only to be outperformed by
 “genius amateurs”. The correlations across different fields are referred to as
 a g-factor. Colloquially, we refer to people who possess “much raw
 intelligence” as high G people.
