@@ -21,9 +21,9 @@ in certain things, but the following statement is not something I can defend:
 
 ----
 
-I think we all agree that some kind innate talent is necessary and just having
-a lot of innate talent is not sufficient. But can we actually quantify this
-sentiment?
+I think we all agree that some kind of innate talent is necessary and just
+having a lot of innate talent is not sufficient. But can we actually quantify
+this sentiment?
 
 This is called threshold theory. Once you are above a certain threshold in raw
 intelligence, other factors start to play a role. Factors such as being
