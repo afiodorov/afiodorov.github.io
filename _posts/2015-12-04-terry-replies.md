@@ -42,8 +42,8 @@ intelligence” as high G people.
 So one way to measure G is by distributing an IQ test. The role and value of IQ
 tests is the fact that people who do well on them *tend to* do well on other
 tasks, such as mathematics. Bear in mind, we are talking about a correlation,
-which is not *1.0*. The are and will be people who are not so good at maths yet
-score high on the IQ test for various reasons.
+which is not *1.0*. There are and will be people who are not so good at maths
+yet score high on the IQ test for various reasons.
 
 ----
 
