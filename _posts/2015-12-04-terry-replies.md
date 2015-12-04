@@ -147,7 +147,7 @@ experience this scenario is rarer than is sometimes assumed by outside
 observers, though it certainly can make for a more interesting story to tell.
 
 [post]: https://terrytao.wordpress.com/career-advice/does-one-have-to-be-a-genius-to-do-maths/
-[IQ]: http://infoproc.blogspot.co.uk/2008/07/annals-of-psychometry-iqs-of-eminent.html.
+[IQ]: http://infoproc.blogspot.co.uk/2008/07/annals-of-psychometry-iqs-of-eminent.html
 [LW]: http://lesswrong.com/lw/lq3/innate_mathematical_ability/
 [scott]: http://slatestarcodex.com/2015/01/31/the-parable-of-the-talents/
 [wiki]: https://en.wikipedia.org/wiki/Berkson%27s_paradox
