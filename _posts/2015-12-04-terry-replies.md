@@ -7,7 +7,7 @@ I left the following comment on Terry's blog today. The comment is just a
 summary of several blog posts from the blogosphere I belong to and is a result
 of a conversation I was having with a friend (like many blog posts here).
 
-See the original post and comment [here][post].
+See the original post and comment on Terry's post ["Does one have to be a genius to do maths?"][post].
 
 ## MY COMMENT BEGINS
 
