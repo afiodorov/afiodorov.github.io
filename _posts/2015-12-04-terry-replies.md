@@ -53,7 +53,7 @@ If you are aiming for the Fields medal, then, yes, it actually has to be very
 high. But may be, you just shouldn't? Why is this a worthy goal? I want to
 congratulate Terry for pointing this out as he gets this point absolutely
 right. Repeat after me: [your IQ is fixed for you and it doesn't define your
-worthiness as a human being][scott].
+worth as a human being][scott].
 
 Now, going back to the claim that IQ has to be high. Anne Roe wrote in “The
 Making of a Scientist” eminent scientists in some fields have average IQs
