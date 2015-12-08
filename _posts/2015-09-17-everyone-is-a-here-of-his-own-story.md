@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Everyone is a hero of his own story
-visible: 1
+visible: 0
 ---
 
 ## I.
