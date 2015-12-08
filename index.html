@@ -5,6 +5,7 @@ title: Home
 
 <section class="archive">
 {% for post in site.posts %}
+{% if post.visible != 0  %}
 {% unless post.next %}
 
 {% unless forloop.first %}</div></div>{% endunless %}
@@ -35,5 +36,6 @@ title: Home
 
 {% if forloop.last %}</div></div>{% endif %}
 
+{% endif %}
 {% endfor %}
 </section>
