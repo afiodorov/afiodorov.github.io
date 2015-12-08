@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Frequentist vs Bayesian statistics and more
-visible: 1
+visible: 0
 ---
 
 To demonstrate a difference between Bayesians and Frequentists, I'll use
