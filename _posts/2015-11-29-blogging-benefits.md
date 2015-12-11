@@ -11,7 +11,7 @@ Shortly after I started blogging a couple of (long-lost) people got in touch wit
 
 Another interesting consequence is that people who occasionally lurk through some content here sometimes bring it up when we meet and that's a path towards more interesting conversations.
 
-I was originally worried about my content being unoriginal and low-quality, but it turns out however unoriginal my content is I can always put a spin on it by self-referencing, self-deprecating humour, like I am doing right now.
+I was originally worried about my content being unoriginal and low-quality, but it turns out however unoriginal my content is I can always put a spin on it by self-referencing, self-deprecating humour, like I am doing it right now.
 
 Another way to shine a new light on content is by making it relatable and relevant via use of personal examples.
 
