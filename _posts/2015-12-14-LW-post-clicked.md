@@ -1,4 +1,4 @@
----
+--
 layout: post
 title: Why do we not consult statisticians about everything?
 ---
@@ -53,7 +53,7 @@ referred to as X):
 
 ----
 
-So, *why* do we not call our statistician friend when we are not sure about
+So, *why* do we not call our statistician friends when we are not sure about
 something?
 
 The reality is quite ugly at the moment. Statisticians and empiricists are, on
