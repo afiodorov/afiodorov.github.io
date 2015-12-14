@@ -22,7 +22,7 @@ title: Why do we not consult statisticians about everything?
 The above quote describes the moment when my readings of LessWrong's core
 sequences *clicked*. Of course, if a job of a statistician is to come up with
 empirical truths from observations, they ought to have an advantage over the
-rest of us when it comes to everyday opinions. Alas not.
+rest of us when it comes to everyday opinions.
 
 Because it's statisticians who should be aware of [base rate fallacy][base],
 [Berkson's paradox][berk], [inspection paradox][inspection], [Simpsons's
