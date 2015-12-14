@@ -1,4 +1,4 @@
---
+---
 layout: post
 title: Why do we not consult statisticians about everything?
 ---
