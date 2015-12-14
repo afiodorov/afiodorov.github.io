@@ -106,8 +106,11 @@ Such prosaic idea sidetracks aspiring statisticians into philosophy at the very
 beginning of the teaching process. However, we tried jumping straight into
 maths without worrying about interpretations. Such leap failed, see the
 parapsychology example. So we must extract the most useful ideas from
-philosophy and teach it in the first weeks of Statistics 1 courses. Implications
-of [Cox's theorem][Cox] is a good start.
+philosophy and teach it in the first weeks of Statistics 1 courses.
+Implications of [Cox's theorem][Cox] is a good start followed by a long list
+of statistical pitfalls listed above.
+
+Step 1 to fixing science: writing a blog post about it. Check.
 
 [^1]: Scott's summary of it: the most virtuous possible epistemic state is to
       not believe anything. This leads to nihilism, moral relativism,
