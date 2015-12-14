@@ -94,7 +94,7 @@ statistician*. From a person whose day-to-day job is to separate out incorrect
 opinions from correct ones.
 
 This rings an alarm bell. No, statistics isn't a social convention we do to get
-oneself published. And it also makes we wonder whether I can trust *academic
+published. And it also makes we wonder whether I can trust *academic
 papers* of statisticians who don't see it this way.
 
 ---------
