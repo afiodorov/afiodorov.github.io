@@ -110,7 +110,7 @@ philosophy and teach it in the first weeks of Statistics 1 courses.
 Implications of [Cox's theorem][Cox] is a good start followed by a long list
 of statistical pitfalls listed above.
 
-Step 1 to fixing science: writing a blog post about it. Check.
+Step 1 on fixing science: writing a blog post about it. Check.
 
 [^1]: Scott's summary of it: the most virtuous possible epistemic state is to
       not believe anything. This leads to nihilism, moral relativism,
