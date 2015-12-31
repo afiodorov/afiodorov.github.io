@@ -10,7 +10,7 @@ $$A = 1! \times 2! \times 3! \times \dots \times 119! \times 120!$$
 Can you cross out a factorial (\\(n!\\)) out of the product in \\(A\\) so that
 the remaining product (\\(A/n!\\)) is a square?
 
-Solution (hover over):
+*Solution (hover over)*:
 
 > \begin{align}
 > A &= 2 \times 4 \times \dots \times 120 \times (1!)^2 \times (2!)^2 \dots (119!)^2
@@ -28,7 +28,7 @@ routine. She saw him on her way to the station, picked him up, turned around
 (in no time) and drove him home. They arrived 20 minutes earlier than usual.
 How long did the man walk for?
 
-Solution (hover over)
+*Solution (hover over)*:
 
 > Let's say the man usually arrives at 17. Since the wife drove for 20 minutes
 > less than usual in total, she drove for 10 minutes less each way. So she
