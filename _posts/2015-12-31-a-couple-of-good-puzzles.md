@@ -15,7 +15,7 @@ the remaining product (\\(A/n!\\)) is a square?
 > \begin{align}
 > A &= 2 \times 4 \times \dots \times 120 \times (1!)^2 \times (2!)^2 \dots (119!)^2
 > \\\\\\
-> &= 60! \times 2^{60} \times (1!)^2 \times (2!)^2 \dots (119!)^2
+> &= 60! \times 2^{60} \times (1!)^2 \times (3!)^2 \times (5!)^2 \dots (119!)^2
 > \end{align}
 > So \\(A / 60!\\) is a square.
 {: .hidden}
