@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Social norms in my PhD office
+visible: 0
 ---
 
 People are severely constrained by the obsession with what others think of them.
