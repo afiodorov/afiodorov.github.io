@@ -3,7 +3,7 @@ layout: post
 title: Two approaches to programming
 ---
 
-There are two approaches to ~~programming~~ life in general when it comes to
+There are two approaches to ~~programming~~ life when it comes to
 resolving issues.
 
 First one is: get the hell on with it. The engineer's mindset. Who cares if
@@ -12,7 +12,7 @@ do it. Don't google about it, don't read and don't ask. There's you, there's
 this keyboard and there will be code.
 
 And the second one is? Academic. Probably someone on this planet has had this
-problem before. And perhaps that someone was nice enough to document his
+problem before. And perhaps that someone was nice enough to document the
 solution. Even better, there was a poor-ass PhD who spent a couple of years
 thinking about just this problem, solving every edge case of it and inventing
 the most optimal solution ever. The challenge is to find it, to understand it
