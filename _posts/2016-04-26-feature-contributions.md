@@ -123,10 +123,12 @@ assumption should not be too misleading.
 
 Moreover the validity of the conditional independence assumption can be
 evaluated by looking at the variability of the bias term across samples, as the
-bias term contains covariate interaction conditional on the output. The
-algorithm could be extended to removing 2 and more features at a time to learn
-contributions from interaction terms. However the complexity of such
-modification grows exponential with the number of interactions considered.
+bias term contains covariate interaction conditional on the output. High variance
+indicates that the assumption of the conditional independence is not true.
+
+Potentially, the algorithm could be extended to removing 2 and more features at
+a time to learn contributions from interaction terms. However the complexity of
+such modification grows exponential with the number of interactions considered.
 
 The method assumes that the supplied classifier \\(f\\) is well-calibrated
 and outputs correct probabilities.
