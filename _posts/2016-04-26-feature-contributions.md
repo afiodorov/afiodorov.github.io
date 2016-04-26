@@ -147,7 +147,7 @@ $$
 P(y | x_1, x_2, \dots, x_{k-1}, x_{k+1}, \dots, x_p)
 $$
 
-formally, one needs to know the  density of \\(X_k\\), \\(p(X_k)\\); then
+formally, one needs to know the density of \\(X_k\\), \\(p(X_k)\\); then
 
 $$
 P(y | x_1, x_2, \dots, x_{k-1}, x_{k+1}, \dots, x_p)
@@ -156,7 +156,7 @@ P(y | x_1, x_2, \dots, x_{k-1}, x_{k+1}, \dots, x_p)
 $$
 
 One can estimate \\(p(x_k)\\) empirically by fitting a density function,
-\\( \hat p_k(x) \\) into \\( X_k \\), yielding
+\\( \hat p_k(x) \\), into \\( X_k \\), yielding
 
 $$
 \int P(y | x_1, x_2, \dots, x_{k-1}, x_k, x_{k+1} \dots, x_p) p(x_k) \; \mathrm{d} x_k
