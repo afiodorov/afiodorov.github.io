@@ -171,7 +171,7 @@ the summation further by plucking out just one term from it where most probabili
 mass is concentrated, i.e.
 \\( \bar x_k := \operatorname{argmax} \hat p_k(x) \\), where argmax is taken over
 the range of \\(X_k \\) of the training dataset. Since the dataset is
-unbalanced, \\( \bar x \\) occurs at the mode of \\( X_k \\) restricted to the
+unbalanced, \\( \bar x_k \\) occurs at the mode of \\( X_k \\) restricted to the
 negative class.
 
 ## Further work
