@@ -116,10 +116,17 @@ same probabilities.
 
 ## Technicalities and assumptions
 
-The Naive-Bayes assumption, whereas not true in theory, often works pretty
-well in practise as it has been shown by Naive Bayes classifiers. If only
-approximate contributions are sought after then this assumption should not be
-too misleading.
+The Naive-Bayes assumption, whereas rarely true in real-life applications,
+often works pretty well in practise as it has been shown by Naive Bayes
+classifiers. If only approximate contributions are sought after then this
+assumption should not be too misleading.
+
+Moreover the validity of the conditional independence assumption can be
+evaluated by looking at the variability of the bias term across samples, as the
+bias term contains covariate interaction conditional on the output. The
+algorithm could be extended to removing 2 and more features at a time to learn
+contributions from interaction terms. However the complexity of such
+modification grows exponential with the number of interactions considered.
 
 The method assumes that the supplied classifier \\(f\\) is well-calibrated
 and outputs correct probabilities.
