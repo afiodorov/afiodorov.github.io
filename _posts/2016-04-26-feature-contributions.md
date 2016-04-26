@@ -67,7 +67,7 @@ $$
 P(y | x_1, x_2, \dots, x_p) = C(X) P(y) \prod_{k=1}^{p} p_{-k},
 $$
 
-where \\( C(X) \\) is a constant which only depends on the data and
+where \\( C(X) \\) is a constant which depends on the sample's data only and
 
 $$p_{-k} := \frac{P(y | x_1, x_2, \dots, x_p) }
 {P(y | x_1, \dots x_{k-1}, x_{k+1}, \dots x_p)}$$
@@ -83,8 +83,7 @@ $$
 \log P(y | x_1, x_2, \dots, x_p) = bias + \sum_{i = 1}^{p} \log p_{-i}
 $$
 
-where bias term ensures equality, is equal to \\(\log (C(D)P(y)) \\) and
-is shared across all samples.
+where bias term ensures equality and is equal to \\(\log (C(X)P(y)) \\).
 
 ## Feature importances: practice
 
@@ -120,11 +119,6 @@ The Naive-Bayes assumption, whereas rarely true in real-life applications,
 often works pretty well in practise as it has been shown by Naive Bayes
 classifiers. If only approximate contributions are sought after then this
 assumption should not be too misleading.
-
-Moreover the validity of the conditional independence assumption can be
-evaluated by looking at the variability of the bias term across samples, as the
-bias term contains covariate interaction conditional on the output. High variance
-indicates that the assumption of the conditional independence is not true.
 
 Potentially, the algorithm could be extended to removing 2 and more features at
 a time to learn contributions from interaction terms. However the complexity of
