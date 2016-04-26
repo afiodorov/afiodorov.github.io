@@ -139,5 +139,40 @@ an empirical distribution for the feature.
 Defining a mode for continuous range is a bit tricky as it requires
 binning values and a hyper parameters emerge for sizes of bins.
 
-Finally, evaluation of such feature decomposition on a simulation data is
-missing for a complete treatment of the subject matter.
+### More on evaluating \\(p_{-k}\\)
+
+In order to find
+
+$$
+P(y | x_1, x_2, \dots, x_{k-1}, x_{k+1}, \dots, x_p)
+$$
+
+formally, one needs to know the  density of \\(X_k\\), \\(p(X_k)\\); then
+
+$$
+P(y | x_1, x_2, \dots, x_{k-1}, x_{k+1}, \dots, x_p)
+=
+\int P(y | x_1, x_2, \dots, x_{k-1}, x_k, x_{k+1} \dots, x_p) p(x_k) \; \mathrm{d} x_k
+$$
+
+One can estimate \\(p(x_k)\\) empirically by fitting a density function,
+\\( \hat p_k(x) \\) into \\( X_k \\), yielding
+
+$$
+\int P(y | x_1, x_2, \dots, x_{k-1}, x_k, x_{k+1} \dots, x_p) p(x_k) \; \mathrm{d} x_k
+\approx \sum_{i=1}^N f(x_1, x_2, \dots, x_{ki}, \dots x_p) \hat p_k (x_{ki}),
+$$
+
+where \\( N \\) is the number of samples in the training dataset, \\(x_{ki}\\) ranges
+over the values of \\(X_k\\) in the training data set. Our algorithm approximates
+the summation further by plucking out just one term from it where most probability
+mass is concentrated, i.e.
+\\( \bar x_k := \operatorname{argmax} \hat p_k(x) \\), where argmax is taken over
+the range of \\(X_k \\) of the training dataset. Since the dataset is
+unbalanced, \\( \bar x \\) occurs at the mode of \\( X_k \\) restricted to the
+negative class.
+
+## Further work
+
+Finally, evaluation of such feature decomposition on a simulated and real data
+is missing for a complete treatment of the subject matter.
