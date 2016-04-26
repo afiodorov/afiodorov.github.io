@@ -93,13 +93,12 @@ simply \\( f(x_1, x_2, \dots, x_p) \\). \\(p_{-k} \\)'s, however, provide a
 bigger challenge.
 
 For unbalanced classification (with negative examples being far more common),
-however, we suggest using a typical value, \\( \bar x_k \\), of \\(X_k\\)
-amongst negative
-examples to approximate \\( P(y | x_1, x_2, \dots x_{k-1}, x_{k+1}, x_p)\\) as
-\\( f(x_1, x_2, \dots, x_{k-1}, \bar x_k, x_{k+1}, x_p )\\). The idea being
-that by feeding the most "typical value" of \\(X_k\\) to our classifier, it
-treats \\(\bar x_k \\) as uninformative for predicting positive class,
-effectively ignoring \\( \bar x_k \\) all together.
+we suggest using a typical value, \\( \bar x_k \\), of \\(X_k\\) amongst
+negative examples to approximate \\( P(y | x_1, x_2, \dots x_{k-1}, x_{k+1},
+x_p)\\) as \\( f(x_1, x_2, \dots, x_{k-1}, \bar x_k, x_{k+1}, x_p )\\). The
+idea being that by feeding the most "typical value" of \\(X_k\\) to our
+classifier, it treats \\(\bar x_k \\) as uninformative for predicting positive
+class, effectively ignoring \\( \bar x_k \\) all together.
 
 Thus the method follows:
 
