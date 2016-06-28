@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reflections on outcome of Brexit referendum
+title: Reflections on the outcome of Brexit referendum
 ---
 
 Democracy isn't about optimising for the best outcome short-term. It's about
