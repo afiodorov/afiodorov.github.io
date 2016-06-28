@@ -21,7 +21,7 @@ Thus we should appreciate what Britain has: members of the parliament repeating
 the fact that many MPs, I suspect, secretly keep the electorate in contempt.
 
 And I largely agree with such "elitist" position that some opinions are not as
-valid others. A person who voted based on factually incorrect information or
+valid as others. A person who voted based on factually incorrect information or
 contrary to his/her own interest without realising it, of course, shouldn't be
 listened to. And in some ideal world where people don't become disenfranchised
 and don't try to riot and/or overthrow the government - I'd insist on not
