@@ -67,7 +67,7 @@ Note that 2. would be missing from frequentist treatment of the problem, you'd s
 
 \\(Var[Bin(N-n, \hat{p})] = (N-n)\hat{p}(1 - \hat{p}) \\), where
 
-\\( \hat{p} = n_d / n \\), and be done with the problem. However in such
+\\( \hat{p} = n_d / n \\), and be done with the problem. However under such
 treatment it is not possible to estimate the effect of the sample size,
 \\(n\\), on your final uncertainty - which is deeply unsatisfactory.
 
