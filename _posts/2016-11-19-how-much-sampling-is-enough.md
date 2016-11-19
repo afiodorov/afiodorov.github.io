@@ -123,7 +123,7 @@ So we anticipate to get \\(O(10^4)\\) products wrong if we extrapolate to
 me.
 
 And when should you stop sampling? Well, remember, that even if you knew
-\\(p\\) precisely, the standard deviation would still be of the order \\( 1000
+\\(p\\) precisely, the standard deviation would still be of order \\( 1000
 \\), due to the variance of the Binomial distribution. So once you get close
 to this order, sampling more won't be of much use. So we want the largest term in the above
 expression, \\(\sqrt{(N-n)^2  / (n+2)}\\), to be of order \\(10^3\\), where the
