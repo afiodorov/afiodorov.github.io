@@ -111,7 +111,7 @@ $$
 Thus we get that
 
 $$
-Var[Bin(N -n, p)] = \frac{(n_d + 1, n_g + 1)}{(n+2)(n+3)} \left[ N-n + \frac{(N-n)^2}{n+2} \right].
+Var[Bin(N -n, p)] = \frac{(n_d + 1)(n_g + 1)}{(n+2)(n+3)} \left[ N-n + \frac{(N-n)^2}{n+2} \right].
 $$
 
 Let's put some numbers in!
