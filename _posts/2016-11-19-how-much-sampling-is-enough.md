@@ -9,7 +9,7 @@ I was asked the following question yesterday:
 > the production line and find that \\(n_d\\) of them are defective, thus we
 > extrapolate that \\(n_d / n \\) percentage of products is defective.
 > However, how confident are we about our estimate? How many products should we
-> sample to reach a satisfactory level of confidence?
+> test to reach a satisfactory level of confidence?
 
 Aha! The universe has prepared me for these kind of questions! Be prepared to
 be converted to Bayesianism because this example is particularly well-suited
