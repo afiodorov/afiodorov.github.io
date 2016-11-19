@@ -84,7 +84,7 @@ Var[Bin(N - n, p)] &= \mathbb{E}[Var[Bin(N-n, p)]] + Var[\mathbb{E}[Bin(N-n, p)]
 \end{align*}
 $$
 
-where outmost expectations and variance is taken with respect to *posterior*,
+where outmost expectations and variance are taken with respect to *posterior*,
 i.e. \\(Beta(n_d + 1, n_g + 1)\\).
 
 Note that \\(Var[p]\\) can easily be looked up and it is
