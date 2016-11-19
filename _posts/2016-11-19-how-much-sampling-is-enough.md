@@ -76,7 +76,7 @@ treatment, we can say that
 
 $$
 \begin{align*}
-Var[Bin(N - n, \hat{p})] &= \mathbb{E}[Var[Bin(N-n, p)]] + Var[\mathbb{E}[Bin(N-n, p)]]
+Var[Bin(N - n, p)] &= \mathbb{E}[Var[Bin(N-n, p)]] + Var[\mathbb{E}[Bin(N-n, p)]]
 \\
 &= \mathbb{E}[(N-n)p(1-p)] + Var[(N-n)p]
 \\
