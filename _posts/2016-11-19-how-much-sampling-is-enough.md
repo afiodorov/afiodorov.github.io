@@ -47,7 +47,7 @@ uniform prior over \\( p \\) is reasonable. Uniform distribution happens to be
 a particular instance of Beta distribution, with parameters \\(\alpha=1\\) and
 \\(\beta=1\\), also written as \\(Beta(1, 1)\\).
 
-And once we observe \\(n_d\\) defective products and \\(n_g\\) not-defective
+And once we observe \\(n_d\\) defective products and \\(n_g\\) non-defective
 products, how should we update our belief about \\(p\\)? Easy! Turns out, using
 *maths*, one can discover that the new distribution is just
 \\(Beta(n_d + 1, n_g + 1)\\). This distribution now incorporates our
