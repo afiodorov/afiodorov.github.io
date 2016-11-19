@@ -71,7 +71,7 @@ Note that 2. would be missing from frequentist treatment of the problem, you'd s
 treatment it is not possible to estimate the effect of the sample size,
 \\(n\\), on your final uncertainty - which is deeply unsatisfactory.
 
-However, guided by the formula of [conditional variance][cond], under Bayesian
+So, guided by the formula of [conditional variance][cond], under Bayesian
 treatment, we can say that
 
 $$
