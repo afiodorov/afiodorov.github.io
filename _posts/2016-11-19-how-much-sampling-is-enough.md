@@ -6,14 +6,14 @@ title: How much sampling is enough? Bayesian case-study.
 I was asked the following question yesterday:
 
 > Imagine a factory produces defective products. We grab \\(n\\) products from
-> the production line and find that \\(n_d\\) of them is defective, thus we
-> extrapolate that \\(n_d / n \\) percentage of products are defective.
+> the production line and find that \\(n_d\\) of them are defective, thus we
+> extrapolate that \\(n_d / n \\) percentage of products is defective.
 > However, how confident are we about our estimate? How many products should we
 > sample?
 
-Aha! The universe has prepared me for this kind of question! Be prepared to
-converted to Bayesianism because this example is particularly well-suited for
-such framework.
+Aha! The universe has prepared me for these kind of questions! Be prepared to
+be converted to Bayesianism because this example is particularly well-suited
+for such framework.
 
 Let's begin: assume that there are \\(N\\) products in total and whether a
 product is defective is modelled by Bernoulli distribution with mean \\(p\\).
@@ -22,9 +22,9 @@ products is Binomial with parameters \\( p \\) and \\( N -n \\), also written as
 
 However we don't know what \\( p \\) is! Bayesians say: well, let's be honest
 about this fact and put another probability distribution on \\(p\\) to reflect
-this uncertainty.
+our uncertainty.
 
-What probability distribution should we use to reflect such uncertainty? Well, in theory,
+What probability distribution should we use to describe such uncertainty? Well, in theory,
 anything we deem appropriate. In practice, people stick to so-called [conjugate
 prior distributions][conj] because they are *very* mathematically convenient and often
 are flexible enough.
@@ -34,7 +34,7 @@ This means that our uncertainty over \\(p\\) could be represented in a variety o
 ![beta distributions](https://upload.wikimedia.org/wikipedia/commons/f/f3/Beta_distribution_pdf.svg)
 
 Beta distribution has 2 parameters: \\(\alpha\\) and \\(\beta\\). By fixing
-those two parameters we have a particular instance of such distribution. Above
+these two parameters we have a particular instance of such distribution. Above
 each curves represent a different instance. For example if you pick a purple
 curve you believe that \\(p\\) is around \\(0.5\\), but you don't rule out that \\(p\\) could also be
 \\(\le 0.1\\) or \\(\ge 0.9\\), both with equal and small probability.
@@ -63,16 +63,16 @@ products are defective. Remember that when we talk about the variance of
   1. The variance of Binomial distribution for any fixed \\(p \\).
   2. The variance that comes from the fact that \\(p \\) is itself a random variable.
 
-Note that 2. would be missing from frequentist treatment of a problem, you'd say something like
+Note that 2. would be missing from frequentist treatment of the problem, you'd say something like
 
 \\(Var[Bin(N-n, \hat{p})] = (N-n)\hat{p}(1 - \hat{p}) \\), where
 
 \\( \hat{p} = p_b / n \\), and be done with the problem. However in such
-treatment of a problem it is not possible to estimate the effect of the sample
-size, \\(n\\), on your final uncertainty - which is deeply unsatisfactory.
+treatment it is not possible to estimate the effect of the sample size,
+\\(n\\), on your final uncertainty - which is deeply unsatisfactory.
 
 However, guided by the formula of [conditional variace][cond], under Bayesian
-treatment of the problem, we can say that
+treatment, we can say that
 
 $$
 \begin{align*}
@@ -87,7 +87,7 @@ $$
 where outmost expectations and variance is taken with respect to *posterior*,
 i.e. \\(Beta(n_d + 1, n_g + 1)\\).
 
-Note that \\(Var[p]\\) can easily be looked up, and it is
+Note that \\(Var[p]\\) can easily be looked up and it is
 
 $$
 \frac{(n_d + 1)(n_g + 1)}{(n_d + n_g + 2)^2(n_d + n_g + 3)} = \frac{(n_d + 1)(n_g + 1)}{(n + 2)^2(n+3)}.
