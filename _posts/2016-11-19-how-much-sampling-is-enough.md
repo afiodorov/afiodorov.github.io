@@ -130,8 +130,6 @@ expression, \\(\sqrt{(N-n)^2  / (n+2)}\\), to be of order \\(10^3\\), where the
 square root comes from switching from variance to standard deviation, thus I am
 getting that sampling beyond \\(10^5\\), i.e. 10% of the data, is unnecessary.
 
-To be added: more intuitive examinations of the result.
-
 
 [conj]: https://en.wikipedia.org/wiki/Conjugate_prior
 [beta]: https://en.wikipedia.org/wiki/Beta_distribution
