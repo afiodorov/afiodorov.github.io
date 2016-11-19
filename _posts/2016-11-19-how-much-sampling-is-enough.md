@@ -118,8 +118,9 @@ Let's put some numbers in!
 
 If \\(N = 10^6 \\), \\(n = 1000 \\) and \\(n_d = n_g = 500 \\), then \\( std(Bin(10^6 - 10^3, p)) \approx 1.58 * 10^4 \\).
 
-So we anticipate to get \\(O(10^4)\\) wrong if we extrapolate to \\(10^6\\)
-examples after measuring \\(1000\\)... which sounds about right to me.
+So we anticipate to get \\(O(10^4)\\) products wrong if we extrapolate to
+\\(10^6\\) examples after measuring \\(1000\\)... which sounds about right to
+me.
 
 And when should you stop sampling? Well, remember, that even if you knew
 \\(p\\) precisely, the standard deviation would still be of the order \\( 1000
