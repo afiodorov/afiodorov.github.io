@@ -51,8 +51,8 @@ And once we observe \\(n_d\\) defective products and \\(n_g\\) non-defective
 products, how should we update our belief about \\(p\\)? Easy! Turns out, using
 *maths*, one can discover that the new distribution is just
 \\(Beta(n_d + 1, n_g + 1)\\). This distribution now incorporates our
-observation and thus is referred to *posterior*. The fact that both prior and
-posterior distribution happen to be instances of Beta distribution is the
+observation and thus is referred to as a *posterior*. The fact that both prior
+and posterior distribution happen to be instances of Beta distribution is the
 reason such distribution is often picked as a prior.
 
 Finally, let us now derive the variance of \\(Bin(N-n, p)\\). This variance
