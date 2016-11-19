@@ -35,7 +35,7 @@ This means that our uncertainty over \\(p\\) could be represented in a variety o
 
 Beta distribution has 2 parameters: \\(\alpha\\) and \\(\beta\\). By fixing
 these two parameters we have a particular instance of such distribution. Above
-each curves represent a different instance. For example if you pick a purple
+each curve represents a different instance. For example if you pick a purple
 curve you believe that \\(p\\) is around \\(0.5\\), but you don't rule out that \\(p\\) could also be
 \\(\le 0.1\\) or \\(\ge 0.9\\), both with equal and small probability.
 
