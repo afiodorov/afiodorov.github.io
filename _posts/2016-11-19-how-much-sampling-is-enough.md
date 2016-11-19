@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How much sampling is enough? Bayesian case-study.
+title: How much sampling is enough? Bayesian case-study
 ---
 
 I was asked the following question yesterday:
