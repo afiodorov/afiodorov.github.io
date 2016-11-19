@@ -67,7 +67,7 @@ Note that 2. would be missing from frequentist treatment of the problem, you'd s
 
 \\(Var[Bin(N-n, \hat{p})] = (N-n)\hat{p}(1 - \hat{p}) \\), where
 
-\\( \hat{p} = p_b / n \\), and be done with the problem. However in such
+\\( \hat{p} = n_d / n \\), and be done with the problem. However in such
 treatment it is not possible to estimate the effect of the sample size,
 \\(n\\), on your final uncertainty - which is deeply unsatisfactory.
 
@@ -120,6 +120,14 @@ If \\(N = 10^6 \\), \\(n = 1000 \\) and \\(n_d = n_g = 500 \\), then \\( std(Bin
 
 So we anticipate to get \\(O(10^4)\\) wrong if we extrapolate to \\(10^6\\)
 examples after measuring \\(1000\\)... which sounds about right to me.
+
+And when should you stop sampling? Well, remember, that even if you knew
+\\(p\\) precisely, the standard deviation would still be of the order \\( 1000
+\\), due to the variance of the Binomial distribution. So once you get close
+to this order, sampling more won't be of any use. So we want the largest term in the above
+expression, \\(\sqrt{(N-n)^2  / (n+2)}\\), to be of order \\(10^3\\), where square root comes
+from switching from variance to standard deviation, thus I am getting that
+sampling beyond \\(10^5\\), i.e. 10% of the data, is unnecessary.
 
 To be added: more intuitive examinations of the result.
 
