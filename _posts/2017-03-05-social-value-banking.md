@@ -64,8 +64,7 @@ the question became much easier to reason about.
 If I could compare our current capitalism to some income-generating car (e.g. a
 taxi), I'd attribute the role of brake fluid to modern finance. Overall
 necessary but requires constant investment to maintain and every time it
-malfunctions it leads to a total disaster. Thus it makes sense to invest in
-better break fluid only if it will malfunction less often.
+malfunctions it leads to a total disaster.
 
 So what is our current investment into finance? The investment is our brightest
 minds, minds that are toiling away trying to predict things that we just can't
@@ -83,6 +82,6 @@ make it easier to regulate: which has broad implications on a variety of policie
 For example, one might argue that having caps on bankers' salaries will
 decentivise clever people from going into investment banks.
 
-And this point I am stopping my analysis. Till later.
+And it is at this point I must stop my analysis. Till later.
 
 [futarchy]: http://squid314.livejournal.com/352406.html
