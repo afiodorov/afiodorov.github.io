@@ -82,6 +82,7 @@ make it easier to regulate: which has broad implications on a variety of policie
 For example, one might argue that having caps on bankers' salaries will
 decentivise clever people from going into investment banks.
 
-And it is at this point I must stop my analysis. Till later.
+And it is at this point I must stop my analysis. Hopefully my future pub
+convesartions on the subject will be more clear from now on. Till later.
 
 [futarchy]: http://squid314.livejournal.com/352406.html
