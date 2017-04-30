@@ -11,7 +11,7 @@ The newspaper would be shoved into the letterbox even if you didn't want it.
 You didn't even have a choice over the fact whether you are getting it and it
 was less of a newspaper and more like a giant billboard full of shitty ads.
 Many people used that one to wrap smelly food in it instead of reading it. Now
-the second one was the premium one. You had to pay to get the second one and
+the second one was a premium one. You had to pay to get the second one and
 boy it was worth it: amongst the mundane provincial news about a lost cat,
 jokes stolen from back-then internet and a crossword, one would find science &
 technology tidbits like the gem above. The local newspaper had a section that
