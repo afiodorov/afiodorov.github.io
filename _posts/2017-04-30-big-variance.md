@@ -54,7 +54,7 @@ And then this happened, according to wiki:
 > Harvard University the following year, as well as costing Summers the job of
 > Treasury Secretary in Obama's administration.
 
-And I read about a dozen of other similar cases. And I went: "holy fuck...!".
+And I read about a dozen of other similar cases. And I went: "holy fuck!...".
 People can have their careers ruined by saying what I believed for years. This
 is totally not OK but also it's really not worth even getting into this debate.
 However, now that I am wiser and older, I am going to say: "fuck it, let's do
@@ -91,15 +91,15 @@ algorithm to actually produce something worthwhile. "Just increase the number
 of neurons in your artificial network" is not how big advances in deep learning
 are made: you will not break any records with such attitude. It's all about how
 those neurons are connected to each other. In this manner a neural network with
-far fewer neurons but a superior architecture can vastly outperform another.
-And this is pretty much what happened in humans: despite fewer neurons women
-can and have outperformed men in a variety of cognitive tasks: in the analogy
-of deep learning, they have a different architecture.
+far fewer neurons but a superior architecture can vastly outperform another
+one. And this is pretty much what happened in humans: despite fewer neurons
+women can and have outperformed men in a variety of cognitive tasks: in the
+analogy of deep learning, they have a different architecture.
 
 However one consequence about having a different architecture is that there
 must be a difference. There is just no way you can downsize your artificial
 neural network change the architecture, retrain and go: "hm... looks like it
-made no difference". Whilst it is theoretically likely that for every given
+made no difference". Whilst it is theoretically possible that for every given
 input the output will be exact same as prior to the changes, it is practically
 impossible. Going back to human brains: whether it's map reading[^1] or
 multitasking[^2] - something, somewhere has got to change after reconfiguring
