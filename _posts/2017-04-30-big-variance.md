@@ -69,11 +69,11 @@ being sexist.
 Now, let's set the scene first with some hopefully not provocative line of
 reasoning. Evolutionary men and women went through different paths: they have
 different selection pressures which resulted in different bodies and different
-brains. Differences in our brains is substantial: men, on average, have 16%
+brains. Differences in our brains is substantial: men, on average, have 16%[^3]
 more neurons then women. Remember that this is just a physical difference that
-one can arrive at after bisecting lots and lots of brains of dead people.
-Seriously let's not get angry at this point at the researchers whose job is to
-bisect brains of dead people. Like let's just not yell at them if they happen
+one can arrive at after dissecting lots and lots of brains of dead people.
+Seriously, let's not get angry at this point at the researchers whose job is to
+dissect brains of dead people. Like let's just not yell at them if they happen
 to have found something different between the two genders: "What? You found a
 difference again. No, no, no, no no. Your job is to count the neurons until
 there are no sex differences are found, go and do the recount!".
@@ -228,3 +228,5 @@ diligence.
 
 [^1]: apparently done better by men, on average, but I have no stake in the claim
 [^2]: apparently done better by women, on average, but I have no stake in the claim
+[^3]: technically one must count neurons in some parts of the brain only
+      because bigger bodies need bigger brain, however the overall argument holds
