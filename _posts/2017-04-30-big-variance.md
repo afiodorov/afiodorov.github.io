@@ -206,7 +206,7 @@ nicer out here: sexism isn't as widespread as it might appear to you.
 Finally, the claim about variability doesn't strike me as particularly
 offensive *given how small the quoted differences usually are*. I am not up to
 date with the scientific literature on the subject, but the difference in
-standard deviation is always no more than 10%. That's tiny! Whilst such a tiny
+standard deviation is often about 10% or so. That's tiny! Whilst such a tiny
 difference manifests itself somewhat prominently at the tails, in every day
 situations it is a distraction: individual differences totally dominate
 gender differences.
