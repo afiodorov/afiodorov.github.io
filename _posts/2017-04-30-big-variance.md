@@ -26,7 +26,7 @@ average intelligence, i.e. women, on average, are just as smart as men. Thus,
 at the time, it did not even occur to me that what I read was somehow
 uncharitable, inflammatory and sexist. When I returned to school I didn't start
 teasing girls with my new revelation. Oh I almost definitely teased the girls,
-just not with the level of sophistication found in the local newspaper.  I
+just not with the level of sophistication found in the local newspaper. I
 didn't shout "your chances of being cleverer than threshold X are lower than
 mine" to the girls that I did not like. I stuck to a more simple and verified
 "you're fat" technique and it worked pretty well.
@@ -55,7 +55,7 @@ And then this happened, according to wiki:
 > Treasury Secretary in Obama's administration.
 
 And I read about a dozen of other similar cases. And I went: "holy fuck...!".
-People can have their careers ruined by saying what I believed for years.  This
+People can have their careers ruined by saying what I believed for years. This
 is totally not OK but also it's really not worth even getting into this debate.
 However, now that I am wiser and older, I am going to say: "fuck it, let's do
 this anyway!". That's the spirit.
@@ -199,7 +199,7 @@ too easy to be caught up in this narrative that the patriarchy and macho
 culture is so pervasive and it's only getting worse: look we've got yet another
 study how women outperform men in industry X yet the world still mostly employ
 men in the industry X: there must be some evil macho men cackling in the
-background denying women the equal opportunity yet again.  Alternatively you
+background denying women the equal opportunity yet again. Alternatively you
 are in an massive echo chamber and you don't even know. Step out of it, it's
 nicer out here: sexism isn't as widespread as it might appear to you.
 
