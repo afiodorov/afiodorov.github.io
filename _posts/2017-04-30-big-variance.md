@@ -144,7 +144,7 @@ with imaginary numbers. Let's say men and women score 100 on some cognitive
 test, on average, but with 18 and 15 variance, respectively. You noticed that
 everyone who works as a mathematician has at least 130 score. So, assuming, 130
 score is an absolute minimum, we notice that about 4.8% of the men qualify and
-only about 2.3% women. That's twice as many men compare to women in the
+only about 2.3% women. That's twice as many men compared to women in the
 candidate pool. And that's assuming there's no difference in interests,
 motivation and other factors that could also favour men. You'd still be a moron
 about not interviewing women though.
