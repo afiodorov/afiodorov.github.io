@@ -225,8 +225,36 @@ differences in grades could be caused by other gender differences, such as
 diligence.
 
 [1]: https://en.wikipedia.org/wiki/Lawrence_Summers#Differences_between_the_sexes
+[2]: https://www.ncbi.nlm.nih.gov/pubmed/10073431
 
 [^1]: apparently done better by men, on average, but I have no stake in the claim
 [^2]: apparently done better by women, on average, but I have no stake in the claim
 [^3]: technically one must count neurons in some parts of the brain only
-      because bigger bodies need bigger brain, however the overall argument holds
+      because bigger bodies need bigger brain, however the overall argument
+      holds. For the curious, here's a much more technical treatment of the subject:
+
+      > This study's objective was to investigate morphometric gender
+      > differences of the cerebral cortex in six males and five females, 12 to 24
+      > years old. Though human brains lack sexual dimorphism on routine
+      > neuropathologic examinations, gender-specific brain weight, functional, and
+      > morphologic differences exist, suggesting that cortical differences may be
+      > found. Yet the cerebral cortex may be exempt from gender differences, as
+      > demonstrated by the fact that normal males and females perform comparably on
+      > intelligence tests. Stereologic morphometry on standardized histologic sections
+      > from 30 bilateral cortical loci determined cortical thickness, neuronal
+      > density, and derived neuronal number estimates. The mean +/- SD cortical
+      > thickness of the 60 loci examined was similar in males and females with right
+      > and left hemispheric gender ratios being balanced. In contrast, the average
+      > neuronal density of the same 60 loci was significantly higher in the male group
+      > than in the female group, and the corresponding mean male-to-female ratios were
+      > 1.18 in the right and 1.13 in the left hemisphere, which differ significantly
+      > from each other and from the balanced cortical thickness ratios. Estimates of
+      > neuronal numbers -- the product of neuronal thickness times density
+      > -- were 13% higher in males than in females, with mean male-to-female
+      > ratios of 1.13 in both hemispheres. The data provide morphologic evidence of
+      > considerable cerebral cortical dimorphism with the demonstration of
+      > significantly higher neuronal densities and neuronal number estimates in males,
+      > though with similar mean cortical thickness, implying a reciprocal increase in
+      > neuropil/neuronal processes in the female cortex.
+      >
+      > -- <cite>Abstract of [https://www.ncbi.nlm.nih.gov/pubmed/10073431][2]</cite>
