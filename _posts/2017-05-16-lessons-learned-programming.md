@@ -5,7 +5,7 @@ title: Lesson learned after programming full-time for a year.
 It's been more than a year now since I have been programming full-time. And I
 would like to reflect on the kind of problems that I encounter most often.
 
-I don't actually want to talk about the specific problems that I have solved
+I don't actually want to talk about specific problems that I have solved
 rather about one meta-problem that have occurred time and time again.
 
 The most common meta-problem is to get the code that was written to do
