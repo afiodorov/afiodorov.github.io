@@ -32,8 +32,8 @@ wrong thing.".
 I, however, have grown to be pessimistic about the value of such planning. Or at
 least elaborate planning. My planning now solely consists of decoupling as much
 as possible in an anticipation of unforeseen changes (the book will also call
-this strategy planning, however it might as well just say "write good software"
-at this stage).
+this strategy planning, however it appears cheating to me: might as well just
+say "write good software" at this stage).
 
 Seriously though, if you can foresee exactly which components will be changed
 months in the future - I think you are wasting your talents writing software.
