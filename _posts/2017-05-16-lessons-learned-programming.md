@@ -69,7 +69,7 @@ def score_bunch_of_rows(csv_in, csv_out, model):
 
 However *this time* I need to score using `model.contribtutions` function, so I
 want to reuse most of the code above, but change just 1 line in the middle.
-However read_csv, process_csv, model.score & write csv is all coupled in the
+However read_csv, process_csv, model.score & write csv are all coupled in the
 above function. The reason it is all coupled because the author, me, didn't
 think at the time that I would need to call `.contributions` in the above
 function.
