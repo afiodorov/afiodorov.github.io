@@ -117,7 +117,8 @@ addition, you have to hunt around for a concrete implementations that might
 have their own idiosyncratic requirements in order to call our `.phoneCountry`
 method. Not cool. (Another way to think about it: every time you add a field to
 a class you create an implicit dependency between *all* methods of that class
-and the field!)
+and the field! Unless *all* of the methods will make use of the field, you just
+created an unnecessary dependency.)
 
 And this is the meta-lesson that I learned. Steer towards fewer dependencies
 between functions and classes. Only require what you need in a function. Only
