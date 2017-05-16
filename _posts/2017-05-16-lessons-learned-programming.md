@@ -93,7 +93,7 @@ rather than an instance of an object as function argument. This way the callee
 doesn't have to mock the interface of the entire class just to so that you get
 to call `.predict`.
 
-OOP-wise it means having as lean classes as possible. If you have, for
+OOP-wise it means having classes as lean as possible. If you have, for
 instance, the following abstract class:
 
 {% highlight python %}
