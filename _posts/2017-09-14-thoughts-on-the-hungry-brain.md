@@ -69,10 +69,10 @@ studies. But I won't be recollecting these here.
 
 But more practical tips follow: eat foods that are high on satiety index. In
 other words, eat food that makes you feel full per calorie eaten.  Potato is
-one of those superfoods that is not full of nutrition, but is also quite high
-on such index. This explains why people who implement "potato-only" diets are
-typically very successful. However if you don't want to just eat potato all the
-time, google for satiety index. Protein is also exceptionally high on such
+one of those superfoods that is not only full of nutrition, but is also quite
+high on such index. This explains why people who implement "potato-only" diets
+are typically very successful. However if you don't want to just eat potato all
+the time, google for satiety index. Protein is also exceptionally high on such
 index, so look for ways to replace fat/carbohydrates with protein in your diet.
 This is another piece of evidence explaining why, empirically, Paleo diets seem
 to work better than low-fat diets.
