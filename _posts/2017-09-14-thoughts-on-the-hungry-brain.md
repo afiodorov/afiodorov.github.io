@@ -64,7 +64,7 @@ Buenos (or some Oreos).
 The book goes into much more neurological justification of why we tend to
 find modern, refined foods exceptionally rewarding and not satiating. And why
 eating refined, delicious and tempting food makes you to eat more of it later.
-This are all empirical statements and they are all backed by numerous rat
+These are all empirical statements and they are all backed by numerous rat
 studies. But I won't be recollecting these here.
 
 But more practical tips follow: eat foods that are high on satiety index. In
