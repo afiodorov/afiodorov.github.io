@@ -77,7 +77,7 @@ index, so look for ways to replace fat/carbohydrates with protein in your diet.
 This is another piece of evidence explaining why, empirically, Paleo diets seem
 to work better than low-fat diets.
 
-Food that is high in satiety index tends to be simple and not refined.
+Food that is high on satiety index tends to be simple and not refined.
 Beans, fish, some vegetables, a steak. Complete opposite of french fries,
 Doritos, cookies, pizza. You know what I am talking about.
 
