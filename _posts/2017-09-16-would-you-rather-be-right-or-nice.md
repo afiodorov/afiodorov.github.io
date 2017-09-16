@@ -88,8 +88,8 @@ disengage.
 ---------------------
 
 OK, perfect, we have a description of two social norms and the conflict.
-Whilst majority of the people stabilises on "avoid argumentation and be nice" a
-bunch of somewhat autistic internet nerd stabilises on "avoid poor
+Whilst the majority of the people stabilises on "avoid argumentation and be
+nice" a bunch of somewhat autistic internet nerd stabilises on "avoid poor
 argumentation (and may be stay nice, but that's less important)", where poor is
 defined by their own standards. When these two groups try to impose different
 norms on one another they start to rub each other the wrong way: nerds can feel
