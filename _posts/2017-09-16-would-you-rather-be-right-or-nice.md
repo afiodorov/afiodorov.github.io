@@ -51,7 +51,7 @@ humans, can also be irrationally scared of the public being a harsh judge.
 Being proven wrong can have bad consequences and often feels not nice. This
 encourages a social norm of avoiding unnecessary discourse and creating "time
 and place" for such conversations to happen (e.g. many workplaces insist people
-got to a pub for having non-work related arguments).
+go to a pub for having non-work related arguments).
 
 OK, great, so being right is somewhat in conflict with being nice, in certain
 situations. What is particularly aggravating, is that for any culture, there's
