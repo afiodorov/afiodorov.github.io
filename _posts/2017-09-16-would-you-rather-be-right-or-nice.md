@@ -55,8 +55,8 @@ go to a pub for having non-work related arguments).
 
 OK, great, so being right is somewhat in conflict with being nice, in certain
 situations. What is particularly aggravating, is that for any culture, there's
-a counter-culture. Just like people without ability to smell might develop its
-own social norms, some nerds (or some people with Autism) might develop a
+a counter-culture. Just like people without an ability to smell might develop
+its own social norms, some nerds (or some people with autism) might develop a
 different peculiar counter-culture.
 
 Welcome to the social norms of LessWrong and related blogoshpere, or otherwise
