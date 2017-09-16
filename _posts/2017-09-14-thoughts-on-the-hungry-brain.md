@@ -1,173 +1,135 @@
 ---
 layout: post
-title: Would you rather be right or nice?
+title: Thoughts on "The Hungry Brain" book
 ---
 
-Would you rather be in an environment where people value being "nice" or being
-right? And why is this a dilemma?
+I just finished reading [The Hungry Brain][amazon], and, boy, what a
+fascinating read!
 
-I will tell you why I think this is a dilemma for me and my current way of
-resolving it.
+The book, apart from providing instrumentally useful advice on how to improving
+your dieting habits, also explains relevant neuroscience topics in a very clear
+and illustrative way. It's the kind of book that I just had to read in 3-4
+sittings because I wanted to learn more and more about the brain and about the
+countless number of very interesting mice and rat studies
 
-Just like many others, when I was growing up I got indoctrinated with norms of
-behaviours around other people. This includes basics things like personal
-hygiene and wearing appropriate clothes. More sophisticated things like
-fulfilling my promises and suppressing my anger were also taught to me. When I
-say indoctrinated I mean these behaviours have become automatic and they were
-often taught to me implicitly rather than explicitly. Shame was often involved
-in making sure I comply. I was given strong incentives to act appropriately: I
-promptly realised that being nice around my friends is the best way of actually
-keeping them. I was discouraged from acting inappropriately: it would never get
-me things that I actually wanted.
+So what's the TL;DR; of the book? What things should I record so that I can
+revisit these notes later? What follows is my loose interpretation of the book.
 
-And I believe this is the underlying reason why societies develop social norms
-and strongly encourage everyone to stick to them. This way everyone is chill
-and can have a pleasant environment around them. The norms might be somewhat
-suboptimal on an individual level: some individuals aren't very sensitive to
-certain things, whilst others are. Perhaps people without a good ability to
-smell would put less emphasis on making sure everyone is clean[^1].  However,
-on average, i.e. picking two individuals at random, they are both better off
-sticking the social norms on their first encounter.
+"Calories in, Calories Out model" is the underlying mechanism of how people
+gain and lose weight. However it doesn't explain the obesity epidemic: it just
+explains how it is happening, not why. By understanding the why, however, we
+might be able to improve our waistlines without obsessive calorie counting.
 
-One very important thing to note of complying with social norms is that it is a
-reciprocal affair. People who don't comply with the norms often are treated
-badly: they are more likely to be ignored, shamed and harassed compared to
-"well-respected" people. This is a tragic situation, but not the main point of
-this blog post.
+The underlying point of the book is that our waistlines have been ballooning
+since 1970s and common explanations of the phenomena are too superficial.
+sedantary lifestyles? Sure, but they had been sedentary way before 1970s.
 
-OK, so we are all encouraged to be nice, hopefully there's no big revelation
-here. What does it have to do with being right?
+So why is it happening then? Dopamine and habit-forming loop. If you eat
+rewarding foods you will get "addicted" the same way other habits are formed.
+You will start eating just for the pleasure of enjoying food and not because
+you are hungry.
 
-Well, in many cultures, being proven wrong can result in shame and a loss of
-your status, the very status that entitles you to be treated well as I remarked
-earlier. If you consistently lie about your motivations and deploy motivated
-reasoning to get what you want, eventually the society will no longer grant you
-the audience. This makes total sense to me. However trusting the society to be
-the judge of the arguments that you deploy is a risky business. There's a line
-of reasoning that humans developed argumentation in order to persuade their
-tribe members and, as a result, are often poor when it comes to arriving at
-accurate predictions. Regardless, the public can be a harsh judge.  And, we,
-humans, can also be irrationally scared of the public being a harsh judge.
-Being proven wrong can have bad consequences and often feels not nice. This
-encourages a social norm of avoiding unnecessary discourse and creating "time
-and place" for such conversations to happen (e.g. many workplaces insist people
-got to a pub for having non-work related arguments).
+This part of the book explains dopamine very well. I always associated dopamine
+with pleasure. I was wrong. Dopamine is a *reward* chemical. High
+levels of dopamine in your brain makes you more impulsive: because it is easier
+to get rewarded for spontaneous actions. Think about weed and being high. Low
+levels of dopamine, on the contrary, make you lethargic and apathetic.
 
-OK, great, so being right is somewhat in conflict with being nice, in certain
-situations. What is particularly aggravating, is that for any culture, there's
-a counter-culture. Just like people without ability to smell might develop its
-own social norms, some nerds (or some people with Autism) might develop a
-different peculiar counter-culture.
+The main thesis of the book, is that modern, Western food industry, has figured
+out a way to make food a) exceptionally rewarding b) incredibly not-satiating
+(through the power of capitalism).
 
-Welcome to the social norms of LessWrong and related blogoshpere, or otherwise
-known as a rationality community, for want of a better word. They developed a
-culture where an honest debate is a way to gain status, and dishonest debate is
-a way to lose status. However honesty isn't the only dimension of judgement: it
-is how accurate an argument is. Is it free of confirmation bias? Does it really
-the model the reality well? What about this case that your arguments don't
-explain so well?  But, ultimately, if you are arguing in good faith: you are
-willing to learn when people point out to you that your arguments are weak,
-people will continue to engage with you. If they detect trolling, unwillingness
-to learn about common biases, they will terminate the engagement. If you don't
-like it, just leave: it is not a community for you. Ultimately, aspiring
-rationalist are ostensibly attracted to modelling the world as accurately as
-they possibly can. I say ostensibly, because of course we are only human.
-People occasionally give in to their perverse incentives: desire to mock,
-desire to troll, desire to come across as insightful at the expense of hurting
-people. Rationality community is far from perfect.
+Both factors make such food very difficult to resist eating. Moreover, the more
+you succumb to temptations, the more your body will demand such foods.
 
-How do they handle this right vs nice dilemma? Well first of all, not great.
-Newcomers are often put off. However they do have some tools to communicate
-displeasure. Certain subjects are considered ["mind-killers"][mind-killer]:
-they are actively discouraged for the sake of staying chill.  Ultimately
-though, there is an understanding that any social rules is only a norm. People
-can debate them and establish new ones if needs be. People are free to say that
-this topic of discussion is making them upset and disengage.
+And the way to deal with all of this? The way addicts deal with addictions!
+Which is to: "STEP AWAY FROM THE SNACKS: Don't make it too easy for yourself to
+eat food throughout the day". Here I praise the book for making me realise the
+importance of creating an environment void of triggers when you are dealing
+with an addiction.
 
----------------------
+For example, want to start drinking less alcohol? Just don't buy it, don't keep
+in the fridge and, possibly, don't have spare cash so that you can't buy from
+next door. (I am yet to decide whether I want to implement this).
 
-OK, perfect, we have a description of two social norms and the conflict.
-Whilst majority of the people stabilises on "avoid argumentation and be nice" a
-bunch of somewhat autistic internet nerd stabilises on "avoid poor
-argumentation (and may be stay nice, but that's less important)", where poor is
-defined by their own standards. When these two groups try to impose different
-norms on one another they start to rub each other the wrong way: nerds can feel
-frustrated when they are not given reasons that they think are valid, whilst
-the rest of the society can perceive the nerds as overly argumentative and
-unpleasant.
+But one thing that I have already implemented: I stopped buying foods that I
+find exceptionally rewarding (cookies). I will now try to convince work to
+follow my lead: they are quite keen on providing all of us with snacks, which
+isn't great of our collective waistlines.
 
-And that would be OK if the two groups never had to interact but they do,
-especially in the tech industry. My realisation today is that the tech industry
-is especially attractive to "let's learn how to model the world better" crowd
-as opposed to "why can't we all just get alone nicely" crowd. A lot of it is
-because tech is itself a counter-culture to the well-established, but
-god-awful-boring corporate working environment. Suits is a particularly
-well-fitting observation point. By complying with a dress code, you are
-indicating obedience. You are effectively saying "I am willing to wear a suit
-even though it has no direct bearing on the outcome of my work; this
-indicates that I am willing to be bossed around and comply with further
-requests without _being given good reasons_". Not being giving good reasons, is,
-of course, what some of the aforementioned nerds viscerally hate. Another
-salient point is the love affair tech industry has with flat hierarchy: of
-course if people give you reasons why you should do what needs to be done, then
-there is no need for managers to give people orders. Perhaps an emphasis on
-flexible working hours can also be fitted into this thinking: fixed working
-hours appear to be more about signalling obedience rather than actually doing
-work.
+Another interesting trivia is about how little it takes to actually become
+overweight with time. The difference between lean people and overweight is
+about 10%  excess calorie intake a day. Which is, you know, a couple of Kinder
+Buenos (or some Oreo cookies).
 
-["The Soul of a New Machine"][book] describes how a culture with a heavy focus
-on being right and a de-emphasised focus on being nice emerges in tech. Many
-arguments between software engineers can be reduced to empiricism: "You think
-your algorithm is faster than mine? Well let's just not argue about it and test
-it instead!". Also, tech industry has a higher proportion of autistic people
-than many other fields of work, and this might be feeding in into the spread of
-the "being right" culture.
+The book goes into much more neurological justification of why we tend to
+find modern, refined foods exceptionally rewarding and not satiating. And why
+eating refined, delicious and tempting food makes you to eat more of it later.
+These are all empirical statements and they are all backed by numerous studies
+on rats and humans. I won't be recollecting these here though.
 
-However another important realisation that I made today is that not everyone in
-tech is so keen on this counterculture. Of course everyone doesn't want to wear
-a suit and likes the idea of flat hierarchy and flexible working hours, but
-some are in tech for different reasons to being surround by people who value
-being right: may be they just like coding. May be something else.  They are so
-many reasons why "indoctrinated" people might end up working alongside
-"argumentative" nerds. Nevertheless, they feel like their opinions should still
-be heard without them needing to read a [2000-page primer][ai] on human
-reasoning and "correct" argumentation.
+But more practical tips follow: eat foods that are high on satiety index. In
+other words, eat food that makes you feel full per calorie eaten.  Potato is
+one of those superfoods that is not only full of nutrition, but is also quite
+high on such index. This explains why people who implement "potato-only" diets
+are typically very successful. However if you don't want to just eat potato all
+the time, google for satiety index. Protein is also exceptionally high on such
+index, so look for ways to replace fat/carbohydrates with protein in your diet.
+This is another piece of evidence explaining why, empirically, Paleo diets seem
+to work better than low-fat diets.
 
----------------------
+Food that is high on satiety index tends to be simple and not refined.
+Beans, fish, some vegetables, a steak. Complete opposite of french fries,
+Doritos, cookies, pizza. You know what I am talking about.
 
-So far, we have at least two distinct groups with different social norms in a
-perpetual and, possibly, poignant conflict. Is there a way out?
+Another way of decreasing a reward from food is to decrease variety. Variety
+explains why we have a "dessert stomach" even if we are stuffed. A practical
+tips for visiting buffets follows: a) avoid them b) if you find yourself in a
+buffet, choose 4 kinds of dishes that you will consume out of the selection and
+allow yourself to only eat these. Variety is just another way of making food
+more rewarding and almost impossible to stop gorging on.
 
-Yes! If you are more on the "I care about being right"-spectrum, then you need
-to create correct [incentives][incentives] for people to engage with you.
-Listen empathetically, try to "feel the argument" from another point of view.
-Encourage the colleagues to tell you their reasons why they think a certain
-course of action is the best. Shooting done those reasons, even if you feel
-like those reasons are Argumentation 101, should be down with extreme care. Try
-to disentangle egos as much as possible from a debate. You need to convince
-colleagues that this is just some abstract debate, not a way to deflate their
-ego; you will not use win/defeat in this debate to your advantage in the
-future. You can't just assume people already know that because they don't.
+And yet another way of making the temptations easier to pass by is a technique
+of visualising yourself in the future. This simple trick makes your
+present-you value your future-you more.
 
-A piece of advice for "nice" people: understand that by not engaging in a
-debate, you are fuelling frustration. Understand that simply presenting your
-reasons isn't sufficient, it is necessary to engage in a counter reasoning and
-counter-counter reasoning further. Understand that you both, most likely, want
-the same outcome, but disagree on how to achieve this outcome in a way that is
-best.  Try to reduce arguments to empiricism as much as possible.
-Understand that a discourse is not a waste of time: a belligerent colleague
-might become your best ally if you manage to convince them: 30 minutes of
-arguing is well-worth avoiding 5 hours of resolving merge conflicts because a
-lack of conversation has killed collaboration and communication.
+Finally, not getting enough sleep makes you more prone to impulsiveness. This
+often leads to making short-term rewarding decisions (ordering a pizza) over
+long-term rewarding decisions (going to the gym). So, yeah, get enough sleep,
+dah. Another one, closely related thing, is stress. Avoid comfort eating and
+substitute comfort eating with taking a warm bath, going for a jog or having a
+yoga session instead if you want to make yourself feel better right now.
 
-Further reading: [Personhood: A Game for Two or More Players][personhood].
+So where does it all leave us? If you want to lose some weight you should
+identify what patterns of behaviours cause you to overeat the most. Is it
+availability of snacks? Bad sleeping habits? Lack of exercise? Comfort eating?
 
-[^1]: I didn't think that showering daily is paramount until I realised that
-      the sense of smell is extremely unevenly distributed across people. You might
-      not sense the body odours, but other people might: and some of them will avoid you.
+Once you identify the biggest weaknesses in your current lifestyle, make
+appropriate adjustments. Let the knowledge of the [Habit Forming Loop][habbit]
+guide your way.
 
-[mind-killer]: http://lesswrong.com/lw/gw/politics_is_the_mindkiller/
-[book]: https://en.wikipedia.org/wiki/The_Soul_of_a_New_Machine
-[ai]: https://intelligence.org/rationality-ai-zombies/
-[incentives]: http://lesswrong.com/lw/cu2/the_power_of_reinforcement/
-[personhood]: http://www.meltingasphalt.com/personhood-a-game-for-two-or-more-players/
+If you are intrigued about the book and want to know more then read [this
+review][review] or listen to [this podcast][podcast].
+
+---------------------------
+
+The long story short, controlling the pleasure you derive from food is yet
+another tool that you should consider when you are implementing a diet.
+Calculating calories and exercising is another tool. Cutting off sugars is yet
+another instrument at your disposal, albeit related. Fasting is yet another one.
+
+Moreover, people who go on calorie-restriction diets are, empirically, less
+successful, than those who change diets completely, as outlined by the book.
+After all, there's a [monkey][monkey] inside all of us, which is difficult to
+control.
+
+Anecdotally, after I changed my eating habits away from rewarding foods (and stopped
+having cookies lying around) I lost 3 kilograms. It is not an enormous amount,
+but I love how effortless it was. I didn't realise that I was losing weight: I
+simply wasn't hungry.
+
+[amazon]: https://www.amazon.co.uk/Hungry-Brain-Outsmarting-Instincts-Overeat/dp/125008119X
+[habbit]: https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X
+[review]: http://slatestarcodex.com/2017/04/25/book-review-the-hungry-brain/
+[podcast]: http://rationallyspeakingpodcast.org/show/rs-189-stephan-guyenet-on-what-causes-obesity.html
+[monkey]: https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html
