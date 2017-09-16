@@ -80,9 +80,10 @@ How do they handle this right vs nice dilemma? Well first of all, not great.
 Newcomers are often put off. However they do have some tools to communicate
 displeasure. Certain subjects are considered ["mind-killers"][mind-killer]:
 they are actively discouraged for the sake of staying chill.  Ultimately
-though, there is an understanding that any social rules is only a norm. People
-can debate them and establish new ones if needs be. People are free to say that
-this topic of discussion is making them upset and disengage.
+though, there is an understanding that any social rule is not strictly
+necessary. People can debate the rules and establish new ones if needs be.
+People are free to say that this topic of discussion is making them upset and
+disengage.
 
 ---------------------
 
