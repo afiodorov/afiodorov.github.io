@@ -35,8 +35,7 @@ the most amazing song a caveman has heard in his lifetime. It was probably not
 that good by the standards of modern music industry. The most amazing
 performance they have seen? Again, it has nothing on the modern film industry.
 Man, it hit me so hard I even hired a creative writer to communicate my idea. I
-was not completely satisfied by the outcome, however you might still enjoy, so
-I am going to include the creative piece at the end of this blog post.
+am including the creative piece at the end of this blog post.
 
 What does all of this have to do with the book? Well, it turns out, if you want
 to appreciate modern life, you don't have to compare yourself with prehistoric
