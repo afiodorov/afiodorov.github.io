@@ -27,7 +27,7 @@ Nowadays I associate my decision to just walk away with a) realising how little
 I should care about societal expectations b) starting to figure out what my
 personal motivations and goals are.
 
-However a) is a massive load of my shoulders. So what's the story? How did I
+However a) is a massive load off my shoulders. So what's the story? How did I
 come to even contemplate dropping out?
 
 The short story is I threw myself at a problem, worked on it for almost a year,
