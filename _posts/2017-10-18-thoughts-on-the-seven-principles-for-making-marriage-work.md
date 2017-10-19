@@ -7,7 +7,7 @@ Ever since I watched the [NVC][NVC] video I reduced certain confrontations by
 implementing some of the strategies from the video. I have been thinking since
 then: "wow, what else can I optimise"?
 
-As a nerd I growing up with strong drive for self-improvement, I found many
+As a nerd[^1] I growing up with strong drive for self-improvement, I found many
 academic pursuits easy to learn and optimise. Language learning, mathematics,
 programming, logical reasoning and argumentation - these sort of stuff comes
 relatively easy to me. But interpersonal relationships? This area of my life
@@ -242,3 +242,5 @@ That's probably enough sharing. I obviously shouldn't try reprint the entire
 book here. The short end of it though, is that it is a wonderful read!
 
 [NVC]: https://www.youtube.com/watch?v=4LuPCAh9FCc
+
+[^1]: I know I know, "keep your identity small". It's kinda hard to deny this at this stage though.
