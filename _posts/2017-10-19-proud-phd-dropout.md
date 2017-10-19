@@ -69,7 +69,7 @@ life invested into the thesis became a minute wasted to me. Again, my
 people who are easily impressed by titles". The truth is, there isn't much to
 the title: PhD program is really unstructured and getting one doesn't actually
 signal all that much due to variability involved. Pursuing the title violated
-my "substance of status" value.
+my "substance over status" value.
 
 Those were the main arguments that I kept mulling over: on my own and with my
 colleagues. My colleagues often weren't particularly understanding either:
