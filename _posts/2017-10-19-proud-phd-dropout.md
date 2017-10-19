@@ -67,7 +67,7 @@ life invested into the thesis became a minute wasted to me. Again, my
 "rebellious" streak reasoned with me: "you don't want to be surrounded by
 people who are easily impressed by titles". The truth is, there isn't much to
 the title: PhD program is really unstructured and getting one doesn't actually
-signal all that much due to variability involved. Pursuing the title violates
+signal all that much due to variability involved. Pursuing the title violated
 my "substance of status" value.
 
 Those were the main arguments that I kept mulling over: on my own and with my
