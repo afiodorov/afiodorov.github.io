@@ -44,7 +44,7 @@ got solved. Due to similarity of the problems I ported some methods from B to A:
 but that was missing the entire point of it! Problem B should have been
 dropped once A got solved. Needless to say, I couldn't carry on working on
 various variations of B: I just lost interest. That's how I figured out that I
-am driven by making an impact.
+am driven by believing that my work is useful.
 
 When I lost any interest in researching more, I still told myself that I should
 just finish: write it up and move on with my life. But deep down, I simply
