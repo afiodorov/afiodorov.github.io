@@ -28,7 +28,7 @@ I should care about societal expectations b) starting to figure out what my
 personal motivations and goals are.
 
 However a) is a massive load off my shoulders. So what's the story? How did I
-come to even contemplate dropping out?
+come to even contemplating about dropping out?
 
 The short story is I threw myself at a problem, worked on it for almost a year,
 solved it... and then got really disappointed by how insignificant the problem
