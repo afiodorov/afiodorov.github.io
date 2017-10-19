@@ -107,13 +107,13 @@ of time this blog post is". Well that was a disappointment: life-changing blog
 post for me wasn't even worth reading. I see some humour in this failure to
 connect today though.
 
-A book that I am reading these days mentioned the following thing yesterday:
-knowing that a person you admire also went through struggles similar to yours
-will alleviate your suffering. And it helped me a lot when I found out that a
-person I currently admire the most, [Julia Galef][galef][^1], also dropped out
-from her PhD. And thus this blog post was born. I don't claim to be admired,
-but I hope that some of my readers will also find comfort in the fact that I
-struggled with this decision.
+A book that I am reading these days mentioned the following thing: knowing that
+a person you admire also went through struggles similar to yours will alleviate
+your suffering. And it helped me a lot when I found out that a person I
+currently admire the most, [Julia Galef][galef][^1], also dropped out from her
+PhD. And thus this blog post was born. I don't claim to be admired, but I hope
+that some of my readers will also find comfort in the fact that I struggled
+with this decision.
 
 P.S. And I apologise to many of my colleagues who had to bear the brunt of my
 irritability at the time of my struggles. In my defense, irritability is a sign
