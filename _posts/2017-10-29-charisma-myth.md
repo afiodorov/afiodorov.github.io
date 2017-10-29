@@ -76,7 +76,7 @@ charisma. The author identified a type of charisma that inspires people
 two are: focus and kindness. I described focus charisma above, however kindness
 charisma is also worth remarking on. Kindness charisma makes you come across as
 generous and well-meaning. It is especially important when you have to give
-somebody a negative feedback, however it is incompatible with authority
+somebody negative feedback, however it is incompatible with authority
 charisma. Oh my god, I didn't even know that there are so many charismas!
 
 The book finishes with remarking that there are certain downside to being
