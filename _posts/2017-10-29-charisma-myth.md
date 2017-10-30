@@ -36,7 +36,7 @@ your worries or casually looking for a way out of a conversation are also
 massive turn-offs.
 
 The way I interpret all of the above is that I have to make a concious call
-whether I am going to devote my full attention to the speaker and the situation
+whether I am going to devote my full attention to the speaker at the situation
 or not even bother. It is totally acceptable to excuse myself and leave the
 conversation, but it is not acceptable to be only halfway in it. This means: no
 glancing over my smartphone or mulling over my own worries whilst interacting:
