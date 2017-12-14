@@ -31,8 +31,8 @@ have left *both*: the body and the room. I want my body back. I want to feel
 connected to the Earth again. This is turning into a nightmare. I realise that
 I've lost track of time.
 
-I start to feel cold. I put on woolen socks, turn the heating up, grabbing my
-top and my coat and a blanket. I curl up into a corner of a sofa. I really want
+I start to feel cold. I put on woolen socks, turn the heating up, grab my
+hoodie and my coat and a blanket. I curl up into a corner of a sofa. I really want
 to be back. I don't want euphoria, just need to get back into this toy, foreign
 room. I want the sounds to not sound distant and the body to feel normal again,
 like MY BODY.
