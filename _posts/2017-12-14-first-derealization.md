@@ -43,14 +43,14 @@ Please don't abandon me here! I NEED YOU, human. BRING ME BACK." Please, reply.
 Please, reply. PLEASE REPLY. STAY HERE. Don't let be on my own. I need you.
 Reply... faster... Don't leave me. I beg you to not abandon me here on my own.
 
-Phone rings and her voice goes: "I guess you won't be taking this drug again,
-hah?". I reply with "I am going to burn the rest. Jesus who THE FUCK enjoys
-this shit?". And we talk... I try to make tea to feel warmer. I make a lot of
-sounds with a teaspoon in the process... no, still distant. Her voice is really
+Phone rings and her voice goes: "I guess you won't be taking that again, hah?".
+I reply with "I am going to burn the rest. Jesus who THE FUCK enjoys this
+shit?". And we talk... I try to make tea to feel warmer. I make a lot of sounds
+with a teaspoon in the process... no, still distant. Her voice is really
 soothing though. As we talk I slowly start to calm down and return. I have so
 much gratitude towards her for keeping me company when I needed it so much. One
 hour later, I am completely OK: present and not devastated. Thank God, I am
-back.  Life's normal again. Fuck this drug.
+back. Life's normal again. Fuck this drug.
 
 I love presence now. I love being present in THIS REAL ROOM and feeling MY
 BODY, MY HANDS, MY FINGERS: they belong to me.
