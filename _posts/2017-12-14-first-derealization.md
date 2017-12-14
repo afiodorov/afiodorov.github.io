@@ -13,8 +13,8 @@ day is sunny and I am about to become... euphoric. What could be better? Whilst
 anticipating, I play loud chords... 20 minutes in, and my left hand starts to
 feel strange... it is no longer my hand. It is a hand, but it is not MY HAND. I
 control it as if it's a prosthetic hand though still. I am slowly starting to
-leave this room in spirit. My body isn't my body anymore and everything has
-become incredibility distant. "I am not present", I remark. "This drug is
+leave this room in spirit. My body isn't my body anymore and everything is
+becoming incredibility distant. "I am not present", I remark. "This drug is
 weird", I remark further.
 
 OK, since the drug is working, I am going to put some music on, ecstasy is good
@@ -24,11 +24,12 @@ music is now very distant... and I am losing more of the self. I am leaving the
 environment further.
 
 I am starting to not enjoy this. "-How do you feel?", I receive a message. "I
-don't know is my answer". Because I AM NOT HERE. However... I don't like the
-drug. Really don't like it. People talk about unity. Yes my body is indeed
-united with the room, but *I* have left *both*: the body and the room. I want
-my body back. I want to feel connected to the Earth again. This is turning into
-a nightmare. I realise that I've lost track of time.
+don't know is my answer". Because I AM NOT HERE. I don't even know what feeling
+anything is like. However... I don't like the drug. Really don't like it.
+People talk about unity. Yes my body is indeed united with the room, but *I*
+have left *both*: the body and the room. I want my body back. I want to feel
+connected to the Earth again. This is turning into a nightmare. I realise that
+I've lost track of time.
 
 I start to feel cold. I put on woolen socks, turn the heating up, grabbing my
 top and my coat and a blanket. I curl up into a corner of a sofa. I really want
