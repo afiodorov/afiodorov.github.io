@@ -18,10 +18,10 @@ most people would rather just call me needy.
 But, this blog post isn't just about my insecurities! I think I am onto
 something. And that something is... to not think of "needy" as a characteristic
 that would describe an individual. Instead, it's a characteristic that
-describes a bond between two individuals. In other words, I can be needy to my
-friend A, yet not needy to my friend B. Being needy is about whether you
-request more attention than another person is willing to give. If B loves
-hanging out with me then I am not needy to B!
+describes a bond between two individuals. In other words, I can be needy
+towards my friend A, yet not needy towards my friend B. Being needy is about
+whether you request more attention than another person is willing to give. If B
+loves hanging out with me then I am not needy towards B!
 
 The way I see it, some people value social interaction more than certain
 activities. These days I even struggle to watch a movie without thinking that I
