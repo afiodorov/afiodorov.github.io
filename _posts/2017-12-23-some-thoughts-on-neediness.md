@@ -45,4 +45,4 @@ with reprimands, stroppy fits, whining and arguments. This IS NEEDINESS.
 _Requesting_ attention though means that a person's refusal is consequence free.
 
 Thus, my TL;DR; thoughts on neediness: match people's efforts and don't demand
-attention. Your need for social interaction is irrelevant. Tada.
+attention. My need for social interaction is irrelevant. Tada.
