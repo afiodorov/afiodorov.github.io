@@ -9,12 +9,12 @@ specifically.
 
 The book starts off by addressing insecurities of many women. It goes into
 extraordinary lengths to convince readers that their bodies are normal. The
-effort the author, a sex educator, puts in into this showed to me how insecure
-and shameful women are about their bodies and genitalia. It then quickly
-remarks on the myth that hymen is an indicator of virginity. OK... but nothing
-mind blowing.
+effort of the author, a sex educator, puts in into this showed to me how
+insecure and ashamed women are about their bodies and genitalia. It then
+quickly remarks on the myth that hymen is an indicator of virginity. OK... but
+nothing mind-blowing.
 
-The mind blowing things start in Chapter 2, where the author introduces the
+The mind-blowing things start in Chapter 2, where the author introduces the
 dual control model. Sexual response is governed by two systems: *Sexual
 Excitation System (SES)* and *Sexual Inhibition System (SIS)*. SES is the
 accelerator: it receives information about sexually relevant stimuli in the
@@ -23,7 +23,7 @@ the brain to the genitals to tell them "Turn on!". It is a subconscious system
 that is always at work. SIS is the sexual brake. Things like risk of STI
 transmission, unwanted pregnancy, social consequences or... your grandmother
 walking into the room activate it. The implications of this dual control model
-are immense. If are having troubles getting aroused, you need to identify
+are immense. If you are having troubles getting aroused, you need to identify
 whether your accelerator is too unexcitable or your brake is too sensitive.  If
 your brake is too sensitive then things need to be just right for you to get in
 the mood and if your accelerator is too insensitive then you will only respond
@@ -32,7 +32,7 @@ sensitivity of neither SES nor SIS. Also, a sensitive brake is the strongest
 predictor of sexual problems of all kinds. And... women tend to have more
 sensitive brakes compared to men. Men, on the other hand, have more excitable
 accelerators.  Which explain a lot! It should help men understand how to turn
-women on in their bedrooms: be more mindful about the SIS.
+women on in their bedrooms: be more mindful about their SIS.
 
 Further the book introduces the idea of *context*. The idea of context is best
 understood through tickling. Being tickled can be enjoyable if you trust the
@@ -71,13 +71,13 @@ responsive. Spontaneous desire is when you want sex out of the blue whereas
 responsive is when you only want sex when something erotic is already
 happening. Spontaneous desires are much more common in guys compared to women
 and only about 15% of women have spontaneous desire. I *personally* used to
-have spontaneous desire that morphed into responsive desire only. These days I
+have spontaneous desire that morphed into a responsive desire only. These days I
 only get turned on when there's an intention on somebody's part to actually
 turn me on. Watching erotic material/porn has become incredibly dull.
 
-The book then goes into discussion feminine orgasms and how hard they are to
+The book then goes into discussion of feminine orgasms and how hard they are to
 achieve during vaginal sex and finishes up with its persistent "YOU'RE NORMAL"
 message to make readers feel more secure and good about themselves.
 
-I thoroughly recommend this book to anyone who has interesting in having a more
-satisfying sex life.
+I thoroughly recommend this book to anyone who is interested in having a more
+satisfying sex life (assuming they have a partner rather than just a blog!).
