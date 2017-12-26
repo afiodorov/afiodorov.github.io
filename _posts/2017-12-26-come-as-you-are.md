@@ -75,9 +75,9 @@ have spontaneous desire that morphed into a responsive desire only. These days I
 only get turned on when there's an intention on somebody's part to actually
 turn me on. Watching erotic material/porn has become incredibly dull.
 
-The book then goes into discussion of feminine orgasms and how hard they are to
-achieve during vaginal sex and finishes up with its persistent "YOU'RE NORMAL"
-message to make readers feel more secure and good about themselves.
+The book then goes into the discussion of feminine orgasms and how hard they
+are to achieve during vaginal sex and finishes up with its persistent "YOU'RE
+NORMAL" message to make readers feel more secure and good about themselves.
 
 I thoroughly recommend this book to anyone who is interested in having a more
 satisfying sex life (assuming they have a partner rather than just a blog!).
