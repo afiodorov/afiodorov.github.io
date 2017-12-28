@@ -95,7 +95,7 @@ to them despite the fact that things may appear to be boring at first.
 
 ---
 
-If you are avoidant, then the hurtful pattern of behaviours that you engage it
+If you are avoidant, then the hurtful pattern of behaviours that you engage in
 stem from you a) avoiding being reliant on your partner b) avoiding being
 vulnerable to your partner c) avoiding being relied upon by your partner. You
 want to keep yourself safe and distant, ready it break it off any minute.  Such
