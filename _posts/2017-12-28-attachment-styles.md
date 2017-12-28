@@ -140,4 +140,4 @@ actively dealing with my avoidant tendencies: they are actually quite easy to
 spot. I would say that this book is essential if suspect that you are in an
 anxious-avoidant relationship.
 
-Um... thanks for reading? No, seriously, thank you.
+Um... thanks for reading? No, seriously, thank you!
