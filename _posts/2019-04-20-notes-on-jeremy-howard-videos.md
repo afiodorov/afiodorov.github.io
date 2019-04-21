@@ -190,6 +190,8 @@ how to code against API provided by sklearn. This is a reminder to myself to
 keep watching educational videos and keep learning from other practitioners.
 And I hope to blog about what I learn more often :).
 
+P.S. special thanks to [Hiromi Suenaga] for her excellent notes.
+
 [^1]: we used to call this "babysitting" at [ravelin.com].
 
 [4]: http://course18.fast.ai/lessonsml1/lesson4.html
@@ -209,3 +211,4 @@ And I hope to blog about what I learn more often :).
 [data leakage]: https://machinelearningmastery.com/data-leakage-machine-learning/
 [drift]: https://en.wikipedia.org/wiki/Concept_drift
 [ravelin.com]: www.ravelin.com
+[Hiromi Suenaga]: https://medium.com/@hiromi_suenaga
