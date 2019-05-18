@@ -116,7 +116,6 @@ def sum_cython(double[::1, :] X):
     res = np.zeros(X.shape[1])
     cdef double[:] res_view = res
     cdef Py_ssize_t i
-    cdef double sum = 0
     for i in prange(X.shape[1], nogil=True):
         res_view[i] = sum_col(X, i)
 
