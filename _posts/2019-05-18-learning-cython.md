@@ -17,7 +17,7 @@ each column in parallel and then aggregate the result. How can this be achieved?
 
 ------
 
-## "Hack 1": [multiprocessing]
+## "Hack": [multiprocessing]
 
 Instead of using threads we [fork] the main process. The main disadvantage of
 this method is that each process should receive a copy of you data. So if we
