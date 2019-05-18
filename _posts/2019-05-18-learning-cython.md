@@ -86,8 +86,8 @@ everything is done in pure python.
 ## Another approach: [Cython]
 
 Let's see if we can actually beat numpy's `np.sum()`. Since the above is a bit
-of a hack and only works on Linux, how do libraries like `sklearn` utilise all
-cores? They use Cython which allows one to write multithreaded code without
+of a hack and only works on Linux, how do libraries like [scikit-learn] utilise
+all cores? They use Cython which allows one to write multithreaded code without
 worrying about the GIL. Cython also has a [good way] to interact with numpy
 arrays. Without further ado, lets jump into the code and the result:
 
@@ -134,7 +134,7 @@ OK, looks like my Cython multithreaded implementation is somewhat faster. First
 of all, why is `np.sum` so difficult to beat? I strongly suspect it's using
 [vector instructions].
 
-Now, some comments on the code. My original version of `cdef double sum_col` was just
+Now some comments on the code. My original version of `cdef double sum_col` was just
 
 {% highlight python %}
 return np.sum(X[:, col_num])
@@ -194,3 +194,4 @@ if it is better.
 [good way]: https://cython.readthedocs.io/en/latest/src/tutorial/numpy.html
 [vector instructions]: https://en.wikipedia.org/wiki/Vector_processor
 [memoryviews]: https://cython.readthedocs.io/en/latest/src/userguide/memoryviews.html
+[scikit-learn]: http://scikit-learn.org
