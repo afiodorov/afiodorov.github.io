@@ -47,10 +47,10 @@ df_train = pd.DataFrame(X_train, columns=col_names)
 
 
 Following the methodology of Marcos I created a dataset with 10 informative
-features, 10 redundant features (those are linear combinations of the
-informative) and 20 non-informative. I then trained a [LightGBM] classifier and
-computed the SHAP values. `LightGBM` library computes SHAP values without
-installing extra dependencies:
+features `I_*`, 10 redundant features (those are linear combinations of the
+informative) `R_*` and 20 non-informative `N_*`. I then trained a [LightGBM]
+classifier and computed the SHAP values. `LightGBM` library computes SHAP
+values without installing extra dependencies:
 
 {% highlight python %}
 import numpy as np
