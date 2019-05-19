@@ -102,7 +102,9 @@ it being a negative aspect of the method.
 # Conclusion
 
 So far nothing wrong with SHAP values detected. For complete treatment I am including
-mean impurity decrease (MID) and permutation (based on [ROC AUC] score) importances.
+mean impurity decrease (MID) and permutation (based on [ROC AUC] score)
+importances. I can remark that all 3 methods are in rough agreement, so perhaps
+this test isn't very informative.
 
 {::nomarkdown}<div id="mid"></div>{:/}
 
