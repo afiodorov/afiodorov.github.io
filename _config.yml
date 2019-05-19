@@ -13,7 +13,7 @@ author: "Tom Artiom Fiodorov"
 email: "a.fiodorov@yahoo.co.uk"
 url: "https://afiodorov.github.io"
 baseurl:
-highlighter: "pygments"
+highlighter: "rouge"
 
 redcarpet:
   extensions: [strikethrough, tables]
