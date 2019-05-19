@@ -25,7 +25,7 @@ are operating on a 20gb dataframe, a naive execution of 32 processes will end
 up consuming 640gb of memory. This, of course, will result in `MemoryError` in
 cases when it's worth parallelising in the first place. However, it turns out
 that Linux uses [copy-on-write] mechanism when creating new processes. This
-means that we can share memory between processors as long as we don't modify
+means that we can share memory between processes as long as we don't modify
 the underlying dataframe. In practice I found that storing a numpy array in a
 global variable (a list or a dict) and then starting processes allows me to
 utilise all cores and still write code in pure Python, see example below:
