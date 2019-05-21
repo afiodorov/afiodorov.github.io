@@ -250,7 +250,7 @@ approximating these by going down the path that is closest to the current value
 instead of taking the weighted average of the children. My hacky solution makes
 computations of contributions just as fast as predictions however it is less
 robust. I include the fast "Algorithm 2" from the [tree shap paper], but, after
-staring it at for a few days by now, I have given up on any hope of
+staring at it for a few days by now, I have given up on any hope of
 understanding it just by reading it. Perhaps some motivated reader could email
 me the explanation. For now, this is good bye!
 
