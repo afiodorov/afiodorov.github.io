@@ -248,7 +248,7 @@ deploy in a live system for any reasonably-sized tree. When faced with a similar
 problem of computing conditional expectations in the past and I ended up
 approximating these by going down the path that is closest to the current value
 instead of taking the weighted average of the children. My hacky solution makes
-computation of contributions just as fast as predictions however it is less
+computations of contributions just as fast as predictions however it is less
 robust. I include the fast "Algorithm 2" from the [tree shap paper], but, after
 staring it at for a few days by now, I have given up on any hope of
 understanding it just by reading it. Perhaps some motivated reader could email
