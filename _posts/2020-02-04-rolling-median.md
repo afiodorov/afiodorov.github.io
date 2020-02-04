@@ -129,7 +129,11 @@ func NewFixedSizeSortedQueue(values []float64) FixedSizeSortedQueue {
 }
 {% endhighlight %}
 
-Finally we have all the components to make the computation possible:
+Finally we have all the components to make the computation possible. Just like
+pandas we pre-fill the result with `NaN`'s where computation is impossible. We
+initialise the sliding window at the start of the series, and keep advancing
+the window one element at a time, whilst keeping the window sorted & memorising
+which element should be deleted at the next step:
 
 {% highlight go %}
 func movingMedian(series []Data, period int) []Data {
