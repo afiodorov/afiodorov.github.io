@@ -137,15 +137,15 @@ func movingMedian(series []Data, period int) []Data {
 	for _, v := range series[:(period - 1)] {
 		initialWindow = append(initialWindow, v.Value)
 	}
-	stack := NewFixedSizeSortedQueue(initialWindow)
+	queue := NewFixedSizeSortedQueue(initialWindow)
 
 	median := float64(0)
 	for i, v := range series {
 		if i < period-1 {
 			median = math.NaN()
 		} else {
-			stack.Push(v.Value)
-			median = stack.Sorted.Median()
+			queue.Push(v.Value)
+			median = queue.Sorted.Median()
 		}
 
 		res[i] = Data{
