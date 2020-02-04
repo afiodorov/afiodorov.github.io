@@ -6,7 +6,7 @@ title: Computing rolling median in Go
 Back in the day when I was teaching myself how to ~~program~~ land a programming
 job, I'd spend quite some time learning basic data structures such as queues,
 stacks, heaps, linked lists, etc. To my disappointment though, now that I am
-employed in tech, I almost never get a chance to implement these no more.
+employed in tech I almost never get a chance to implement these no more.
 Reasons are: I can often use a library or I simply don't need these ingredients
 as they are too "low-level".
 
