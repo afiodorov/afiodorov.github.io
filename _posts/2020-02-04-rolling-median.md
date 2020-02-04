@@ -40,10 +40,11 @@ type Data struct {
 }
 {% endhighlight %}
 
-When computing rolling median, we will need to remember last N entries in a
-sorted order. Luckily Go provides a nice `sort` library that allows one to use
-[binary search][binsearch] to insert & delete elements from a slice that's
-already sorted:
+When computing rolling median, we will need to remember last N (where N is the
+size of the window) entries in a sorted order. The fact that elements are
+sorted allows us to quickly find the median by picking the element in the
+middle. Go provides a handy `sort` library that allows one to use [binary search][binsearch]
+to insert & delete elements from a slice that's already sorted:
 
 {% highlight go %}
 // SortedFloatSlice assumes elements are sorted
@@ -76,7 +77,9 @@ func (f SortedFloatSlice) Median() float64 {
 
 Moreover, when dealing with computation of the rolling median, we ought to remember
 the insertion order of the numbers in the rolling window. In other words, we
-need a fixed size [queue][queue]:
+need a fixed size [queue][queue]. This necessary for advancing the rolling
+window one element at a time, i.e. deleting the oldest element & inserting a
+new one:
 
 {% highlight go %}
 // FloatQueue is FIFO implementation
@@ -161,7 +164,8 @@ func movingMedian(series []Data, period int) []Data {
 
 ---
 
-This concludes the code & the blog post. Hurray.
+This concludes the code & the blog post. Hurray! (So much code though that does
+what python does in one line)
 
 TL;DR I used a queue & a sorted array to make the computation.
 
