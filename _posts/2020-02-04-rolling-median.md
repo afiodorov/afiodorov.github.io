@@ -17,7 +17,7 @@ excitement to you, my dear reader!
 The story begins in me having to make the following computation in go:
 
 {% highlight python %}
-ser.rolling(period=30).median() # this is python's Pandas library
+ser.rolling(period=30).median() # this is python's Pandas library, N=30
 {% endhighlight %}
 
 i.e. computing [rolling/moving median][ma] of a series of timestamped numbers.
