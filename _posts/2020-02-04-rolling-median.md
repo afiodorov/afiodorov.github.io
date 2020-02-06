@@ -81,8 +81,8 @@ initialise the sliding window at the start of the series, and keep advancing
 the window one element at a time, whilst keeping the window sorted
 
 {% highlight go %}
-func movingMedian(series internal.Metrics, period int) internal.Metrics {
-	res := make(internal.Metrics, len(series))
+func movingMedian(series []Data, period int) []Data {
+	res := make([]Data, len(series))
 
 	window := make(SortedFloatSlice, 0, period-1)
 	for _, v := range series[:(period - 1)] {
@@ -102,9 +102,9 @@ func movingMedian(series internal.Metrics, period int) internal.Metrics {
 			median = window.Median()
 		}
 
-		res[i] = internal.Metric{
-			Timestamp: v.Timestamp,
-			Value:     median,
+		res[i] = Data{
+			Time:  v.Time,
+			Value: median,
 		}
 	}
 
@@ -117,11 +117,11 @@ func movingMedian(series internal.Metrics, period int) internal.Metrics {
 
 Complexity analysis: we have to do insert/delete from a sorted array at each
 step, which is O(window). Since we have N steps the resulting complexity is
-O(N * window). Can we do better? Turns out the canonical algorithm for computing
+O(N*window). Can we do better? Turns out the canonical algorithm for computing
 a rolling median is to keep window elements in a [skip list][skiplist] instead.
 Skip list allows one to insert, delete and random access sorted elements in
 logN times, thus the complexity of the canonical algorithm is lower:
-O(N * log(window)). However for windows of small sizes, I feel like the advantage
+O(N*log(window)). However for windows of small sizes, I feel like the advantage
 of skip lists is not worth the cost of much more complex implementation.
 
 This concludes the code & the blog post. Hurray!
