@@ -33,6 +33,14 @@ Without further ado, let's begin our rolling median implementation. Start with
 an underlying data structure that holds our timestamped numbers:
 
 {% highlight go %}
+package main
+
+import (
+	"math"
+	"sort"
+	"time"
+)
+
 // Data holds Value & Time when value was observed
 type Data struct {
 	Value float64
