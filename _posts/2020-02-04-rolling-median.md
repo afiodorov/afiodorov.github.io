@@ -122,7 +122,7 @@ a rolling median is to keep window elements in a [skip list][skiplist] instead.
 Skip list allows one to insert, delete and random access sorted elements in
 logN times, thus the complexity of the canonical algorithm is lower:
 O(Nlog(window)). However for windows of small sizes, I feel like the advantage
-of skip lists outweigh the cost of much more complex implementation.
+of skip lists is not worth the cost of much more complex implementation.
 
 This concludes the code & the blog post. Hurray!
 
