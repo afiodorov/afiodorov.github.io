@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <meta name="author" content="Artiom Fiodorov (Tom)" />
+  <title>Probability theory as an extension of logic</title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" type="text/css" media="screen, projection, print"
+    href="http://www.w3.org/Talks/Tools/Slidy2/styles/slidy.css" />
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+  <script src="http://www.w3.org/Talks/Tools/Slidy2/scripts/slidy.js"
+    charset="utf-8" type="text/javascript"></script>
+</head>
+<body>
+<div class="slide titlepage">
+  <h1 class="title">Probability theory as an extension of logic</h1>
+  <p class="author">
+Artiom Fiodorov (Tom)
+  </p>
+  <p class="date">October, 2015</p>
+</div>
+<div id="motivating-example" class="slide section level1">
+<h1>Motivating example</h1>
+<ul>
+<li>A policeman spots an armed person next to a robbery. He quickly concludes that the man is guilty. By what reasoning process?</li>
+<li><img src="./criminal.gif" title="fig:" alt="img" /></li>
+</ul>
+</div>
+<div id="deductive-and-plausible-reasoning" class="slide section level1">
+<h1>Deductive and plausible reasoning</h1>
+<ul>
+<li>Policeman's conclusion couldn't be a logical deduction</li>
+<li>Deductive reasoning consists of the following strong syllogisms:</li>
+<li>if <span class="math inline">\(A\)</span> is true, then <span class="math inline">\(B\)</span> is true
+\begin{align*}
+  \frac{\text{$A$ is true}}{\text{therefore, $B$ is true}}
+  \end{align*}</li>
+<li>\begin{align*}
+  \frac{\text{$B$ is false}}{\text{therefore, $A$ is false}}
+  \end{align*}</li>
+</ul>
+</div>
+<div id="weak-syllogisms" class="slide section level1">
+<h1>Weak syllogisms</h1>
+<ul>
+<li><p>The reasoning of our policeman consists of the following weak syllogisms:</p></li>
+<li>if <span class="math inline">\(A\)</span> is true, then <span class="math inline">\(B\)</span> is true
+\begin{align*}
+  \frac{\text{$A$ is false}}{\text{therefore, $B$ becomes less plausible}}
+  \end{align*}</li>
+<li>\begin{align*}
+  \frac{\text{$B$ is true}}{\text{therefore, $A$ becomes more plausible}}
+  \end{align*}</li>
+</ul>
+</div>
+<div id="crucial-difference" class="slide section level1">
+<h1>Crucial difference</h1>
+<ul>
+<li><p>Strong syllogisms can be chained together without any loss of certainty</p></li>
+<li><p>Weak syllogism have wider applicability</p>
+<p>Most of the reasoning people do consists of weak syllogism.</p></li>
+</ul>
+</div>
+<div id="quantifying-weak-syllogisms" class="slide section level1">
+<h1>Quantifying weak syllogisms</h1>
+<ul class="incremental">
+<li>Question: can we quantify this everyday reasoning?</li>
+</ul>
+<blockquote>
+<p>Answer: yes, using probability theory.</p>
+</blockquote>
+<blockquote>
+<p>Probability theory is nothing but common sense reduced to calculation -- <cite>Laplace, 1819</cite></p>
+</blockquote>
+<ul class="incremental">
+<li>Cox's theorem (1946) states that any system for plausibility reasoning that satisfies certain commonsense requirements is isomorphic to probability theory.</li>
+</ul>
+<ul class="incremental">
+<li>Cox's theorem relies on a few assumptions. Whilst those assumptions are not necessarily how humans always think, it might well something be something that rational people might want to adopt into their way of thinking.</li>
+</ul>
+</div>
+<div id="objectives-of-this-talk" class="slide section level1">
+<h1>Objectives of this talk</h1>
+<ul>
+<li>Goal 1: show that probability theory can be regarded as an extension of logic</li>
+<li>Goal 2: relate such notion of probability to other approaches of interpreting probability</li>
+<li>Goal 3: show applications of probability theory used as logic</li>
+</ul>
+</div>
+<div id="desideratum.-developing-a-thinking-robot." class="slide section level1">
+<h1>Desideratum. Developing a thinking robot.</h1>
+<ul class="incremental">
+<li><ol class="incremental" style="list-style-type: upper-roman">
+<li>Degrees of plausibility are represented by real numbers.</li>
+</ol></li>
+<li><ol class="incremental" start="2" style="list-style-type: upper-roman">
+<li>Correspondence with common sense:</li>
+</ol></li>
+<li>(2a) If a conclusion can be reasoned out in more than one way, then every possible way must lead to the same result.</li>
+<li>(2b) The robot always takes into account all of the evidence it has relevant to a question. It does not arbitrarily ignore some of the information, basing its conclusions only on what remains.</li>
+<li>(2c) The robot always represents equivalent states of knowledge by equivalent plausibility assignments. That is, if in two problems the robot's state of knowledge is the same (except perhaps for the labelling of the propositions), then it must assign the same plausibilities in both.</li>
+</ul>
+</div>
+<div id="assumption-single-valued-theory" class="slide section level1">
+<h1>Assumption: Single-valued theory</h1>
+<p>There exists a continuous monotonic decreasing function <span class="math inline">\(S\)</span> such that</p>
+<p><span class="math display">\[ (\neg A|B) = S(A|B) \]</span></p>
+</div>
+<div id="assumption-conjunction" class="slide section level1">
+<h1>Assumption: Conjunction</h1>
+<p>There exists a continuous function <span class="math inline">\(F\)</span> such that</p>
+<p><span class="math display">\[(A \wedge B|C) = F[(B|C), (A| B, C)]\]</span></p>
+<p>Heuristic: for <span class="math inline">\(A \wedge B\)</span> to be true <span class="math inline">\(B\)</span> has to be true so <span class="math inline">\((B | C)\)</span> is needed. If <span class="math inline">\(B\)</span> is false then <span class="math inline">\(A \wedge B\)</span> is false independently of <span class="math inline">\(A\)</span>, so <span class="math inline">\((A | C)\)</span> is not needed if <span class="math inline">\((A | B, C)\)</span> and <span class="math inline">\((B | C)\)</span> are known.</p>
+</div>
+<div id="coxs-theorem" class="slide section level1">
+<h1>Cox's theorem</h1>
+<p>There exists a continuous, strictly increasing function <span class="math inline">\(p\)</span> such that, for every <span class="math inline">\(A, B\)</span> and some background information <span class="math inline">\(X\)</span>,</p>
+<ol style="list-style-type: decimal">
+<li><span class="math inline">\(p(A | X) = 0\)</span> iff <span class="math inline">\(A\)</span> is known to be false given the information in <span class="math inline">\(X\)</span>.</li>
+<li><span class="math inline">\(p(A | X) = 1\)</span> iff <span class="math inline">\(A\)</span> is known to be true given the information in <span class="math inline">\(X\)</span>.</li>
+<li><span class="math inline">\(0 \leq p(A | X) \leq 1\)</span>.</li>
+<li><span class="math inline">\(p(A\wedge B | X) = p(A | X)p(B | A, X)\)</span>.</li>
+<li><span class="math inline">\(p(\neg A | X) = 1 - p(A | X)\)</span>.</li>
+</ol>
+</div>
+<div id="approaches-to-probability-comparison" class="slide section level1">
+<h1>Approaches to probability: comparison</h1>
+<ul>
+<li><p>Measure-theoretic. Opt-out: probability is any measure with certain properties.</p>
+<p>The principles for assigning probabilities by logical analysis of incomplete information is not present at all in Kolmogorov system.</p></li>
+</ul>
+<div class="incremental">
+<ul>
+<li>Statistics:</li>
+</ul>
+<ol style="list-style-type: upper-roman">
+<li>Bayesian: what we derived here. Probability = plausibility of a statement</li>
+<li>Frequentist: probability = long standing frequency of an event</li>
+</ol>
+</div>
+</div>
+<div id="convergence-of-bayesian-probabilities-with-frequentists" class="slide section level1">
+<h1>Convergence of Bayesian probabilities with Frequentists</h1>
+<p>Conduct <span class="math inline">\(n\)</span> independent trials, where each trial has <span class="math inline">\(m\)</span> outcomes.</p>
+<p>Start with ignorance knowledge (<span class="math inline">\(I_0\)</span>) that every trial is equally likely.</p>
+<p>Can be shown that</p>
+<p><span class="math display">\[ P(\text{trial}_i = j | \{n_j\}, n, I_0) = \frac{n_j}{n} \]</span></p>
+<p>where <span class="math inline">\(\frac{n_j}{n}\)</span> is just the observed frequency of an outcome <span class="math inline">\(j\)</span>.</p>
+</div>
+<div id="case-study-1." class="slide section level1">
+<h1>Case study 1.</h1>
+<p>Throw a die <span class="math inline">\(n\)</span> times. Average is <span class="math inline">\(4\)</span>. What is the probability distribution of such a die as <span class="math inline">\(n \to \infty\)</span>?</p>
+<p>Let's first answer calculate the following:</p>
+<p><span class="math display">\[ P(\text{Average is } 4 | I_0) \]</span></p>
+</div>
+<div id="calculating-the-multiplicity" class="slide section level1">
+<h1>Calculating the multiplicity</h1>
+<p><span class="math display">\[ P(\text{Average is } 4 | I_0) = \text{Multiplicity}(\text{Average is } 4)
+/ 6^n \]</span></p>
+<p>Fix <span class="math inline">\(n = 20\)</span>.</p>
+\begin{align*}
+\text{Multiplicity}(\text{Average is } 4 | I_0) =
+\frac{20!}{1!1!1!12!4!1!} &amp;+ \frac{20!}{1!1!1!13!2!2!}
+\\
+&amp;+ \frac{20!}{1!1!2!10!5!1!} + \cdots
+\end{align*}
+<p>There are <span class="math inline">\(283\)</span> terms in the summation.</p>
+</div>
+<div id="multiplicity-as-n-to-infty" class="slide section level1">
+<h1>Multiplicity as <span class="math inline">\(n \to \infty\)</span></h1>
+<p><span class="math display">\[ \frac{1}{n} \log(\text{Multiplicity}) = \frac{1}{n} \log \max_{\substack{\sum_i n_i = n \\ \sum_i i*n_i = 4 * n}}
+\frac{n!}{n_1! n_2! \dots n_6!} + o(1) \,.
+\]</span></p>
+<p>Now take <span class="math inline">\(n \to \infty\)</span> under <span class="math inline">\(n_j / n \to f_j\)</span> to see that</p>
+<p><span class="math display">\[ P(\text{Average is } 4 | I_0)  \approx \frac{e^{n \sum_i - f_j \log f_j}}{6^n}. \]</span></p>
+<p>for <span class="math inline">\(f_j\)</span>'s that maximise <span class="math inline">\(\sum_{j = 1}^{6} - f_j \log f_j\)</span>.</p>
+</div>
+<div id="solution-to-the-die-question" class="slide section level1">
+<h1>Solution to the die question</h1>
+<ul>
+<li><p>Out of all probability distributions that average to <span class="math inline">\(4\)</span> pick the one which maximise the <em>information</em> entropy: <span class="math inline">\(\sum_{j = 1}^{6} -p_j \log p_j\)</span>.</p></li>
+<li><p>The answer is: <span class="math inline">\(0.11, 0.12, 0.14, 0.17, 0.21, 0.25\)</span>.</p></li>
+</ul>
+</div>
+<div id="consequences-of-the-cox-theorem" class="slide section level1">
+<h1>Consequences of the Cox theorem</h1>
+<ul class="incremental">
+<li>Such interpretation of probability unify statistical inference, probability theory, information theory under one mathematical framework.</li>
+</ul>
+<blockquote>
+<p>&quot;Information theory must precede probability theory and not be based on it.&quot; -- <cite>Kolmogorov</cite></p>
+</blockquote>
+<ul class="incremental">
+<li>E.T. Jaynes derived procedures for multiple hypotheses testing, parameter estimation, significance testing and many more directly from the Cox's theorem.</li>
+</ul>
+<ul class="incremental">
+<li>Often times such derivations yield a new and deeper understanding of the statistical tools.</li>
+</ul>
+</div>
+<div id="final-remark" class="slide section level1">
+<h1>Final remark</h1>
+<blockquote>
+<p>In the future, workers in all the quantitative sciences will be obliged, as a matter of practical necessity, to use probability theory in the manner expounded here.</p>
+<p>-- <cite>E.T. Jaynes. Probability: The Logic of Science</cite></p>
+</blockquote>
+</div>
+</body>
+</html>

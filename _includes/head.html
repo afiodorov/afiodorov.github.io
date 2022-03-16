@@ -1,0 +1,49 @@
+<!-- meta information -->
+<meta charset="utf-8">
+<meta name="description" {% if page.title == "Home" %}
+      content="{{ site.data.brume.description }}" {% else %}
+      content="{{ page.content | strip_html | strip_newlines | truncate: 120 }}" {% endif %}>
+<meta name="author" content="{{ site.data.brume.author }}">
+
+<!-- Enable responsiveness on mobile devices-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+<!-- title -->
+<title>{{ page.title }} &middot; {{ site.data.brume.name }}</title>
+
+<!-- icons -->
+<link rel="shortcut icon" href="{{site.baseurl}}/public/images/favicon.ico" />
+
+<!-- stylesheets -->
+<link rel="stylesheet" href="{{site.baseurl}}/public/css/responsive.gs.12col.css">
+<link rel="stylesheet" href="{{site.baseurl}}/public/css/animate.min.css">
+<link rel="stylesheet" href="{{site.baseurl}}/public/css/main.css">
+<link rel="stylesheet" href="{{site.baseurl}}/public/css/my.css">
+
+<!-- Google fonts -->
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic&subset=latin-ext">
+
+{% if site.paginate %}
+<!-- font Awesome -->
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+{% endif %}
+
+<!-- feed links -->
+<link rel="alternate" href="{{ site.url }}{{ site.baseurl }}/feed.xml" type="application/rss+xml" title="{{ site.name }}">
+
+
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/vega@5.3.5"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@3.2.1"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@4.0.0"></script>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bokeh/1.1.0/bokeh.min.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bokeh/1.1.0/bokeh-widgets.min.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bokeh/1.1.0/bokeh-tables.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bokeh/1.1.0/bokeh.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bokeh/1.1.0/bokeh-widgets.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bokeh/1.1.0/bokeh-tables.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bokeh/1.1.0/bokeh-api.js"></script>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>

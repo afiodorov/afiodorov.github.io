@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <meta name="author" content="Artiom Fiodorov (Tom)" />
+  <title>Probability theory as an extension of logic</title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" type="text/css" media="screen, projection, print"
+    href="http://www.w3.org/Talks/Tools/Slidy2/styles/slidy.css" />
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+  <script src="http://www.w3.org/Talks/Tools/Slidy2/scripts/slidy.js"
+    charset="utf-8" type="text/javascript"></script>
+</head>
+<body>
+<div class="slide titlepage">
+  <h1 class="title">Probability theory as an extension of logic</h1>
+  <p class="author">
+Artiom Fiodorov (Tom)
+  </p>
+  <p class="date">October, 2015</p>
+</div>
+<div id="motivation" class="slide section level1">
+<h1>Motivation</h1>
+<ul>
+<li>A policeman spots an armed person next to a robbery. He quickly concludes that the man is guilty. By what reasoning process?</li>
+<li><img src="./criminal.gif" title="fig:" alt="img" /></li>
+</ul>
+</div>
+<div id="deductive-and-plausible-reasoning" class="slide section level1">
+<h1>Deductive and plausible reasoning</h1>
+<ul>
+<li>Policeman's conclusion couldn't be a logical deduction</li>
+<li>Deductive reasoning consists of the following strong syllogisms:</li>
+<li>if <span class="math inline">\(A\)</span> is true, then <span class="math inline">\(B\)</span> is true
+\begin{align*}
+  \frac{\text{$A$ is true}}{\text{therefore, $B$ is true}}
+  \end{align*}</li>
+<li>\begin{align*}
+  \frac{\text{$B$ is false}}{\text{therefore, $A$ is false}}
+  \end{align*}</li>
+</ul>
+</div>
+<div id="weak-syllogisms" class="slide section level1">
+<h1>Weak syllogisms</h1>
+<ul>
+<li><p>The reasoning of our policeman consists of the following weak syllogisms:</p></li>
+<li>if <span class="math inline">\(A\)</span> is true, then <span class="math inline">\(B\)</span> is true
+\begin{align*}
+  \frac{\text{$A$ is false}}{\text{therefore, $B$ becomes less plausible}}
+  \end{align*}</li>
+<li>\begin{align*}
+  \frac{\text{$B$ is true}}{\text{therefore, $A$ becomes more plausible}}
+  \end{align*}</li>
+</ul>
+</div>
+<div id="crucial-difference" class="slide section level1">
+<h1>Crucial difference</h1>
+<ul>
+<li><p>Strong syllogisms can be chained together without any loss of certainty</p></li>
+<li><p>Weak syllogism have wider applicability</p>
+<p>Most of the reasoning people do consists of weak syllogism.</p></li>
+</ul>
+</div>
+<div id="quantifying-weak-syllogisms" class="slide section level1">
+<h1>Quantifying weak syllogisms</h1>
+<ul class="incremental">
+<li>Question: can we quantify this everyday reasoning?</li>
+</ul>
+<blockquote>
+<p>Answer: yes, using probability theory.</p>
+</blockquote>
+<ul class="incremental">
+<li>Cox's theorem (1946) states that any system for plausibility reasoning that satisfies certain commonsense requirements is isomorphic to probability theory.</li>
+</ul>
+<ul class="incremental">
+<li>Cox's theorem relies on a few assumptions. Whilst those assumptions are not necessarily how humans always think, it might well something be something that rational people might want to adopt into their way of thinking.</li>
+</ul>
+</div>
+<div id="objectives-of-this-talk" class="slide section level1">
+<h1>Objectives of this talk</h1>
+<ul>
+<li>Goal 1: show that probability theory can be regarded as an extension of logic</li>
+<li>Goal 2: relate such notion of probability to other approaches of interpreting probability</li>
+<li>Goal 3: show applications of probability theory used as logic</li>
+</ul>
+</div>
+<div id="preliminary-notation" class="slide section level1">
+<h1>Preliminary notation</h1>
+<ul>
+<li>Proposition: unambiguous statement that is either true or false</li>
+<li>Compounded proposition: constructed from other propositions using <em>negation</em> (<span class="math inline">\(\neg\)</span>), <em>and</em> (<span class="math inline">\(\wedge\)</span>), <em>or</em> (<span class="math inline">\(\vee\)</span>), <em>implies</em> (<span class="math inline">\(\implies\)</span>), or <em>equivalence</em> (<span class="math inline">\(\iff\)</span>)</li>
+<li>Atomic proposition: the one that can not be decomposed</li>
+</ul>
+</div>
+<div id="introducing-state-of-knowledge" class="slide section level1">
+<h1>Introducing state of knowledge</h1>
+<ul>
+<li><p>A state of information <span class="math inline">\(X\)</span> summarises the information we have about some set of atomic propositions <span class="math inline">\(A\)</span>, called the basis of <span class="math inline">\(X\)</span>, and their relationships to each other. The domain of <span class="math inline">\(X\)</span> is the logical closure of <span class="math inline">\(A\)</span>.</p></li>
+<li>Write <span class="math inline">\((A | X)\)</span> for the plausibility we assign to <span class="math inline">\(A\)</span> given the information in <span class="math inline">\(X\)</span>.</li>
+<li><p><span class="math inline">\(A, X\)</span> is the state of information obtained from <span class="math inline">\(X\)</span> by adding the additional information that <span class="math inline">\(A\)</span> is true.</p></li>
+</ul>
+</div>
+<div id="assumption-real-valued" class="slide section level1">
+<h1>Assumption: Real-valued</h1>
+<ul>
+<li><p><strong>(R1)</strong> (A | X) is a single real number. There exists a single real number <span class="math inline">\(T\)</span> such that <span class="math inline">\((A | X) \leq T\)</span> for every <span class="math inline">\(X\)</span> and <span class="math inline">\(A\)</span>.</p>
+<ul>
+<li>Higher numbers should represent higher degree of plausibility. Avoid dealing with <span class="math inline">\(+\infty\)</span> by invoking <span class="math inline">\(f(x) = \arctan(x)\)</span></li>
+</ul></li>
+<li><p><span class="math inline">\(X\)</span> is <em>consistent</em> if there's no proposition <span class="math inline">\(A\)</span> such that <span class="math inline">\((A | X) = T\)</span> and <span class="math inline">\((\neg A | X) = T\)</span>.</p></li>
+</ul>
+</div>
+<div id="assumption-common-sense" class="slide section level1">
+<h1>Assumption: &quot;Common sense&quot;</h1>
+<ul>
+<li><p><strong>(R2)</strong> Plausibility assignment are compatible with propositional calculus</p>
+<ol style="list-style-type: decimal">
+<li>If <span class="math inline">\(A\)</span> is equivalent to <span class="math inline">\(A&#39;\)</span> then <span class="math inline">\((A | X)\)</span> = <span class="math inline">\((A&#39; | X)\)</span></li>
+<li>if <span class="math inline">\(A\)</span> is a tautology then <span class="math inline">\((A | X)\)</span> = T</li>
+<li><span class="math inline">\((A | B, C, X) = (A | (B \wedge C), X)\)</span></li>
+<li>if <span class="math inline">\(X\)</span> is consistent and <span class="math inline">\((\neg A | X) &lt; T\)</span>, then A, X is also consistent</li>
+</ol></li>
+</ul>
+</div>
+<div id="assumption-certainty-of-a-belief-is-singled-valued" class="slide section level1">
+<h1>Assumption: Certainty of a belief is singled valued</h1>
+<ul>
+<li><p><strong>(R3)</strong> There exists a non increasing function <span class="math inline">\(S_0\)</span> such that <span class="math inline">\((\neg A | X) = S_0 ( A | X)\)</span> for all <span class="math inline">\(A\)</span> and consistent X.</p>
+<ul>
+<li>If <span class="math inline">\((A | X)\)</span> and <span class="math inline">\((\neg A | X)\)</span> vary independently from each other then we have a two-dimensional theory as we need 2 numbers to characterise our uncertainty about <span class="math inline">\((A | X)\)</span></li>
+</ul></li>
+<li><p>Proposition: <span class="math inline">\(F := S_0(T)\)</span>. Then <span class="math inline">\(F \leq (A | X) \leq T\)</span> for all <span class="math inline">\(A\)</span> and consistent X.</p></li>
+</ul>
+</div>
+<div id="assumption-universality" class="slide section level1">
+<h1>Assumption: Universality</h1>
+<ul>
+<li><p><strong>(R4)</strong> (Universality) There exists a nonempty set of real numbers <span class="math inline">\(P_0\)</span> with the following two properties</p>
+<ul>
+<li><span class="math inline">\(P_0\)</span> is a dense subset of <span class="math inline">\((F, T)\)</span></li>
+<li>For every <span class="math inline">\(y_1, y_2, y_3 \in P_0\)</span> there exists some consistent <span class="math inline">\(X\)</span> with a basis of at least three atomic propositions <span class="math inline">\((A_1, A_2, A_3)\)</span>, such that <span class="math inline">\((A_1 | X) = y_1\)</span>, <span class="math inline">\((A_2 | A_1, X) = y_2\)</span> and <span class="math inline">\((A_3 | A_1, A_2, X) = y_3\)</span>.</li>
+</ul></li>
+</ul>
+</div>
+<div id="last-assumption-conjunction" class="slide section level1">
+<h1>Last assumption: Conjunction</h1>
+<ul>
+<li><p><strong>(R5)</strong> (Conjunction) There exists a continuous function <span class="math inline">\(F:[F, T]^2 \to [F, T]\)</span>, such that <span class="math inline">\((A \wedge B | X) = F((A | B, X), (B | X))\)</span> for any <span class="math inline">\(A, B\)</span> and consistent <span class="math inline">\(X\)</span>.</p>
+<ul>
+<li>definition of <span class="math inline">\(F\)</span> could be narrowed down to just 4 possibilites consistently with previous axioms.</li>
+</ul></li>
+<li><p>Heuristic: for <span class="math inline">\(A \wedge B\)</span> to be true <span class="math inline">\(B\)</span> has to be true so <span class="math inline">\((B | X)\)</span> is needed. If <span class="math inline">\(B\)</span> is false then <span class="math inline">\(A \wedge B\)</span> is false independently of <span class="math inline">\(A\)</span>, so <span class="math inline">\((A | X)\)</span> is not needed if <span class="math inline">\((A | B, X)\)</span> and <span class="math inline">\((B | X)\)</span> are known.</p></li>
+</ul>
+</div>
+<div id="coxs-theorem" class="slide section level1">
+<h1>Cox's theorem</h1>
+<p>There exists a continuous, strictly increasing function <span class="math inline">\(p\)</span> such that, for every <span class="math inline">\(A, B\)</span> consistent with <span class="math inline">\(X\)</span>,</p>
+<ol style="list-style-type: decimal">
+<li><span class="math inline">\(p(A | X) = 0\)</span> iff <span class="math inline">\(A\)</span> is known to be false given the information in <span class="math inline">\(X\)</span>.</li>
+<li><span class="math inline">\(p(A | X) = 1\)</span> iff <span class="math inline">\(A\)</span> is known to be true given the information in <span class="math inline">\(X\)</span>.</li>
+<li><span class="math inline">\(0 \leq p(A | X) \leq 1\)</span>.</li>
+<li><span class="math inline">\(p(A\wedge B | X) = p(A | X)p(B | A, X)\)</span>.</li>
+<li><span class="math inline">\(p(\neg A | X) = 1 - p(A | X)\)</span> if <span class="math inline">\(X\)</span> is consistent.</li>
+</ol>
+</div>
+<div id="what-about-kolmogorovs-axioms" class="slide section level1">
+<h1>What about Kolmogorov's axioms?</h1>
+<p>Kolmogorov's probability is defined on a sample space <span class="math inline">\(\Omega\)</span> with an event space <span class="math inline">\(F\)</span> which forms a <span class="math inline">\(\sigma\)</span>-algebra</p>
+<ol style="list-style-type: decimal">
+<li><span class="math inline">\(P(E) \in \mathbb{R}, P(E) \geq 0 \quad \forall E \in F\)</span></li>
+<li><span class="math inline">\(P(\Omega) = 1\)</span></li>
+<li><span class="math inline">\(P \left( \bigcup_{i = 1}^{\infty} E_i \right) = \sum_{i = 1}^{\infty} P(E_i)\)</span> for any countable sequence of disjoint events sets.</li>
+</ol>
+<p>Example: Coin toss. Then <span class="math inline">\(\Omega = \{H, T\}\)</span>, <span class="math inline">\(F = \{ \emptyset, \{H\}, \{T\}, \{H, T\} \}\)</span>. Sample measure <span class="math inline">\(P\)</span> is then just <span class="math inline">\(P(\{H\}) = P(\{T\}) = 1/2\)</span>, <span class="math inline">\(P(\emptyset) = 0\)</span>, <span class="math inline">\(P(\{H, T\}) = 1\)</span>.</p>
+</div>
+<div id="comparisons-of-coxs-approach-with-kolmogorovs" class="slide section level1">
+<h1>Comparisons of Cox's approach with Kolmogorov's</h1>
+<ul class="incremental">
+<li>Closure of propositions under (AND, NOT) is remarkably similar to the definition of <span class="math inline">\(\sigma\)</span>-algebra. However, care must be taken with regards to countable AND application: but could be dealt with taking a well-behaved limit.</li>
+</ul>
+<ul class="incremental">
+<li>Not all statements could be meaningfully decomposed into a sum of disjoint primitive events, for example &quot;it will rain tomorrow&quot;.</li>
+</ul>
+<ul class="incremental">
+<li>The principles for assigning probabilities by logical analysis of incomplete information is not present at all in Kolmogorov system.</li>
+</ul>
+</div>
+<div id="frequencies-go-via-maxent-route" class="slide section level1">
+<h1>Frequencies? Go via MaxEnt route</h1>
+<ul>
+<li><p>To relate frequencies with plausibilities we will use MaxEnt principle</p></li>
+<li>Imagine rolling a die some large number of times and observing that the average of all rolls is <span class="math inline">\(4\)</span>. What is the probability distribution one should assign to such a die?</li>
+<li><p><span class="math inline">\(1/6\)</span> to each outcome is ruled out as the average would be <span class="math inline">\(3.5\)</span>.</p></li>
+</ul>
+<div class="incremental">
+<ul>
+<li><p>Solution: out of all probability distributions that average to <span class="math inline">\(4\)</span> pick the one which maximise the <em>information</em> entropy: <span class="math inline">\(\sum_{j = 1}^{6} -p_j \log p_j\)</span>.</p>
+<ul>
+<li>The answer is: <span class="math inline">\(0.11, 0.12, 0.14, 0.17, 0.21, 0.25\)</span>.</li>
+<li>But why this is the right thing to do?</li>
+</ul></li>
+</ul>
+</div>
+</div>
+<div id="derivation-of-maxent.-notation." class="slide section level1">
+<h1>Derivation of MaxEnt. Notation.</h1>
+<p>Start with <span class="math inline">\(n\)</span> independent trials, each with different <span class="math inline">\(m\)</span> outcomes.</p>
+<p>Each sample is then just a string of length <span class="math inline">\(n\)</span>:</p>
+<p><span class="math display">\[ 1, m-1, m-2, 5, 6, 7, 3, 1, 2, 3, 5, 7\]</span></p>
+<p>So sample space is <span class="math inline">\(S^n = \{1, 2, \dots, m\}^n\)</span> such that <span class="math inline">\(|S^n| = m^n\)</span>.</p>
+<div class="incremental">
+<p>Start with &quot;ignorance knowledge&quot; <span class="math inline">\(I_0\)</span> i.e.</p>
+<p><span class="math display">\[ P(A | I_0) = \frac{M(n, A)}{|S^n|} \,,\]</span></p>
+<p>where the multiplicity of <span class="math inline">\(A\)</span>, <span class="math inline">\(M(n, A)\)</span>, is just the number of distinct strings in <span class="math inline">\(S^n\)</span> such that <span class="math inline">\(A\)</span> is true.</p>
+</div>
+</div>
+<div id="breaking-down-multiplicity-mn-a-into-a-sum" class="slide section level1">
+<h1>Breaking down multiplicity <span class="math inline">\(M(n, A)\)</span> into a sum</h1>
+<p>Denote by <span class="math inline">\(n_1, n_2, \dots n_m\)</span> the number of times the trial came up with result <span class="math inline">\(1, 2, \dots, m\)</span> respectfully.</p>
+<p>If the string is <span class="math inline">\(1, 2, 1, 2, 2, 2, 3\)</span>, then <span class="math inline">\((n_1, n_2, n_3) = (2, 4, 1)\)</span>.</p>
+<div class="incremental">
+<p>Suppose we have a restriction <span class="math inline">\(R\)</span> where <span class="math inline">\(A(n_1, n_2, \dots, n_m)\)</span> is true. If <span class="math inline">\(A\)</span> is linear in <span class="math inline">\(n_j\)</span> then</p>
+<p><span class="math display">\[ M(n, A) = \sum_{n_j \in R} \frac{n!}{n_1!n_2!\dots n_m!} \]</span></p>
+</div>
+</div>
+<div id="explicit-example" class="slide section level1">
+<h1>Explicit example:</h1>
+<p>Rolling a die <span class="math inline">\(20\)</span> times. <span class="math inline">\(A = \text{average roll is 4}\)</span>. Then pick <span class="math inline">\((n_1, n_2, n_3, n_4, n_5, n_6)\)</span> so that <span class="math inline">\(\sum n_i = 20\)</span>. If <span class="math inline">\(\sum i * n_i = 4 * 20 = 80\)</span>, include the multinomial coefficient in the calculation of multiplicity of <span class="math inline">\(A\)</span>:</p>
+\begin{align*}
+M(20, A) = \frac{20!}{1!1!1!12!4!1!} + \frac{20!}{1!1!1!13!2!2!} +
+\frac{20!}{1!1!2!10!5!1!} + \cdots
+\end{align*}
+<p>There are <span class="math inline">\(283\)</span> terms in the summation.</p>
+</div>
+<div id="deriving-maxent-principle.-finally." class="slide section level1">
+<h1>Deriving MaxEnt principle. Finally.</h1>
+<p>Let <span class="math inline">\(W_{\max} = \max_{R} \frac{n!}{n_1! n_2! \dots n_m!}\)</span>. Then</p>
+<p><span class="math display">\[ W_{\max} \leq M(n, A) \leq W_{\max} * \frac{(n + m - 1)!}{n! (m - 1)!} \]</span></p>
+<div class="incremental">
+<p>Can be seen that <span class="math inline">\(\text{\# of terms} \sim n^{m-1} / (n-1)!\)</span>, so</p>
+<p><span class="math display">\[ \frac{1}{n} \log M(n, A) \to \frac{1}{n} \log (W_{\max}) \text{ as }
+n \to \infty\]</span></p>
+</div>
+<div class="incremental">
+<p>Introduce frequency distribution <span class="math inline">\(f_j = n_j / n\)</span>. If <span class="math inline">\(f_j\)</span>'s tend to constants as <span class="math inline">\(n \to \infty\)</span>, use Stirling's approximation</p>
+<p><span class="math display">\[ \frac{1}{n} \log M(n, A) \to H := - \sum_{j = 1}^{m} f_j \log f_j \,.\]</span></p>
+<p>So the multiplicity can be found by determining the frequency distribution <span class="math inline">\(\{ f_j \}\)</span> which maximises entropy subject to <span class="math inline">\(R\)</span>.</p>
+</div>
+</div>
+<div id="convergence-of-bayesian-probabilities-with-frequentists" class="slide section level1">
+<h1>Convergence of Bayesian probabilities with Frequentists</h1>
+<p>We can further show that for <span class="math inline">\(A = \sum_{i=1}^{m} g_i n_i\)</span>,</p>
+<p><span class="math display">\[ P(\text{trial}_i = j | A, n, I_0) = \frac{M(n - 1, A - g_j)}{M(n, G)} = f_j \,. \]</span></p>
+<div class="incremental">
+<p>(Trick) set <span class="math inline">\(g_1 = \pi, g_2 = e\)</span>. If <span class="math inline">\(A(n_2, n_2) = 3 \pi + 5 e\)</span> is true, then <span class="math inline">\((n_1, n_2) = (3, 5)\)</span>. Can be shown that</p>
+<p><span class="math display">\[ P(\text{trial}_i = j | \{n_j\}, n, I_0) = \frac{n_j}{n} \]</span></p>
+<ul>
+<li>So even started with ignorant information <span class="math inline">\(I_0\)</span>, we nevertheless produce the standard results.</li>
+</ul>
+</div>
+</div>
+<div id="so-why-does-heat-flow-from-hot-objects-to-cold-objects" class="slide section level1">
+<h1>So why does heat flow from hot objects to cold objects?</h1>
+<div class="figure">
+<img src="./disorder.png" alt="disorder increases" />
+<p class="caption">disorder increases</p>
+</div>
+<ul class="incremental">
+<li>Enumerate energy states for each particle: <span class="math inline">\(\{E_i^A\}, \{E_j^B\}\)</span></li>
+</ul>
+<ul class="incremental">
+<li>No heat exchange. a) <span class="math inline">\(\sum_{i \text{ odd}} P_i E_i = \bar{E}_A\)</span> and b) <span class="math inline">\(\sum_{i \text{ even}} P_{i} E_i = \bar{E}_B\)</span> c) <span class="math inline">\(\sum_{i \text{ odd}} P_i = \sum_{i \text{ even}} P_i = 1/2\)</span>.</li>
+</ul>
+<ul class="incremental">
+<li>With heat exchange. One restriction: d) <span class="math inline">\(\sum_i P_{i} E_i = \bar{E}_A + \bar{E}_B\)</span>.</li>
+</ul>
+<ul class="incremental">
+<li>Restrictions a) &amp; b) &amp; c) <span class="math inline">\(=&gt;\)</span> d) but <span class="math inline">\(d)\)</span> <span class="math inline">\(\nRightarrow\)</span> a) &amp; b) &amp; c). So entropy is bigger under just d).</li>
+</ul>
+</div>
+<div id="intro-into-central-limit-theorem." class="slide section level1">
+<h1>Intro into Central Limit Theorem.</h1>
+<div class="figure">
+<img src="./dice.png" alt="CLT" />
+<p class="caption">CLT</p>
+</div>
+</div>
+<div id="maxent-explains-central-limit-theorem." class="slide section level1">
+<h1>MaxEnt explains Central Limit Theorem.</h1>
+<p>Let <span class="math inline">\(X_1, X_2, \dots, X_n\)</span> be independent, identically distributed random variables. Then</p>
+<p><span class="math display">\[ \frac{X_1 + X_2 + \dots + X_n - n \mu}{\sqrt{n}} \to \mathcal{N}(0, 1)\]</span></p>
+<p>Why convergence? Why Gaussian?</p>
+<div class="incremental">
+<p>Turns out: convolution: <span class="math inline">\(X + Y\)</span> is &quot;forgetful&quot;, but keeps mean and variance fixed. And Gaussian is the MaxEnt-distribution with prescribed mean and variance.</p>
+</div>
+</div>
+<div id="the-wisdom-of-crowds-revisited." class="slide section level1">
+<h1>The Wisdom of Crowds Revisited.</h1>
+<ul>
+<li><p>Ask everyone in China about the height of the Emperor.</p>
+<ol style="list-style-type: lower-alpha">
+<li>Everyone's error is no more than <span class="math inline">\(\pm 1\)</span> meter.</li>
+<li>There are <span class="math inline">\(10^9\)</span> inhabitants.</li>
+<li><span class="math inline">\(1/\sqrt{10^9} \approx 3*10^{-5}\)</span> accuracy by averaging everyone's guess?</li>
+</ol></li>
+<li><p>What assumption of the CLT is broken?</p></li>
+</ul>
+<div class="incremental">
+<ul>
+<li><p>Logical independence: <span class="math inline">\(P(A|BC) = P(A|C)\)</span>, so knowledge that <span class="math inline">\(B\)</span> is true does not affect the probability we assign to A.</p></li>
+<li><p>Causal independence: no physical cause.</p>
+<p>Note: neither imply the other.</p></li>
+</ul>
+</div>
+</div>
+<div id="advantages-of-bayesian-methods." class="slide section level1">
+<h1>Advantages of Bayesian methods.</h1>
+<ul class="incremental">
+<li>Bayesian methods unify statistical inference, probability theory, information theory under one mathematical framework.</li>
+</ul>
+<blockquote>
+<p>&quot;Information theory must precede probability theory and not be based on it.&quot; -- <cite>Kolmogorov</cite></p>
+</blockquote>
+<ul class="incremental">
+<li>E.T. Jaynes derived procedures for multiple hypotheses testing, parameter estimation, significance testing and many more directly from the Cox's theorem.</li>
+</ul>
+<ul class="incremental">
+<li>Often times such derivations yield a new and deeper understanding of the statistical tools.</li>
+</ul>
+</div>
+<div id="some-objections-to-the-use-of-bayesian-framework-addressed" class="slide section level1">
+<h1>Some objections to the use of Bayesian framework addressed</h1>
+<ul class="incremental">
+<li>Scientists shouldn't feed their prejudices into the result.</li>
+</ul>
+<ul class="incremental">
+<li>Counterargument 1: Probability is subjectively objective. Two Bayesians starting with the same state of information must arrive at the same conclusion. They are violating one of Cox's axioms otherwise.</li>
+</ul>
+<ul class="incremental">
+<li>Counterargument 2: Data can't speak for itself.</li>
+</ul>
+</div>
+<div id="whether-data-support-the-hypothesis-depends-on-alternatives-and-prior-information" class="slide section level1">
+<h1>Whether data support the hypothesis depends on alternatives and prior information</h1>
+<p>There are 2 worlds:</p>
+<ul>
+<li>World 1: there are two million birds, <span class="math inline">\(100\)</span> are crows, all black.</li>
+<li>World 2: there are 2 million birds, <span class="math inline">\(200,000\)</span> are black crows, <span class="math inline">\(1,800,000\)</span> are white crows.</li>
+</ul>
+<p>Then observing a black crow is evidence against the hypothesis that all crows are black.</p>
+<p>Same data can be evidence against and for same hypothesis.</p>
+</div>
+<div id="applications-in-everyday-thinking." class="slide section level1">
+<h1>Applications in everyday thinking.</h1>
+<ul class="incremental">
+<li>(Jaynes) Divergence views. 2 people exposed to a large number of same data don't have to agree.</li>
+</ul>
+<ul class="incremental">
+<li>(Jaynes) You can't prove yourself right in plausibility reasoning. You can only make predictions. If the predictions are correct - you learn nothing new!</li>
+</ul>
+</div>
+<div id="final-remarks" class="slide section level1">
+<h1>Final remarks</h1>
+<blockquote>
+<p>Many of our applications lie outside the scope of conventional probability theory as currently taught. But we think that the results will speak for themselves, and that something like the theory expounded here will become the conventional probability theory of the future.</p>
+<p>-- <cite>E.T. Jaynes. Probability: The Logic of Science</cite></p>
+</blockquote>
+<div class="incremental">
+<blockquote>
+<p>A scientist who has learned how to use probability theory directly as extended logic has a great advantage in power and versatility over one who has learned only a collection of unrelated ad hoc devices. As the complexity of our problems increases, so does this relative advantage. Therefore we think that, in the future, workers in all the quantitative sciences will be obliged, as a matter of practical necessity, to use probability theory in the manner expounded here.</p>
+<p>-- <cite>E.T. Jaynes. Probability: The Logic of Science</cite></p>
+</blockquote>
+</div>
+</div>
+</body>
+</html>

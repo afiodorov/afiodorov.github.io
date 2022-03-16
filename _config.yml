@@ -1,0 +1,25 @@
+markdown: kramdown
+syntax_highlighter_opts:
+  enable_coderay: true
+  coderay:
+    line_numbers: nil
+    css: style
+
+permalink: pretty
+paginate: 3
+
+title: "Nerdy blog"
+author: "Tom Artiom Fiodorov"
+email: "a.fiodorov@yahoo.co.uk"
+url: "https://afiodorov.github.io"
+baseurl:
+highlighter: "rouge"
+
+redcarpet:
+  extensions: [strikethrough, tables]
+
+sass:
+  sass_dir: public/css
+  style: :compressed
+
+gems: [jekyll-paginate]

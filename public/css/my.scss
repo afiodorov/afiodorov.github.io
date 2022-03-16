@@ -1,0 +1,33 @@
+---
+---
+
+// start content
+.hidden p {
+  visibility:hidden;
+}
+
+.hidden:hover p {
+  visibility:visible;
+}
+
+.hidden span {
+  visibility:hidden;
+}
+
+.hidden:hover span {
+  visibility:visible;
+}
+
+.hidden div {
+  visibility:hidden;
+}
+
+.hidden:hover div {
+  visibility:visible;
+}
+
+.center-image
+{
+    margin: 0 auto;
+        display: block;
+}
