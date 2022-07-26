@@ -45,7 +45,7 @@ common: like the octopus. Although that's probably because of the shared
 cuisine with their Northern neighbour: Galicia. The languages don't sound the
 same at all. In fact many people say the Portuguese phonetically resemble some
 kind of Slavic language. And to my ear this is completely true. The first day I
-kept wondering why everyone is speaking Polish around here. Reasons for the
+kept wandering why everyone is speaking Polish around here. Reasons for the
 similarity are coincidental: Slavic & Portuguese are stress-timed languages and
 feature many sounds like sh/zh and other constant clusters that make them
 sounds somewhat similar especially if are not paying much attention.
