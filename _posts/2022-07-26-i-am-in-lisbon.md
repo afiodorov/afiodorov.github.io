@@ -41,7 +41,7 @@ of the Spanish - it happened because of some blood ties of the royal families.
 
 The similarities I see are more to do with the climate: dinners are very
 late, people never seem to be in a rush. Some ingredients and dishes are in
-common: like the octopus. Although that's probable because of the shared
+common: like the octopus. Although that's probably because of the shared
 cuisine with their Northern neighbour: Galicia. The languages don't sound the
 same at all. In fact many people say the Portuguese phonetically resemble some
 kind of Slavic language. And to my ear this is completely true. The first day I
