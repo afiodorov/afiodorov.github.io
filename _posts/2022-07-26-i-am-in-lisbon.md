@@ -75,7 +75,7 @@ e-reader and thinking about what to write.
 I am staying here at a very modest hotel, especially given its price. There's
 no swimming pool, my room is tiny, nor do I agree with their liberal use
 of the word gym. Sure, a room with a few kettlebells is a gym. The city centre
-is full of hotels. So what brings all the people here then? For me it's a
+is full of hotels. So what brings all the people then? For me it's a
 combination of factors. Lisbon has become popular with remote workers,
 especially crypto-bros because of the taxation. It's a lively city with a good
 climate and prices still lower than other European capitals. I see the appeal.
