@@ -18,7 +18,7 @@ thinking it's more b) than a).
 
 Greeted by the transit person who was responsible for getting me to the hotel
 (most hotel bookings here include a taxi transfer), I found out she's Brazilian
-and so is the taxi driver. Took her few minutes of knowing me to complain about
+and so is the taxi driver. Took her a few minutes of knowing me to complain about
 the Portuguese: she said she moved from Porto to Lisbon because Portuguese
 there "don't like Brazilians much". Woaaa. Felt like getting to know a group of
 good friends who instantly started gossiping about one another.
