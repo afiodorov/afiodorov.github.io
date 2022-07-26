@@ -73,7 +73,7 @@ e-reader and thinking about what to write.
 ![belem]({{ site.baseurl }}/assets/lisboa_IMG_0290.HEIC.jpg)
 
 I am staying here at a very modest hotel, especially given its price. There's
-no swimming pool here, my room is tiny, nor do I agree with their liberal use
+no swimming pool, my room is tiny, nor do I agree with their liberal use
 of the word gym. Sure, a room with a few kettlebells is a gym. The city centre
 is full of hotels. So what brings all the people here then? For me it's a
 combination of factors. Lisbon has become popular with remote workers,
