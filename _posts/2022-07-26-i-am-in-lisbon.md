@@ -103,7 +103,7 @@ better things to do than to have kids. Appears current solution to the problem
 is to import people from the ex colonies. And so there are Angolian, Mozambican
 and, of course, Brazilian restaurants here. So far I've only tried one
 Brazilian dish (moqueca de peixe), and it was a very rich explosion of exotic,
-spicy flavours. After having the incredible dishe and being exposed to the
+spicy flavours. After having the incredible dish and being exposed to the
 catchy music I must admit it is tempting to pick up some basic Portuguese
 and travel through Brazil as my next journey.
 
