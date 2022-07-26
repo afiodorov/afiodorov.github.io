@@ -51,7 +51,7 @@ feature many sounds like sh/zh and other constant clusters that make them
 sounds somewhat similar especially if are not paying much attention.
 
 However, there is one similarity in (slang) Spanish and Portuguese languages I
-noticed is the frequency of the AO diphthong. I always wondered why Maluma
+noticed: the frequency of the AO diphthong. I always wondered why Maluma
 sings 'ya que estoy tomA'O' even though he's Colombian. I currently suspect
 this A'O thing is a Brazilian influence on the Latin Spanish to make it sound
 cool. Coincidently same A'O diphthong can be heard in the Galician accent,
