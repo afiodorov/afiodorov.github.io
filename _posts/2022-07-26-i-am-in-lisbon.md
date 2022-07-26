@@ -5,7 +5,7 @@ title: I am in Lisbon
 
 I am on my summer break and it didn't take me long to get to Lisbon, Portugal.
 I flew from Canary Islands and did not know what to expect. I've only been here
-3.5 days but slowly I forming a picture.
+3.5 days but slowly I am forming a picture.
 
 Approaching Lisbon I saw red-bricked roofs of the houses and many hills and it
 instantly reminded me of Vilnius, Lithuania. However right at the airport
