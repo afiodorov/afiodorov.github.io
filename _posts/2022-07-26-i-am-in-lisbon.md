@@ -50,12 +50,12 @@ similarity are coincidental: Slavic & Portuguese are stress-timed languages and
 feature many sounds like sh/zh and other constant clusters that make them
 sounds somewhat similar especially if are not paying much attention.
 
-However, there is one similarity in (slang) Spanish and Portuguese languages I
-noticed: the frequency of the AO diphthong. I always wondered why Maluma
-sings 'ya que estoy tomA'O' even though he's Colombian. I currently suspect
-this A'O thing is a Brazilian influence on the Latin Spanish to make it sound
-cool. Coincidently same A'O diphthong can be heard in the Galician accent,
-language most similar to Portuguese. Satisfying when all pieces fit.
+However, there is one similarity in (slang) Spanish and Portuguese languages:
+the frequency of the AO diphthong. I always wondered why Maluma sings 'ya que
+estoy tomA'O' even though he's Colombian. I currently suspect this A'O thing is
+a Brazilian influence on the Latin Spanish to make it sound cool. Coincidently
+same A'O diphthong can be heard in the Galician accent, language most similar
+to Portuguese. Satisfying when all pieces fit.
 
 I digressed. Lisbon itself turned out be smaller in the population size than I
 thought it would be. Hosting just 500 thousand inhabitants - it is only 30%
