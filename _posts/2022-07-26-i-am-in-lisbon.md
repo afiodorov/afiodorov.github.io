@@ -37,7 +37,7 @@ brother. And it is not - as simple as that. The easiest way to offend everyone
 in this country is to say 'gracias' instead of 'obligado'. Portugal has a
 distinct national identity. Apart from a brief period of the union with
 Castilla they remained largely independent. Even the union was never a conquest
-of the Spanish - it happened because of some blood ties of the royal families.
+by the Spanish - it happened because of some blood ties of the royal families.
 
 The similarities I see are more to do with the climate: dinners are very
 late, people never seem to be in a rush. Some ingredients and dishes are in
