@@ -39,7 +39,7 @@ distinct national identity. Apart from a brief period of the union with
 Castilla they remained largely independent. Even the union was never a conquest
 of the Spanish - it happened because of some blood ties of the royal families.
 
-The similarities I noticed are more to do with the climate: dinners are very
+The similarities I see are more to do with the climate: dinners are very
 late, people never seem to be in a rush. Some ingredients and dishes are in
 common: like the octopus. Although that's probable because of the shared
 cuisine with their Northern neighbour: Galicia. The languages don't sound the
