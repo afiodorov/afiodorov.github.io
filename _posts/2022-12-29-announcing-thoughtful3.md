@@ -19,7 +19,7 @@ smartcontract & pure typescript (no libraries like React) for the front end.
 Code of the project can be found [here][Code].
 
 I didn't know much about Metamask (extension that allows you to interact with
-Ethereum network) nor modern JabaScript 6 days ago and heavily used ChatGPT3 to
+Ethereum network) nor modern JavaScript 6 days ago and heavily used ChatGPT3 to
 generate boilerplate code for me & used DALL-E to generate a logo.
 
 [Thoughful3]: https://thoughtful3.eth.limo/
