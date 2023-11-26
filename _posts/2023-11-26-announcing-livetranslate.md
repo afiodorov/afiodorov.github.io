@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Releasing Livetranslate
+title: Releasing LiveTranslate: automatic simultaneous translation
 ---
 
 I am tired of Americanism: consuming in the Anglosphere sometimes makes me feel
