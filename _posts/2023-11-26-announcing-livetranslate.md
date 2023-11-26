@@ -48,4 +48,10 @@ and are looking for a way to integrate programming skills with language
 translation. The hope is that as LLMs improve in latency, so too will the
 capabilities of LiveTranslate.
 
+## Demo
+
+![Demo of the livetranslate](https://github.com/afiodorov/livetranslate/raw/main/demo.gif)
+
+
 [LiveTranslate]: https://github.com/afiodorov/livetranslate
+
