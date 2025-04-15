@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vibe-bloggin: Why I Prefer Bottom-Up Programming"
+title: "Vibe-blogging: Why I Prefer Bottom-Up Programming"
 date: 2025-04-15
 ---
 
